@@ -1,0 +1,11 @@
+task1:
+
+hadoop jar [task1.jar] [arg1] [arg2] [arg3]
+
+task1.jar: jar包名称
+arg1：nameList位置
+arg2：测试数据集路径
+arg3：输出文件路径
+
+
+task2:
