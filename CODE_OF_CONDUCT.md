@@ -151,4 +151,11 @@ public void map(LongWritable key, Text value, Context context) throws IOExceptio
 
 6. 在`PROJECT_IDEA.md`中写下你实现的思路和细节。
 
-7. 将代码上传到github，等待其他组员PR。
+7. 将代码上传到github，等待其他组员PR。PR的一般提交格式如下：
+```
+1.本次PR做了什么工作
+
+2.本次PR修复了什么BUG
+
+3.本次PR新增/删除了哪些文件，新增的文件是什么
+```
