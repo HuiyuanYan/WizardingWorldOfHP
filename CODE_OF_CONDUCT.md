@@ -131,7 +131,7 @@ public void map(LongWritable key, Text value, Context context) throws IOExceptio
 │       └── java
 └── target
 ```
-
+首先根据[here](https://blog.csdn.net/CY2333333/article/details/113731490)的教程将代码fork到本地仓库（PR的时候也参考此教程）。
 完成task时（以task1）举例，你需要：
 
 1. 在`src/main/java`下对应的task编写相应的类。且必须包含：
