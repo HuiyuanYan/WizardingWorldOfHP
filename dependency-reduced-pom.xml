@@ -33,7 +33,7 @@
           </filters>
           <transformers>
             <transformer>
-              <mainClass>task1.task1Driver</mainClass>
+              <mainClass>task2.Task2Driver</mainClass>
             </transformer>
           </transformers>
         </configuration>
