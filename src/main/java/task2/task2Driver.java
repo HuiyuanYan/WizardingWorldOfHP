@@ -14,7 +14,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 import java.io.*;
 
-public class Task2Driver {
+public class task2Driver {
     public static class StringPair
             implements WritableComparable<StringPair> {
         private String _first_name;
@@ -29,7 +29,7 @@ public class Task2Driver {
             _first_name="";
             _second_name="";
         }
-        StringPair(String first_name,String second_name){
+        public StringPair(String first_name,String second_name){
             _first_name=first_name;
             _second_name=second_name;
         }
@@ -77,10 +77,10 @@ public class Task2Driver {
         }
 
         Job job = Job.getInstance(conf, "HPTask2");
-        job.setJarByClass(Task2Driver.class);
-        job.setMapperClass(Task2Mapper.class);
-        job.setReducerClass(Task2Reducer.class);
-        job.setPartitionerClass(Task2Partitioner.class);
+        job.setJarByClass(task2Driver.class);
+        job.setMapperClass(task2Mapper.class);
+        job.setReducerClass(task2Reducer.class);
+        job.setPartitionerClass(task2Partitioner.class);
 
         //设置map输出的key类型
         job.setMapOutputKeyClass(StringPair.class);

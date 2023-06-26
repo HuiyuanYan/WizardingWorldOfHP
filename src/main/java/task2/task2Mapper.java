@@ -6,8 +6,8 @@ import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
 
-public class Task2Mapper
-        extends Mapper<Object, Text, Task2Driver.StringPair, IntWritable> {
+public class task2Mapper
+        extends Mapper<Object, Text, task2Driver.StringPair, IntWritable> {
     private IntWritable _one=new IntWritable(1);
     @Override
     public void map(Object key, Text value, Context context)
@@ -18,8 +18,8 @@ public class Task2Mapper
             for(int i=0;i<names.length;i++){
                 for(int j=i+1;j<names.length;j++){
                     if(!names[i].equals(names[j])) {
-                        context.write(new Task2Driver.StringPair(names[i], names[j]), _one);
-                        context.write(new Task2Driver.StringPair(names[j], names[i]), _one);
+                        context.write(new task2Driver.StringPair(names[i], names[j]), _one);
+                        context.write(new task2Driver.StringPair(names[j], names[i]), _one);
                     }
                 }
             }
