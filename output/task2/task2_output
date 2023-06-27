@@ -28,7 +28,7 @@
 <Albus Dumbledore,Ginny Weasley>	11
 <Albus Dumbledore,Goyle>	2
 <Albus Dumbledore,Gryffindor>	24
-<Albus Dumbledore,Harry Potter>	1134
+<Albus Dumbledore,Harry Potter>	1133
 <Albus Dumbledore,Hedwig>	9
 <Albus Dumbledore,Hermione Granger>	120
 <Albus Dumbledore,Hufflepuff>	10
@@ -39,9 +39,8 @@
 <Albus Dumbledore,Lily Potter>	6
 <Albus Dumbledore,Ludo Bagman>	12
 <Albus Dumbledore,Mad-eye Moody>	44
-<Albus Dumbledore,Madam>	26
 <Albus Dumbledore,Madam Maxime>	12
-<Albus Dumbledore,Madam Pomfrey>	1
+<Albus Dumbledore,Madam Pomfrey>	16
 <Albus Dumbledore,Molly Weasley>	7
 <Albus Dumbledore,Mr Crouch>	31
 <Albus Dumbledore,Mr Ollivander>	2
@@ -55,7 +54,6 @@
 <Albus Dumbledore,Peter Pettigrew>	2
 <Albus Dumbledore,Petunia Dursley>	4
 <Albus Dumbledore,Pigwidgeon>	1
-<Albus Dumbledore,Porfessor Trelawney>	11
 <Albus Dumbledore,Professor Flitwick>	4
 <Albus Dumbledore,Professor Grubbly-Plank>	2
 <Albus Dumbledore,Professor Lupin>	24
@@ -63,15 +61,15 @@
 <Albus Dumbledore,Professor Severus Snape>	183
 <Albus Dumbledore,Professor Sinistra>	1
 <Albus Dumbledore,Professor Sprout>	7
+<Albus Dumbledore,Professor Trelawney>	11
 <Albus Dumbledore,Ravenclaw>	6
 <Albus Dumbledore,Rita Skeeter>	7
-<Albus Dumbledore,Ron Weasley>	61
-<Albus Dumbledore,Ron Weasley >	113
+<Albus Dumbledore,Ron Weasley>	84
+<Albus Dumbledore,Ron Weasley >	90
 <Albus Dumbledore,Rubeus Hagrid>	108
 <Albus Dumbledore,Salazar Slytherin>	2
 <Albus Dumbledore,Scabbers>	1
 <Albus Dumbledore,Seamus Finnigan>	6
-<Albus Dumbledore,Sir Cadogan>	7
 <Albus Dumbledore,Sirius Black>	125
 <Albus Dumbledore,Skeeter>	2
 <Albus Dumbledore,Slytherin>	18
@@ -104,17 +102,18 @@
 <Alicia SpinnetProfessor Binns,Lavender Brown>	1
 <Alicia SpinnetProfessor Binns,Lee Jordan>	4
 <Alicia SpinnetProfessor Binns,Mad-eye Moody>	2
-<Alicia SpinnetProfessor Binns,Madam>	4
-<Alicia SpinnetProfessor Binns,Madam Pomfrey>	1
+<Alicia SpinnetProfessor Binns,Madam Hooch>	2
+<Alicia SpinnetProfessor Binns,Madam Pomfrey>	2
 <Alicia SpinnetProfessor Binns,Neville Longbottom>	1
 <Alicia SpinnetProfessor Binns,Oliver Wood>	8
 <Alicia SpinnetProfessor Binns,Padma Patil>	1
 <Alicia SpinnetProfessor Binns,Parvati Patil>	1
-<Alicia SpinnetProfessor Binns,Porfessor Trelawney>	2
 <Alicia SpinnetProfessor Binns,Professor Flitwick>	3
 <Alicia SpinnetProfessor Binns,Professor Severus Snape>	6
+<Alicia SpinnetProfessor Binns,Professor Trelawney>	2
 <Alicia SpinnetProfessor Binns,Ravenclaw>	1
-<Alicia SpinnetProfessor Binns,Ron Weasley >	12
+<Alicia SpinnetProfessor Binns,Ron Weasley>	2
+<Alicia SpinnetProfessor Binns,Ron Weasley >	10
 <Alicia SpinnetProfessor Binns,Slytherin>	13
 <Alicia SpinnetProfessor Binns,Vincent Crabbe>	1
 <Amos Diggory,Bill Weasley>	1
@@ -145,20 +144,20 @@
 <Angelina Johnson,Katie Bell>	24
 <Angelina Johnson,Lavender Brown>	1
 <Angelina Johnson,Lee Jordan>	9
-<Angelina Johnson,Madam>	3
+<Angelina Johnson,Madam Hooch>	2
 <Angelina Johnson,Neville Longbottom>	1
 <Angelina Johnson,Oliver Wood>	12
 <Angelina Johnson,Padma Patil>	2
 <Angelina Johnson,Pansy Parkinson>	1
 <Angelina Johnson,Parvati Patil>	1
 <Angelina Johnson,Peeves>	1
-<Angelina Johnson,Porfessor Trelawney>	1
 <Angelina Johnson,Professor Grubbly-Plank>	1
 <Angelina Johnson,Professor Sinistra>	1
 <Angelina Johnson,Professor Sprout>	1
+<Angelina Johnson,Professor Trelawney>	1
 <Angelina Johnson,Ravenclaw>	2
-<Angelina Johnson,Ron Weasley>	1
-<Angelina Johnson,Ron Weasley >	16
+<Angelina Johnson,Ron Weasley>	5
+<Angelina Johnson,Ron Weasley >	12
 <Angelina Johnson,Rubeus Hagrid>	1
 <Angelina Johnson,Slytherin>	23
 <Angelina Johnson,Vincent Crabbe>	1
@@ -167,7 +166,8 @@
 <Aragog,Moaning Murtle>	1
 <Aragog,Norbert>	1
 <Aragog,Professor Grubbly-Plank>	1
-<Aragog,Ron Weasley >	5
+<Aragog,Ron Weasley>	2
+<Aragog,Ron Weasley >	3
 <Aragog,Rubeus Hagrid>	14
 <Aragog,Slytherin>	1
 <Aragog,Tom Riddle>	1
@@ -213,16 +213,16 @@
 <Bill Weasley,Hermione Granger>	11
 <Bill Weasley,Ludo Bagman>	3
 <Bill Weasley,Mad-eye Moody>	1
-<Bill Weasley,Madam>	3
 <Bill Weasley,Madam Maxime>	1
+<Bill Weasley,Madam Pomfrey>	2
 <Bill Weasley,Molly Weasley>	2
 <Bill Weasley,Neville Longbottom>	3
 <Bill Weasley,Percy Weasley>	17
 <Bill Weasley,Professor Lupin>	9
 <Bill Weasley,Professor Severus Snape>	2
 <Bill Weasley,Rita Skeeter>	1
-<Bill Weasley,Ron Weasley>	40
-<Bill Weasley,Ron Weasley >	27
+<Bill Weasley,Ron Weasley>	41
+<Bill Weasley,Ron Weasley >	26
 <Bill Weasley,Rubeus Hagrid>	1
 <Bill Weasley,Voldemort>	1
 <Bloody Baron,Fat Friar>	2
@@ -286,8 +286,9 @@
 <Cedric Diggory,Lee Jordan>	1
 <Cedric Diggory,Ludo Bagman>	9
 <Cedric Diggory,Mad-eye Moody>	4
-<Cedric Diggory,Madam>	4
+<Cedric Diggory,Madam Hooch>	1
 <Cedric Diggory,Madam Maxime>	1
+<Cedric Diggory,Madam Pomfrey>	2
 <Cedric Diggory,Mr Crouch>	10
 <Cedric Diggory,Mr Ollivander>	2
 <Cedric Diggory,Neville Longbottom>	4
@@ -301,8 +302,8 @@
 <Cedric Diggory,Ravenclaw>	9
 <Cedric Diggory,Rita Skeeter>	7
 <Cedric Diggory,Roger Davis>	2
-<Cedric Diggory,Ron Weasley>	3
-<Cedric Diggory,Ron Weasley >	19
+<Cedric Diggory,Ron Weasley>	4
+<Cedric Diggory,Ron Weasley >	18
 <Cedric Diggory,Rubeus Hagrid>	2
 <Cedric Diggory,Seamus Finnigan>	3
 <Cedric Diggory,Sirius Black>	3
@@ -328,8 +329,8 @@
 <Charlie Weasley,Oliver Wood>	3
 <Charlie Weasley,Percy Weasley>	10
 <Charlie Weasley,Ravenclaw>	1
-<Charlie Weasley,Ron Weasley>	13
-<Charlie Weasley,Ron Weasley >	14
+<Charlie Weasley,Ron Weasley>	16
+<Charlie Weasley,Ron Weasley >	11
 <Charlie Weasley,Rubeus Hagrid>	7
 <Charlie Weasley,Viktor Krum>	2
 <Cho Chang,Albus Dumbledore>	3
@@ -357,7 +358,7 @@
 <Cho Chang,Lavender Brown>	1
 <Cho Chang,Lee Jordan>	1
 <Cho Chang,Mad-eye Moody>	1
-<Cho Chang,Madam>	2
+<Cho Chang,Madam Pomfrey>	2
 <Cho Chang,Neville Longbottom>	6
 <Cho Chang,Oliver Wood>	4
 <Cho Chang,Padma Patil>	2
@@ -366,7 +367,8 @@
 <Cho Chang,Professor Severus Snape>	4
 <Cho Chang,Ravenclaw>	21
 <Cho Chang,Roger Davis>	7
-<Cho Chang,Ron Weasley >	21
+<Cho Chang,Ron Weasley>	2
+<Cho Chang,Ron Weasley >	19
 <Cho Chang,Sirius Black>	3
 <Cho Chang,Slytherin>	1
 <Cho Chang,Viktor Krum>	2
@@ -405,8 +407,8 @@
 <Colin Creevey,Professor Severus Snape>	1
 <Colin Creevey,Professor Sprout>	1
 <Colin Creevey,Ravenclaw>	3
-<Colin Creevey,Ron Weasley>	2
-<Colin Creevey,Ron Weasley >	9
+<Colin Creevey,Ron Weasley>	5
+<Colin Creevey,Ron Weasley >	6
 <Colin Creevey,Vincent Crabbe>	1
 <Cornelius Fudge,Albus Dumbledore>	97
 <Cornelius Fudge,Bill Weasley>	2
@@ -421,26 +423,24 @@
 <Cornelius Fudge,Lily Potter>	2
 <Cornelius Fudge,Ludo Bagman>	7
 <Cornelius Fudge,Mad-eye Moody>	2
-<Cornelius Fudge,Madam>	13
 <Cornelius Fudge,Madam Maxime>	3
-<Cornelius Fudge,Madam Pomfrey>	1
+<Cornelius Fudge,Madam Pomfrey>	4
 <Cornelius Fudge,Millicent Bulstrode>	1
 <Cornelius Fudge,Molly Weasley>	3
 <Cornelius Fudge,Mr Crouch>	12
 <Cornelius Fudge,Nearly Headless Nick>	1
 <Cornelius Fudge,Percy Weasley>	18
 <Cornelius Fudge,Peter Pettigrew>	7
-<Cornelius Fudge,Porfessor Trelawney>	1
 <Cornelius Fudge,Professor Flitwick>	1
 <Cornelius Fudge,Professor Lupin>	1
 <Cornelius Fudge,Professor Minerva Mcgonagall>	6
 <Cornelius Fudge,Professor Severus Snape>	12
+<Cornelius Fudge,Professor Trelawney>	1
 <Cornelius Fudge,Rita Skeeter>	4
 <Cornelius Fudge,Ron Weasley>	28
 <Cornelius Fudge,Ron Weasley >	4
 <Cornelius Fudge,Rubeus Hagrid>	12
 <Cornelius Fudge,Scabbers>	1
-<Cornelius Fudge,Sir Cadogan>	1
 <Cornelius Fudge,Sirius Black>	42
 <Cornelius Fudge,Tom Riddle>	4
 <Cornelius Fudge,Vernon Dursley>	1
@@ -461,8 +461,8 @@
 <Crookshanks,Pigwidgeon>	6
 <Crookshanks,Professor Lupin>	6
 <Crookshanks,Professor Severus Snape>	3
-<Crookshanks,Ron Weasley>	6
-<Crookshanks,Ron Weasley >	48
+<Crookshanks,Ron Weasley>	16
+<Crookshanks,Ron Weasley >	38
 <Crookshanks,Rubeus Hagrid>	1
 <Crookshanks,Scabbers>	26
 <Crookshanks,Sirius Black>	21
@@ -493,17 +493,18 @@
 <Dean Thomas,Katie Bell>	4
 <Dean Thomas,Lavender Brown>	8
 <Dean Thomas,Lee Jordan>	2
-<Dean Thomas,Madam>	2
+<Dean Thomas,Madam Pomfrey>	1
 <Dean Thomas,Nearly Headless Nick>	2
 <Dean Thomas,Neville Longbottom>	23
 <Dean Thomas,Padma Patil>	2
 <Dean Thomas,Parvati Patil>	4
 <Dean Thomas,Percy Weasley>	1
-<Dean Thomas,Porfessor Trelawney>	1
 <Dean Thomas,Professor Lupin>	1
 <Dean Thomas,Professor Severus Snape>	6
+<Dean Thomas,Professor Trelawney>	1
 <Dean Thomas,Ravenclaw>	1
-<Dean Thomas,Ron Weasley >	46
+<Dean Thomas,Ron Weasley>	8
+<Dean Thomas,Ron Weasley >	38
 <Dean Thomas,Rubeus Hagrid>	4
 <Dean Thomas,Scabbers>	2
 <Dean Thomas,Seamus Finnigan>	58
@@ -549,7 +550,7 @@
 <Dobby,Hermione Granger>	25
 <Dobby,Igor Karkaroff>	2
 <Dobby,Mad-eye Moody>	3
-<Dobby,Madam>	1
+<Dobby,Madam Pomfrey>	1
 <Dobby,Mr Crouch>	5
 <Dobby,Neville Longbottom>	1
 <Dobby,Peeves>	1
@@ -557,11 +558,10 @@
 <Dobby,Petunia Dursley>	1
 <Dobby,Professor Lupin>	1
 <Dobby,Professor Severus Snape>	5
-<Dobby,Ron Weasley>	6
-<Dobby,Ron Weasley >	21
+<Dobby,Ron Weasley>	9
+<Dobby,Ron Weasley >	18
 <Dobby,Rubeus Hagrid>	3
 <Dobby,Seamus Finnigan>	1
-<Dobby,Sir Cadogan>	3
 <Dobby,Sirius Black>	2
 <Dobby,Vernon Dursley>	3
 <Dobby,Winky>	36
@@ -589,7 +589,7 @@
 <Draco Malfoy,Goyle>	104
 <Draco Malfoy,Gryffindor>	38
 <Draco Malfoy,Hannah Abbott>	2
-<Draco Malfoy,Harry Potter>	678
+<Draco Malfoy,Harry Potter>	679
 <Draco Malfoy,Hedwig>	1
 <Draco Malfoy,Hermione Granger>	137
 <Draco Malfoy,Hufflepuff>	6
@@ -599,8 +599,10 @@
 <Draco Malfoy,Lavender Brown>	3
 <Draco Malfoy,Lee Jordan>	1
 <Draco Malfoy,Mad-eye Moody>	4
-<Draco Malfoy,Madam>	14
-<Draco Malfoy,Madam Hooch>	1
+<Draco Malfoy,Madam Hooch>	4
+<Draco Malfoy,Madam Malkin>	3
+<Draco Malfoy,Madam Pince>	1
+<Draco Malfoy,Madam Pomfrey>	4
 <Draco Malfoy,Millicent Bulstrode>	1
 <Draco Malfoy,Moaning Murtle>	6
 <Draco Malfoy,Neville Longbottom>	43
@@ -611,21 +613,20 @@
 <Draco Malfoy,Parvati Patil>	4
 <Draco Malfoy,Percy Weasley>	3
 <Draco Malfoy,Peter Pettigrew>	1
-<Draco Malfoy,Porfessor Trelawney>	7
 <Draco Malfoy,Professor Flitwick>	3
 <Draco Malfoy,Professor Grubbly-Plank>	4
 <Draco Malfoy,Professor Lupin>	7
 <Draco Malfoy,Professor Severus Snape>	85
 <Draco Malfoy,Professor Sprout>	1
+<Draco Malfoy,Professor Trelawney>	7
 <Draco Malfoy,Ravenclaw>	6
 <Draco Malfoy,Rita Skeeter>	1
-<Draco Malfoy,Ron Weasley>	65
-<Draco Malfoy,Ron Weasley >	168
+<Draco Malfoy,Ron Weasley>	90
+<Draco Malfoy,Ron Weasley >	143
 <Draco Malfoy,Rubeus Hagrid>	59
 <Draco Malfoy,Salazar Slytherin>	1
 <Draco Malfoy,Scabbers>	1
 <Draco Malfoy,Seamus Finnigan>	3
-<Draco Malfoy,Sir Cadogan>	3
 <Draco Malfoy,Sirius Black>	28
 <Draco Malfoy,Slytherin>	50
 <Draco Malfoy,Viktor Krum>	4
@@ -681,7 +682,7 @@
 <Ernie Mcmillan,Goyle>	2
 <Ernie Mcmillan,Gryffindor>	1
 <Ernie Mcmillan,Hannah Abbott>	7
-<Ernie Mcmillan,Harry Potter>	54
+<Ernie Mcmillan,Harry Potter>	55
 <Ernie Mcmillan,Hermione Granger>	19
 <Ernie Mcmillan,Hufflepuff>	11
 <Ernie Mcmillan,Justin Finch-Fletchley>	7
@@ -698,8 +699,8 @@
 <Ernie Mcmillan,Professor Sinistra>	2
 <Ernie Mcmillan,Professor Sprout>	6
 <Ernie Mcmillan,Ravenclaw>	5
-<Ernie Mcmillan,Ron Weasley >	10
-<Ernie Mcmillan,Sir Cadogan>	2
+<Ernie Mcmillan,Ron Weasley>	2
+<Ernie Mcmillan,Ron Weasley >	8
 <Ernie Mcmillan,Vincent Crabbe>	1
 <Fang,Albus Dumbledore>	4
 <Fang,Buckbeak>	2
@@ -709,7 +710,8 @@
 <Fang,Igor Karkaroff>	2
 <Fang,Neville Longbottom>	3
 <Fang,Professor Severus Snape>	2
-<Fang,Ron Weasley >	19
+<Fang,Ron Weasley>	4
+<Fang,Ron Weasley >	15
 <Fang,Rubeus Hagrid>	37
 <Fat Friar,Albus Dumbledore>	6
 <Fat Friar,Bill Weasley>	1
@@ -732,8 +734,8 @@
 <Fat Friar,Percy Weasley>	1
 <Fat Friar,Peter Pettigrew>	1
 <Fat Friar,Professor Flitwick>	1
-<Fat Friar,Ron Weasley>	2
-<Fat Friar,Ron Weasley >	15
+<Fat Friar,Ron Weasley>	3
+<Fat Friar,Ron Weasley >	14
 <Fat Friar,Rubeus Hagrid>	1
 <Fat Friar,Seamus Finnigan>	1
 <Fat Friar,Sir Cadogan>	2
@@ -746,7 +748,7 @@
 <Fawkes,Ginny Weasley>	1
 <Fawkes,Godric Gryffindor>	2
 <Fawkes,Harry Potter>	26
-<Fawkes,Porfessor Trelawney>	1
+<Fawkes,Professor Trelawney>	1
 <Fawkes,Ron Weasley >	1
 <Fawkes,Slytherin>	1
 <Fawkes,Tom Riddle>	7
@@ -770,7 +772,7 @@
 <Filch,Katie Bell>	1
 <Filch,Ludo Bagman>	1
 <Filch,Mad-eye Moody>	11
-<Filch,Madam>	2
+<Filch,Madam Pince>	2
 <Filch,Moaning Murtle>	4
 <Filch,Mr Crouch>	1
 <Filch,Nearly Headless Nick>	5
@@ -783,8 +785,8 @@
 <Filch,Professor Lupin>	2
 <Filch,Professor Severus Snape>	21
 <Filch,Professor Sprout>	1
-<Filch,Ron Weasley>	6
-<Filch,Ron Weasley >	29
+<Filch,Ron Weasley>	13
+<Filch,Ron Weasley >	22
 <Filch,Rubeus Hagrid>	4
 <Filch,Seamus Finnigan>	1
 <Filch,Sir Cadogan>	1
@@ -806,10 +808,11 @@
 <Firenze,Harry Potter>	26
 <Firenze,Hermione Granger>	3
 <Firenze,Parvati Patil>	3
-<Firenze,Porfessor Trelawney>	5
 <Firenze,Professor Severus Snape>	1
+<Firenze,Professor Trelawney>	5
 <Firenze,Rita Skeeter>	1
-<Firenze,Ron Weasley >	4
+<Firenze,Ron Weasley>	2
+<Firenze,Ron Weasley >	2
 <Firenze,Ronan>	1
 <Firenze,Rubeus Hagrid>	8
 <Firenze,Voldemort>	3
@@ -827,8 +830,8 @@
 <Fleur Delacour,Igor Karkaroff>	2
 <Fleur Delacour,Ludo Bagman>	9
 <Fleur Delacour,Mad-eye Moody>	2
-<Fleur Delacour,Madam>	4
 <Fleur Delacour,Madam Maxime>	11
+<Fleur Delacour,Madam Pomfrey>	4
 <Fleur Delacour,Mr Ollivander>	2
 <Fleur Delacour,Padma Patil>	2
 <Fleur Delacour,Percy Weasley>	3
@@ -836,8 +839,8 @@
 <Fleur Delacour,Ravenclaw>	2
 <Fleur Delacour,Rita Skeeter>	1
 <Fleur Delacour,Roger Davis>	8
-<Fleur Delacour,Ron Weasley>	20
-<Fleur Delacour,Ron Weasley >	32
+<Fleur Delacour,Ron Weasley>	27
+<Fleur Delacour,Ron Weasley >	25
 <Fleur Delacour,Rubeus Hagrid>	4
 <Fleur Delacour,Slytherin>	1
 <Fleur Delacour,Tom Riddle>	1
@@ -854,7 +857,8 @@
 <Fluffy,Professor Flitwick>	1
 <Fluffy,Professor Severus Snape>	8
 <Fluffy,Professor Sprout>	1
-<Fluffy,Ron Weasley >	4
+<Fluffy,Ron Weasley>	1
+<Fluffy,Ron Weasley >	3
 <Fluffy,Rubeus Hagrid>	11
 <Fluffy,Voldemort>	2
 <Fred Weasley,Albus Dumbledore>	21
@@ -891,8 +895,9 @@
 <Fred Weasley,Lee Jordan>	25
 <Fred Weasley,Ludo Bagman>	10
 <Fred Weasley,Mad-eye Moody>	6
-<Fred Weasley,Madam>	7
+<Fred Weasley,Madam Hooch>	3
 <Fred Weasley,Madam Maxime>	2
+<Fred Weasley,Madam Pomfrey>	3
 <Fred Weasley,Mr Crouch>	1
 <Fred Weasley,Nearly Headless Nick>	2
 <Fred Weasley,Neville Longbottom>	4
@@ -903,14 +908,14 @@
 <Fred Weasley,Percy Weasley>	29
 <Fred Weasley,Petunia Dursley>	2
 <Fred Weasley,Pigwidgeon>	6
-<Fred Weasley,Porfessor Trelawney>	2
 <Fred Weasley,Professor Flitwick>	3
 <Fred Weasley,Professor Lupin>	7
 <Fred Weasley,Professor Severus Snape>	5
 <Fred Weasley,Professor Sprout>	1
+<Fred Weasley,Professor Trelawney>	2
 <Fred Weasley,Ravenclaw>	2
-<Fred Weasley,Ron Weasley>	88
-<Fred Weasley,Ron Weasley >	140
+<Fred Weasley,Ron Weasley>	124
+<Fred Weasley,Ron Weasley >	104
 <Fred Weasley,Rubeus Hagrid>	12
 <Fred Weasley,Scabbers>	1
 <Fred Weasley,Sirius Black>	24
@@ -954,8 +959,9 @@
 <George Weasley,Lee Jordan>	15
 <George Weasley,Ludo Bagman>	10
 <George Weasley,Mad-eye Moody>	7
-<George Weasley,Madam>	9
+<George Weasley,Madam Hooch>	3
 <George Weasley,Madam Maxime>	3
+<George Weasley,Madam Pomfrey>	4
 <George Weasley,Molly Weasley>	1
 <George Weasley,Mr Crouch>	2
 <George Weasley,Nearly Headless Nick>	2
@@ -969,16 +975,16 @@
 <George Weasley,Percy Weasley>	25
 <George Weasley,Petunia Dursley>	1
 <George Weasley,Pigwidgeon>	4
-<George Weasley,Porfessor Trelawney>	2
 <George Weasley,Professor Flitwick>	2
 <George Weasley,Professor Lupin>	7
 <George Weasley,Professor Severus Snape>	4
 <George Weasley,Professor Sprout>	1
+<George Weasley,Professor Trelawney>	2
 <George Weasley,Prongs>	1
 <George Weasley,Ravenclaw>	4
 <George Weasley,Rita Skeeter>	1
-<George Weasley,Ron Weasley>	65
-<George Weasley,Ron Weasley >	92
+<George Weasley,Ron Weasley>	89
+<George Weasley,Ron Weasley >	68
 <George Weasley,Rubeus Hagrid>	12
 <George Weasley,Sirius Black>	15
 <George Weasley,Slytherin>	11
@@ -1000,7 +1006,7 @@
 <Gibleroy Lockhart,Hermione Granger>	15
 <Gibleroy Lockhart,Justin Finch-Fletchley>	2
 <Gibleroy Lockhart,Mad-eye Moody>	1
-<Gibleroy Lockhart,Madam>	1
+<Gibleroy Lockhart,Madam Pomfrey>	1
 <Gibleroy Lockhart,Moaning Murtle>	3
 <Gibleroy Lockhart,Neville Longbottom>	6
 <Gibleroy Lockhart,Petunia Dursley>	1
@@ -1008,8 +1014,8 @@
 <Gibleroy Lockhart,Professor Lupin>	2
 <Gibleroy Lockhart,Professor Severus Snape>	18
 <Gibleroy Lockhart,Professor Sprout>	4
-<Gibleroy Lockhart,Ron Weasley>	5
-<Gibleroy Lockhart,Ron Weasley >	22
+<Gibleroy Lockhart,Ron Weasley>	11
+<Gibleroy Lockhart,Ron Weasley >	16
 <Gibleroy Lockhart,Rubeus Hagrid>	5
 <Gibleroy Lockhart,Seamus Finnigan>	5
 <Gibleroy Lockhart,Slytherin>	1
@@ -1046,8 +1052,8 @@
 <Ginny Weasley,Lee Jordan>	2
 <Ginny Weasley,Ludo Bagman>	1
 <Ginny Weasley,Mad-eye Moody>	2
-<Ginny Weasley,Madam>	7
 <Ginny Weasley,Madam Maxime>	3
+<Ginny Weasley,Madam Pomfrey>	5
 <Ginny Weasley,Millicent Bulstrode>	1
 <Ginny Weasley,Moaning Murtle>	1
 <Ginny Weasley,Molly Weasley>	1
@@ -1060,15 +1066,15 @@
 <Ginny Weasley,Penelop Clearwater>	1
 <Ginny Weasley,Percy Weasley>	16
 <Ginny Weasley,Peter Pettigrew>	1
-<Ginny Weasley,Porfessor Trelawney>	1
 <Ginny Weasley,Professor Grubbly-Plank>	1
 <Ginny Weasley,Professor Lupin>	12
 <Ginny Weasley,Professor Severus Snape>	7
 <Ginny Weasley,Professor Sinistra>	2
+<Ginny Weasley,Professor Trelawney>	1
 <Ginny Weasley,Ravenclaw>	5
 <Ginny Weasley,Rita Skeeter>	1
-<Ginny Weasley,Ron Weasley>	90
-<Ginny Weasley,Ron Weasley >	167
+<Ginny Weasley,Ron Weasley>	127
+<Ginny Weasley,Ron Weasley >	130
 <Ginny Weasley,Rubeus Hagrid>	15
 <Ginny Weasley,Seamus Finnigan>	2
 <Ginny Weasley,Sirius Black>	16
@@ -1098,7 +1104,6 @@
 <Goyle,Hufflepuff>	1
 <Goyle,Justin Finch-Fletchley>	4
 <Goyle,Katie Bell>	1
-<Goyle,Madam>	1
 <Goyle,Millicent Bulstrode>	1
 <Goyle,Moaning Murtle>	2
 <Goyle,Neville Longbottom>	6
@@ -1107,8 +1112,8 @@
 <Goyle,Professor Lupin>	1
 <Goyle,Professor Severus Snape>	5
 <Goyle,Ravenclaw>	1
-<Goyle,Ron Weasley>	1
-<Goyle,Ron Weasley >	32
+<Goyle,Ron Weasley>	8
+<Goyle,Ron Weasley >	25
 <Goyle,Rubeus Hagrid>	8
 <Goyle,Scabbers>	1
 <Goyle,Seamus Finnigan>	1
@@ -1148,8 +1153,9 @@
 <Gryffindor,Katie Bell>	19
 <Gryffindor,Lavender Brown>	5
 <Gryffindor,Lee Jordan>	10
-<Gryffindor,Madam>	6
-<Gryffindor,Madam Hooch>	2
+<Gryffindor,Madam Hooch>	6
+<Gryffindor,Madam Pince>	1
+<Gryffindor,Madam Pomfrey>	1
 <Gryffindor,Mr Crouch>	3
 <Gryffindor,Nearly Headless Nick>	16
 <Gryffindor,Neville Longbottom>	25
@@ -1160,22 +1166,22 @@
 <Gryffindor,Percy Weasley>	9
 <Gryffindor,Peter Pettigrew>	2
 <Gryffindor,Petunia Dursley>	1
-<Gryffindor,Porfessor Trelawney>	3
 <Gryffindor,Professor Flitwick>	1
 <Gryffindor,Professor Grubbly-Plank>	2
 <Gryffindor,Professor Lupin>	5
 <Gryffindor,Professor Minerva Mcgonagall>	8
 <Gryffindor,Professor Severus Snape>	45
 <Gryffindor,Professor Sprout>	3
+<Gryffindor,Professor Trelawney>	3
 <Gryffindor,Ravenclaw>	37
 <Gryffindor,Rita Skeeter>	1
-<Gryffindor,Ron Weasley>	15
-<Gryffindor,Ron Weasley >	133
+<Gryffindor,Ron Weasley>	31
+<Gryffindor,Ron Weasley >	117
 <Gryffindor,Rubeus Hagrid>	13
 <Gryffindor,Salazar Slytherin>	2
 <Gryffindor,Scabbers>	3
 <Gryffindor,Seamus Finnigan>	6
-<Gryffindor,Sir Cadogan>	4
+<Gryffindor,Sir Cadogan>	2
 <Gryffindor,Sirius Black>	12
 <Gryffindor,Slytherin>	71
 <Gryffindor,Thomas>	1
@@ -1204,14 +1210,16 @@
 <Hannah Abbott,Katie Bell>	1
 <Hannah Abbott,Lavender Brown>	1
 <Hannah Abbott,Lee Jordan>	1
-<Hannah Abbott,Madam>	2
+<Hannah Abbott,Madam Pince>	1
+<Hannah Abbott,Madam Pomfrey>	1
 <Hannah Abbott,Neville Longbottom>	1
 <Hannah Abbott,Padma Patil>	1
 <Hannah Abbott,Parvati Patil>	1
 <Hannah Abbott,Ravenclaw>	3
-<Hannah Abbott,Ron Weasley >	4
+<Hannah Abbott,Ron Weasley>	1
+<Hannah Abbott,Ron Weasley >	3
 <Hannah Abbott,Sirius Black>	2
-<Harry Potter,Albus Dumbledore>	1134
+<Harry Potter,Albus Dumbledore>	1133
 <Harry Potter,Alicia SpinnetProfessor Binns>	31
 <Harry Potter,Amos Diggory>	6
 <Harry Potter,Angelina Johnson>	39
@@ -1230,10 +1238,10 @@
 <Harry Potter,Dean Thomas>	98
 <Harry Potter,Dennis Creevey>	7
 <Harry Potter,Dobby>	303
-<Harry Potter,Draco Malfoy>	678
+<Harry Potter,Draco Malfoy>	679
 <Harry Potter,Dudley Dursley>	259
 <Harry Potter,Dursley>	15
-<Harry Potter,Ernie Mcmillan>	54
+<Harry Potter,Ernie Mcmillan>	55
 <Harry Potter,Fang>	55
 <Harry Potter,Fat Friar>	32
 <Harry Potter,Fawkes>	26
@@ -1258,16 +1266,17 @@
 <Harry Potter,Igor Karkaroff>	43
 <Harry Potter,James Potter>	67
 <Harry Potter,Justin Finch-Fletchley>	33
-<Harry Potter,Katie Bell>	47
+<Harry Potter,Katie Bell>	46
 <Harry Potter,Lavender Brown>	85
 <Harry Potter,Lee Jordan>	35
 <Harry Potter,Lily Potter>	26
 <Harry Potter,Ludo Bagman>	72
 <Harry Potter,Mad-eye Moody>	161
-<Harry Potter,Madam>	148
-<Harry Potter,Madam Hooch>	3
+<Harry Potter,Madam Hooch>	18
+<Harry Potter,Madam Malkin>	6
 <Harry Potter,Madam Maxime>	46
-<Harry Potter,Madam Pomfrey>	3
+<Harry Potter,Madam Pince>	8
+<Harry Potter,Madam Pomfrey>	59
 <Harry Potter,Millicent Bulstrode>	5
 <Harry Potter,Moaning Murtle>	24
 <Harry Potter,Molly Weasley>	13
@@ -1288,26 +1297,26 @@
 <Harry Potter,Peter Pettigrew>	36
 <Harry Potter,Petunia Dursley>	143
 <Harry Potter,Pigwidgeon>	27
-<Harry Potter,Porfessor Trelawney>	80
 <Harry Potter,Professor Flitwick>	37
 <Harry Potter,Professor Grubbly-Plank>	18
 <Harry Potter,Professor Lupin>	197
 <Harry Potter,Professor Minerva Mcgonagall>	7
-<Harry Potter,Professor Severus Snape>	744
+<Harry Potter,Professor Severus Snape>	743
 <Harry Potter,Professor Sinistra>	4
 <Harry Potter,Professor Sprout>	38
+<Harry Potter,Professor Trelawney>	80
 <Harry Potter,Prongs>	3
 <Harry Potter,Ravenclaw>	67
 <Harry Potter,Rita Skeeter>	58
 <Harry Potter,Roger Davis>	12
-<Harry Potter,Ron Weasley>	524
-<Harry Potter,Ron Weasley >	2153
+<Harry Potter,Ron Weasley>	1088
+<Harry Potter,Ron Weasley >	1589
 <Harry Potter,Ronan>	4
 <Harry Potter,Rubeus Hagrid>	709
 <Harry Potter,Salazar Slytherin>	5
 <Harry Potter,Scabbers>	24
 <Harry Potter,Seamus Finnigan>	93
-<Harry Potter,Sir Cadogan>	35
+<Harry Potter,Sir Cadogan>	11
 <Harry Potter,Sirius Black>	608
 <Harry Potter,Skeeter>	8
 <Harry Potter,Slytherin>	136
@@ -1324,8 +1333,7 @@
 <Headless,Hermione Granger>	2
 <Headless,Justin Finch-Fletchley>	1
 <Headless,Nearly Headless Nick>	2
-<Headless,Ron Weasley >	1
-<Headless,Sir Cadogan>	2
+<Headless,Ron Weasley>	1
 <Hedwig,Albus Dumbledore>	9
 <Hedwig,Alicia SpinnetProfessor Binns>	3
 <Hedwig,Buckbeak>	2
@@ -1348,8 +1356,8 @@
 <Hedwig,Professor Grubbly-Plank>	5
 <Hedwig,Professor Lupin>	1
 <Hedwig,Professor Severus Snape>	1
-<Hedwig,Ron Weasley>	7
-<Hedwig,Ron Weasley >	35
+<Hedwig,Ron Weasley>	15
+<Hedwig,Ron Weasley >	27
 <Hedwig,Rubeus Hagrid>	11
 <Hedwig,Sirius Black>	14
 <Hedwig,Vernon Dursley>	5
@@ -1403,9 +1411,10 @@
 <Hermione Granger,Lee Jordan>	7
 <Hermione Granger,Ludo Bagman>	9
 <Hermione Granger,Mad-eye Moody>	12
-<Hermione Granger,Madam>	44
+<Hermione Granger,Madam Hooch>	1
 <Hermione Granger,Madam Maxime>	8
-<Hermione Granger,Madam Pince>	1
+<Hermione Granger,Madam Pince>	5
+<Hermione Granger,Madam Pomfrey>	32
 <Hermione Granger,Millicent Bulstrode>	16
 <Hermione Granger,Moaning Murtle>	13
 <Hermione Granger,Molly Weasley>	1
@@ -1423,23 +1432,22 @@
 <Hermione Granger,Peter Pettigrew>	5
 <Hermione Granger,Petunia Dursley>	4
 <Hermione Granger,Pigwidgeon>	9
-<Hermione Granger,Porfessor Trelawney>	14
 <Hermione Granger,Professor Flitwick>	20
 <Hermione Granger,Professor Grubbly-Plank>	6
 <Hermione Granger,Professor Lupin>	38
 <Hermione Granger,Professor Severus Snape>	126
 <Hermione Granger,Professor Sinistra>	1
 <Hermione Granger,Professor Sprout>	10
+<Hermione Granger,Professor Trelawney>	14
 <Hermione Granger,Ravenclaw>	13
 <Hermione Granger,Rita Skeeter>	25
-<Hermione Granger,Ron Weasley>	112
-<Hermione Granger,Ron Weasley >	1179
+<Hermione Granger,Ron Weasley>	363
+<Hermione Granger,Ron Weasley >	928
 <Hermione Granger,Ronan>	4
 <Hermione Granger,Rubeus Hagrid>	212
 <Hermione Granger,Salazar Slytherin>	2
 <Hermione Granger,Scabbers>	25
 <Hermione Granger,Seamus Finnigan>	15
-<Hermione Granger,Sir Cadogan>	2
 <Hermione Granger,Sirius Black>	123
 <Hermione Granger,Skeeter>	5
 <Hermione Granger,Slytherin>	27
@@ -1480,7 +1488,8 @@
 <Hufflepuff,Katie Bell>	2
 <Hufflepuff,Lavender Brown>	3
 <Hufflepuff,Lee Jordan>	5
-<Hufflepuff,Madam>	4
+<Hufflepuff,Madam Hooch>	1
+<Hufflepuff,Madam Pomfrey>	2
 <Hufflepuff,Nearly Headless Nick>	2
 <Hufflepuff,Neville Longbottom>	3
 <Hufflepuff,Oliver Wood>	5
@@ -1519,8 +1528,8 @@
 <Igor Karkaroff,Professor Sprout>	1
 <Igor Karkaroff,Ravenclaw>	1
 <Igor Karkaroff,Rita Skeeter>	2
-<Igor Karkaroff,Ron Weasley>	1
-<Igor Karkaroff,Ron Weasley >	11
+<Igor Karkaroff,Ron Weasley>	6
+<Igor Karkaroff,Ron Weasley >	6
 <Igor Karkaroff,Rubeus Hagrid>	8
 <Igor Karkaroff,Sirius Black>	5
 <Igor Karkaroff,Slytherin>	1
@@ -1531,7 +1540,7 @@
 <James Potter,Harry Potter>	67
 <James Potter,Hermione Granger>	1
 <James Potter,Lily Potter>	26
-<James Potter,Madam>	2
+<James Potter,Madam Pomfrey>	1
 <James Potter,Padfoot>	1
 <James Potter,Peter Pettigrew>	13
 <James Potter,Professor Flitwick>	1
@@ -1567,7 +1576,7 @@
 <Justin Finch-Fletchley,Katie Bell>	1
 <Justin Finch-Fletchley,Lavender Brown>	2
 <Justin Finch-Fletchley,Lee Jordan>	1
-<Justin Finch-Fletchley,Madam>	1
+<Justin Finch-Fletchley,Madam Pomfrey>	1
 <Justin Finch-Fletchley,Millicent Bulstrode>	3
 <Justin Finch-Fletchley,Nearly Headless Nick>	15
 <Justin Finch-Fletchley,Neville Longbottom>	3
@@ -1577,7 +1586,8 @@
 <Justin Finch-Fletchley,Professor Severus Snape>	2
 <Justin Finch-Fletchley,Professor Sprout>	2
 <Justin Finch-Fletchley,Ravenclaw>	2
-<Justin Finch-Fletchley,Ron Weasley >	7
+<Justin Finch-Fletchley,Ron Weasley>	1
+<Justin Finch-Fletchley,Ron Weasley >	6
 <Justin Finch-Fletchley,Rubeus Hagrid>	1
 <Justin Finch-Fletchley,Seamus Finnigan>	1
 <Katie Bell,Albus Dumbledore>	3
@@ -1597,13 +1607,14 @@
 <Katie Bell,Goyle>	1
 <Katie Bell,Gryffindor>	19
 <Katie Bell,Hannah Abbott>	1
-<Katie Bell,Harry Potter>	47
+<Katie Bell,Harry Potter>	46
 <Katie Bell,Hermione Granger>	12
 <Katie Bell,Hufflepuff>	2
 <Katie Bell,Justin Finch-Fletchley>	1
 <Katie Bell,Lavender Brown>	1
 <Katie Bell,Lee Jordan>	6
-<Katie Bell,Madam>	4
+<Katie Bell,Madam Hooch>	1
+<Katie Bell,Madam Pomfrey>	1
 <Katie Bell,Neville Longbottom>	1
 <Katie Bell,Oliver Wood>	4
 <Katie Bell,Padma Patil>	1
@@ -1611,8 +1622,8 @@
 <Katie Bell,Peeves>	3
 <Katie Bell,Professor Severus Snape>	1
 <Katie Bell,Ravenclaw>	3
-<Katie Bell,Ron Weasley>	1
-<Katie Bell,Ron Weasley >	8
+<Katie Bell,Ron Weasley>	7
+<Katie Bell,Ron Weasley >	2
 <Katie Bell,Rubeus Hagrid>	4
 <Katie Bell,Seamus Finnigan>	1
 <Katie Bell,Slytherin>	12
@@ -1643,11 +1654,12 @@
 <Lavender Brown,Padma Patil>	1
 <Lavender Brown,Pansy Parkinson>	1
 <Lavender Brown,Parvati Patil>	36
-<Lavender Brown,Porfessor Trelawney>	11
 <Lavender Brown,Professor Severus Snape>	3
 <Lavender Brown,Professor Sprout>	1
+<Lavender Brown,Professor Trelawney>	11
 <Lavender Brown,Ravenclaw>	3
-<Lavender Brown,Ron Weasley >	82
+<Lavender Brown,Ron Weasley>	16
+<Lavender Brown,Ron Weasley >	66
 <Lavender Brown,Rubeus Hagrid>	3
 <Lavender Brown,Seamus Finnigan>	6
 <Lavender Brown,Thomas>	1
@@ -1673,7 +1685,6 @@
 <Lee Jordan,Justin Finch-Fletchley>	1
 <Lee Jordan,Katie Bell>	6
 <Lee Jordan,Lavender Brown>	2
-<Lee Jordan,Madam>	1
 <Lee Jordan,Neville Longbottom>	1
 <Lee Jordan,Oliver Wood>	2
 <Lee Jordan,Padma Patil>	1
@@ -1681,8 +1692,8 @@
 <Lee Jordan,Percy Weasley>	2
 <Lee Jordan,Professor Severus Snape>	1
 <Lee Jordan,Ravenclaw>	4
-<Lee Jordan,Ron Weasley>	8
-<Lee Jordan,Ron Weasley >	8
+<Lee Jordan,Ron Weasley>	10
+<Lee Jordan,Ron Weasley >	6
 <Lee Jordan,Rubeus Hagrid>	1
 <Lee Jordan,Slytherin>	12
 <Lily Potter,Albus Dumbledore>	6
@@ -1746,8 +1757,8 @@
 <Mad-eye Moody,Igor Karkaroff>	12
 <Mad-eye Moody,Lavender Brown>	1
 <Mad-eye Moody,Ludo Bagman>	2
-<Mad-eye Moody,Madam>	7
 <Mad-eye Moody,Madam Maxime>	2
+<Mad-eye Moody,Madam Pomfrey>	2
 <Mad-eye Moody,Mr Crouch>	9
 <Mad-eye Moody,Neville Longbottom>	10
 <Mad-eye Moody,Parvati Patil>	2
@@ -1758,8 +1769,8 @@
 <Mad-eye Moody,Professor Sinistra>	1
 <Mad-eye Moody,Professor Sprout>	1
 <Mad-eye Moody,Rita Skeeter>	2
-<Mad-eye Moody,Ron Weasley>	17
-<Mad-eye Moody,Ron Weasley >	18
+<Mad-eye Moody,Ron Weasley>	20
+<Mad-eye Moody,Ron Weasley >	15
 <Mad-eye Moody,Rubeus Hagrid>	25
 <Mad-eye Moody,Seamus Finnigan>	2
 <Mad-eye Moody,Sirius Black>	17
@@ -1770,61 +1781,28 @@
 <Mad-eye Moody,Vincent Crabbe>	1
 <Mad-eye Moody,Voldemort>	6
 <Mad-eye Moody,Wormtail>	2
-<Madam,Albus Dumbledore>	26
-<Madam,Alicia SpinnetProfessor Binns>	4
-<Madam,Angelina Johnson>	3
-<Madam,Bill Weasley>	3
-<Madam,Cedric Diggory>	4
-<Madam,Cho Chang>	2
-<Madam,Cornelius Fudge>	13
-<Madam,Dean Thomas>	2
-<Madam,Dobby>	1
-<Madam,Draco Malfoy>	14
-<Madam,Filch>	2
-<Madam,Fleur Delacour>	4
-<Madam,Fred Weasley>	7
-<Madam,George Weasley>	9
-<Madam,Gibleroy Lockhart>	1
-<Madam,Ginny Weasley>	7
-<Madam,Goyle>	1
-<Madam,Gryffindor>	6
-<Madam,Hannah Abbott>	2
-<Madam,Harry Potter>	148
-<Madam,Hermione Granger>	44
-<Madam,Hufflepuff>	4
-<Madam,James Potter>	2
-<Madam,Justin Finch-Fletchley>	1
-<Madam,Katie Bell>	4
-<Madam,Lee Jordan>	1
-<Madam,Mad-eye Moody>	7
-<Madam,Molly Weasley>	2
-<Madam,Mr Crouch>	1
-<Madam,Nearly Headless Nick>	2
-<Madam,Neville Longbottom>	7
-<Madam,Nicolas Flamel>	1
-<Madam,Oliver Wood>	13
-<Madam,Percy Weasley>	2
-<Madam,Professor Flitwick>	3
-<Madam,Professor Lupin>	2
-<Madam,Professor Minerva Mcgonagall>	1
-<Madam,Professor Severus Snape>	11
-<Madam,Professor Sprout>	3
-<Madam,Ravenclaw>	3
-<Madam,Roger Davis>	1
-<Madam,Ron Weasley>	11
-<Madam,Ron Weasley >	34
-<Madam,Rubeus Hagrid>	12
-<Madam,Sirius Black>	11
-<Madam,Slytherin>	7
-<Madam,Vincent Crabbe>	3
-<Madam,Voldemort>	2
-<Madam,Winky>	1
-<Madam Hooch,Draco Malfoy>	1
-<Madam Hooch,Gryffindor>	2
-<Madam Hooch,Harry Potter>	3
+<Madam Hooch,Alicia SpinnetProfessor Binns>	2
+<Madam Hooch,Angelina Johnson>	2
+<Madam Hooch,Cedric Diggory>	1
+<Madam Hooch,Draco Malfoy>	4
+<Madam Hooch,Fred Weasley>	3
+<Madam Hooch,George Weasley>	3
+<Madam Hooch,Gryffindor>	6
+<Madam Hooch,Harry Potter>	18
+<Madam Hooch,Hermione Granger>	1
+<Madam Hooch,Hufflepuff>	1
+<Madam Hooch,Katie Bell>	1
 <Madam Hooch,Neville Longbottom>	1
-<Madam Hooch,Ron Weasley >	1
-<Madam Hooch,Slytherin>	1
+<Madam Hooch,Oliver Wood>	9
+<Madam Hooch,Professor Flitwick>	1
+<Madam Hooch,Ravenclaw>	2
+<Madam Hooch,Ron Weasley>	1
+<Madam Hooch,Ron Weasley >	3
+<Madam Hooch,Slytherin>	4
+<Madam Hooch,Vincent Crabbe>	2
+<Madam Malkin,Draco Malfoy>	3
+<Madam Malkin,Harry Potter>	6
+<Madam Malkin,Ron Weasley >	1
 <Madam Maxime,Albus Dumbledore>	12
 <Madam Maxime,Bill Weasley>	1
 <Madam Maxime,Cedric Diggory>	1
@@ -1849,20 +1827,63 @@
 <Madam Maxime,Professor Sprout>	1
 <Madam Maxime,Rita Skeeter>	2
 <Madam Maxime,Roger Davis>	1
-<Madam Maxime,Ron Weasley>	2
-<Madam Maxime,Ron Weasley >	6
+<Madam Maxime,Ron Weasley>	3
+<Madam Maxime,Ron Weasley >	5
 <Madam Maxime,Rubeus Hagrid>	34
 <Madam Maxime,Slytherin>	1
 <Madam Maxime,Tom Riddle>	1
 <Madam Maxime,Viktor Krum>	6
-<Madam Pince,Hermione Granger>	1
-<Madam Pomfrey,Albus Dumbledore>	1
-<Madam Pomfrey,Alicia SpinnetProfessor Binns>	1
-<Madam Pomfrey,Cornelius Fudge>	1
-<Madam Pomfrey,Harry Potter>	3
-<Madam Pomfrey,Ravenclaw>	1
-<Madam Pomfrey,Rubeus Hagrid>	1
+<Madam Pince,Draco Malfoy>	1
+<Madam Pince,Filch>	2
+<Madam Pince,Gryffindor>	1
+<Madam Pince,Hannah Abbott>	1
+<Madam Pince,Harry Potter>	8
+<Madam Pince,Hermione Granger>	5
+<Madam Pince,Nicolas Flamel>	1
+<Madam Pince,Professor Severus Snape>	1
+<Madam Pince,Professor Sprout>	1
+<Madam Pince,Ron Weasley >	4
+<Madam Pince,Slytherin>	1
+<Madam Pomfrey,Albus Dumbledore>	16
+<Madam Pomfrey,Alicia SpinnetProfessor Binns>	2
+<Madam Pomfrey,Bill Weasley>	2
+<Madam Pomfrey,Cedric Diggory>	2
+<Madam Pomfrey,Cho Chang>	2
+<Madam Pomfrey,Cornelius Fudge>	4
+<Madam Pomfrey,Dean Thomas>	1
+<Madam Pomfrey,Dobby>	1
+<Madam Pomfrey,Draco Malfoy>	4
+<Madam Pomfrey,Fleur Delacour>	4
+<Madam Pomfrey,Fred Weasley>	3
+<Madam Pomfrey,George Weasley>	4
+<Madam Pomfrey,Gibleroy Lockhart>	1
+<Madam Pomfrey,Ginny Weasley>	5
+<Madam Pomfrey,Gryffindor>	1
+<Madam Pomfrey,Hannah Abbott>	1
+<Madam Pomfrey,Harry Potter>	59
+<Madam Pomfrey,Hermione Granger>	32
+<Madam Pomfrey,Hufflepuff>	2
+<Madam Pomfrey,James Potter>	1
+<Madam Pomfrey,Justin Finch-Fletchley>	1
+<Madam Pomfrey,Katie Bell>	1
+<Madam Pomfrey,Mad-eye Moody>	2
+<Madam Pomfrey,Mr Crouch>	1
+<Madam Pomfrey,Nearly Headless Nick>	2
+<Madam Pomfrey,Neville Longbottom>	4
+<Madam Pomfrey,Percy Weasley>	1
+<Madam Pomfrey,Professor Flitwick>	1
+<Madam Pomfrey,Professor Lupin>	2
+<Madam Pomfrey,Professor Minerva Mcgonagall>	1
+<Madam Pomfrey,Professor Severus Snape>	10
+<Madam Pomfrey,Professor Sprout>	2
+<Madam Pomfrey,Ravenclaw>	2
+<Madam Pomfrey,Ron Weasley>	9
+<Madam Pomfrey,Ron Weasley >	15
+<Madam Pomfrey,Rubeus Hagrid>	3
+<Madam Pomfrey,Sirius Black>	4
 <Madam Pomfrey,Slytherin>	1
+<Madam Pomfrey,Voldemort>	1
+<Madam Pomfrey,Winky>	1
 <Millicent Bulstrode,Cornelius Fudge>	1
 <Millicent Bulstrode,Draco Malfoy>	1
 <Millicent Bulstrode,Dudley Dursley>	1
@@ -1872,8 +1893,8 @@
 <Millicent Bulstrode,Hermione Granger>	16
 <Millicent Bulstrode,Justin Finch-Fletchley>	3
 <Millicent Bulstrode,Neville Longbottom>	4
-<Millicent Bulstrode,Ron Weasley>	1
-<Millicent Bulstrode,Ron Weasley >	6
+<Millicent Bulstrode,Ron Weasley>	2
+<Millicent Bulstrode,Ron Weasley >	5
 <Millicent Bulstrode,Seamus Finnigan>	3
 <Millicent Bulstrode,Slytherin>	2
 <Millicent Bulstrode,Vincent Crabbe>	1
@@ -1889,7 +1910,8 @@
 <Moaning Murtle,Percy Weasley>	1
 <Moaning Murtle,Professor Severus Snape>	2
 <Moaning Murtle,Ravenclaw>	1
-<Moaning Murtle,Ron Weasley >	14
+<Moaning Murtle,Ron Weasley>	3
+<Moaning Murtle,Ron Weasley >	11
 <Moaning Murtle,Salazar Slytherin>	1
 <Moaning Murtle,Vincent Crabbe>	2
 <Molly Weasley,Albus Dumbledore>	7
@@ -1899,7 +1921,6 @@
 <Molly Weasley,Ginny Weasley>	1
 <Molly Weasley,Harry Potter>	13
 <Molly Weasley,Hermione Granger>	1
-<Molly Weasley,Madam>	2
 <Molly Weasley,Percy Weasley>	2
 <Molly Weasley,Professor Lupin>	1
 <Molly Weasley,Professor Severus Snape>	2
@@ -1928,8 +1949,8 @@
 <Mr Crouch,Igor Karkaroff>	7
 <Mr Crouch,Ludo Bagman>	28
 <Mr Crouch,Mad-eye Moody>	9
-<Mr Crouch,Madam>	1
 <Mr Crouch,Madam Maxime>	5
+<Mr Crouch,Madam Pomfrey>	1
 <Mr Crouch,Neville Longbottom>	1
 <Mr Crouch,Percy Weasley>	41
 <Mr Crouch,Petunia Dursley>	1
@@ -1937,8 +1958,8 @@
 <Mr Crouch,Professor Severus Snape>	15
 <Mr Crouch,Professor Sprout>	1
 <Mr Crouch,Rita Skeeter>	4
-<Mr Crouch,Ron Weasley>	3
-<Mr Crouch,Ron Weasley >	17
+<Mr Crouch,Ron Weasley>	10
+<Mr Crouch,Ron Weasley >	10
 <Mr Crouch,Sirius Black>	14
 <Mr Crouch,Skeeter>	2
 <Mr Crouch,Vernon Dursley>	3
@@ -1974,7 +1995,7 @@
 <Nearly Headless Nick,Hufflepuff>	2
 <Nearly Headless Nick,Justin Finch-Fletchley>	15
 <Nearly Headless Nick,Lavender Brown>	2
-<Nearly Headless Nick,Madam>	2
+<Nearly Headless Nick,Madam Pomfrey>	2
 <Nearly Headless Nick,Neville Longbottom>	6
 <Nearly Headless Nick,Parvati Patil>	2
 <Nearly Headless Nick,Peeves>	9
@@ -1984,9 +2005,9 @@
 <Nearly Headless Nick,Professor Sinistra>	5
 <Nearly Headless Nick,Professor Sprout>	2
 <Nearly Headless Nick,Ravenclaw>	4
-<Nearly Headless Nick,Ron Weasley >	14
+<Nearly Headless Nick,Ron Weasley>	4
+<Nearly Headless Nick,Ron Weasley >	10
 <Nearly Headless Nick,Seamus Finnigan>	2
-<Nearly Headless Nick,Sir Cadogan>	7
 <Nearly Headless Nick,Sirius Black>	3
 <Nearly Headless Nick,Slytherin>	3
 <Nearly Headless Nick,Tom Riddle>	1
@@ -2028,9 +2049,9 @@
 <Neville Longbottom,Lee Jordan>	1
 <Neville Longbottom,Lily Potter>	3
 <Neville Longbottom,Mad-eye Moody>	10
-<Neville Longbottom,Madam>	7
 <Neville Longbottom,Madam Hooch>	1
 <Neville Longbottom,Madam Maxime>	2
+<Neville Longbottom,Madam Pomfrey>	4
 <Neville Longbottom,Millicent Bulstrode>	4
 <Neville Longbottom,Mr Crouch>	1
 <Neville Longbottom,Nearly Headless Nick>	6
@@ -2043,15 +2064,15 @@
 <Neville Longbottom,Percy Weasley>	2
 <Neville Longbottom,Peter Pettigrew>	1
 <Neville Longbottom,Pigwidgeon>	2
-<Neville Longbottom,Porfessor Trelawney>	6
 <Neville Longbottom,Professor Flitwick>	3
 <Neville Longbottom,Professor Lupin>	20
 <Neville Longbottom,Professor Severus Snape>	42
 <Neville Longbottom,Professor Sinistra>	2
 <Neville Longbottom,Professor Sprout>	7
+<Neville Longbottom,Professor Trelawney>	6
 <Neville Longbottom,Ravenclaw>	2
-<Neville Longbottom,Ron Weasley>	5
-<Neville Longbottom,Ron Weasley >	97
+<Neville Longbottom,Ron Weasley>	23
+<Neville Longbottom,Ron Weasley >	79
 <Neville Longbottom,Rubeus Hagrid>	11
 <Neville Longbottom,Scabbers>	1
 <Neville Longbottom,Seamus Finnigan>	26
@@ -2067,9 +2088,10 @@
 <Nicolas Flamel,Filch>	1
 <Nicolas Flamel,Harry Potter>	10
 <Nicolas Flamel,Hermione Granger>	2
-<Nicolas Flamel,Madam>	1
+<Nicolas Flamel,Madam Pince>	1
 <Nicolas Flamel,Professor Severus Snape>	4
-<Nicolas Flamel,Ron Weasley >	7
+<Nicolas Flamel,Ron Weasley>	3
+<Nicolas Flamel,Ron Weasley >	4
 <Nicolas Flamel,Rubeus Hagrid>	2
 <Norbert,Aragog>	1
 <Norbert,Charlie Weasley>	4
@@ -2099,15 +2121,15 @@
 <Oliver Wood,Hufflepuff>	5
 <Oliver Wood,Katie Bell>	4
 <Oliver Wood,Lee Jordan>	2
-<Oliver Wood,Madam>	13
+<Oliver Wood,Madam Hooch>	9
 <Oliver Wood,Neville Longbottom>	1
 <Oliver Wood,Percy Weasley>	1
 <Oliver Wood,Professor Flitwick>	1
 <Oliver Wood,Professor Lupin>	1
 <Oliver Wood,Professor Severus Snape>	1
 <Oliver Wood,Ravenclaw>	7
-<Oliver Wood,Ron Weasley>	2
-<Oliver Wood,Ron Weasley >	13
+<Oliver Wood,Ron Weasley>	5
+<Oliver Wood,Ron Weasley >	10
 <Oliver Wood,Rubeus Hagrid>	1
 <Oliver Wood,Sirius Black>	1
 <Oliver Wood,Slytherin>	17
@@ -2145,7 +2167,8 @@
 <Padma Patil,Parvati Patil>	8
 <Padma Patil,Ravenclaw>	2
 <Padma Patil,Roger Davis>	1
-<Padma Patil,Ron Weasley >	10
+<Padma Patil,Ron Weasley>	2
+<Padma Patil,Ron Weasley >	8
 <Padma Patil,Viktor Krum>	3
 <Pansy Parkinson,Angelina Johnson>	1
 <Pansy Parkinson,Cedric Diggory>	1
@@ -2196,13 +2219,14 @@
 <Parvati Patil,Neville Longbottom>	7
 <Parvati Patil,Padma Patil>	8
 <Parvati Patil,Pansy Parkinson>	5
-<Parvati Patil,Porfessor Trelawney>	17
 <Parvati Patil,Professor Flitwick>	2
 <Parvati Patil,Professor Lupin>	1
 <Parvati Patil,Professor Severus Snape>	1
 <Parvati Patil,Professor Sinistra>	1
+<Parvati Patil,Professor Trelawney>	17
 <Parvati Patil,Ravenclaw>	3
-<Parvati Patil,Ron Weasley >	35
+<Parvati Patil,Ron Weasley>	7
+<Parvati Patil,Ron Weasley >	28
 <Parvati Patil,Rubeus Hagrid>	3
 <Parvati Patil,Seamus Finnigan>	7
 <Parvati Patil,Viktor Krum>	2
@@ -2226,11 +2250,12 @@
 <Peeves,Neville Longbottom>	1
 <Peeves,Norbert>	2
 <Peeves,Percy Weasley>	2
-<Peeves,Porfessor Trelawney>	1
 <Peeves,Professor Lupin>	2
 <Peeves,Professor Severus Snape>	5
 <Peeves,Professor Sprout>	1
-<Peeves,Ron Weasley >	15
+<Peeves,Professor Trelawney>	1
+<Peeves,Ron Weasley>	2
+<Peeves,Ron Weasley >	13
 <Peeves,Rubeus Hagrid>	4
 <Peeves,Sirius Black>	2
 <Penelop Clearwater,Cedric Diggory>	1
@@ -2240,7 +2265,7 @@
 <Penelop Clearwater,Hufflepuff>	1
 <Penelop Clearwater,Percy Weasley>	1
 <Penelop Clearwater,Ravenclaw>	4
-<Penelop Clearwater,Ron Weasley >	1
+<Penelop Clearwater,Ron Weasley>	1
 <Percy Weasley,Albus Dumbledore>	19
 <Percy Weasley,Bertha Jorkins>	1
 <Percy Weasley,Bill Weasley>	17
@@ -2265,8 +2290,8 @@
 <Percy Weasley,Igor Karkaroff>	1
 <Percy Weasley,Lee Jordan>	2
 <Percy Weasley,Ludo Bagman>	19
-<Percy Weasley,Madam>	2
 <Percy Weasley,Madam Maxime>	3
+<Percy Weasley,Madam Pomfrey>	1
 <Percy Weasley,Moaning Murtle>	1
 <Percy Weasley,Molly Weasley>	2
 <Percy Weasley,Mr Crouch>	41
@@ -2280,8 +2305,8 @@
 <Percy Weasley,Professor Severus Snape>	2
 <Percy Weasley,Professor Sprout>	1
 <Percy Weasley,Rita Skeeter>	1
-<Percy Weasley,Ron Weasley>	45
-<Percy Weasley,Ron Weasley >	59
+<Percy Weasley,Ron Weasley>	57
+<Percy Weasley,Ron Weasley >	47
 <Percy Weasley,Rubeus Hagrid>	7
 <Percy Weasley,Scabbers>	3
 <Percy Weasley,Seamus Finnigan>	1
@@ -2309,7 +2334,8 @@
 <Peter Pettigrew,Professor Lupin>	27
 <Peter Pettigrew,Professor Minerva Mcgonagall>	3
 <Peter Pettigrew,Professor Severus Snape>	7
-<Peter Pettigrew,Ron Weasley >	15
+<Peter Pettigrew,Ron Weasley>	2
+<Peter Pettigrew,Ron Weasley >	13
 <Peter Pettigrew,Rubeus Hagrid>	2
 <Peter Pettigrew,Scabbers>	2
 <Peter Pettigrew,Sirius Black>	65
@@ -2349,36 +2375,9 @@
 <Pigwidgeon,Hermione Granger>	9
 <Pigwidgeon,Igor Karkaroff>	2
 <Pigwidgeon,Neville Longbottom>	2
-<Pigwidgeon,Ron Weasley>	4
-<Pigwidgeon,Ron Weasley >	20
+<Pigwidgeon,Ron Weasley>	5
+<Pigwidgeon,Ron Weasley >	19
 <Pigwidgeon,Sirius Black>	6
-<Porfessor Trelawney,Albus Dumbledore>	11
-<Porfessor Trelawney,Alicia SpinnetProfessor Binns>	2
-<Porfessor Trelawney,Angelina Johnson>	1
-<Porfessor Trelawney,Cornelius Fudge>	1
-<Porfessor Trelawney,Dean Thomas>	1
-<Porfessor Trelawney,Draco Malfoy>	7
-<Porfessor Trelawney,Fawkes>	1
-<Porfessor Trelawney,Firenze>	5
-<Porfessor Trelawney,Fred Weasley>	2
-<Porfessor Trelawney,George Weasley>	2
-<Porfessor Trelawney,Ginny Weasley>	1
-<Porfessor Trelawney,Gryffindor>	3
-<Porfessor Trelawney,Harry Potter>	80
-<Porfessor Trelawney,Hermione Granger>	14
-<Porfessor Trelawney,Lavender Brown>	11
-<Porfessor Trelawney,Neville Longbottom>	6
-<Porfessor Trelawney,Parvati Patil>	17
-<Porfessor Trelawney,Peeves>	1
-<Porfessor Trelawney,Professor Flitwick>	1
-<Porfessor Trelawney,Professor Severus Snape>	7
-<Porfessor Trelawney,Professor Sprout>	1
-<Porfessor Trelawney,Ron Weasley >	26
-<Porfessor Trelawney,Rubeus Hagrid>	7
-<Porfessor Trelawney,Seamus Finnigan>	1
-<Porfessor Trelawney,Sirius Black>	3
-<Porfessor Trelawney,Slytherin>	1
-<Porfessor Trelawney,Voldemort>	3
 <Professor Flitwick,Albus Dumbledore>	4
 <Professor Flitwick,Alicia SpinnetProfessor Binns>	3
 <Professor Flitwick,Cedric Diggory>	1
@@ -2397,18 +2396,19 @@
 <Professor Flitwick,James Potter>	1
 <Professor Flitwick,Ludo Bagman>	1
 <Professor Flitwick,Mad-eye Moody>	2
-<Professor Flitwick,Madam>	3
+<Professor Flitwick,Madam Hooch>	1
+<Professor Flitwick,Madam Pomfrey>	1
 <Professor Flitwick,Nearly Headless Nick>	5
 <Professor Flitwick,Neville Longbottom>	3
 <Professor Flitwick,Oliver Wood>	1
 <Professor Flitwick,Pansy Parkinson>	1
 <Professor Flitwick,Parvati Patil>	2
 <Professor Flitwick,Percy Weasley>	2
-<Professor Flitwick,Porfessor Trelawney>	1
 <Professor Flitwick,Professor Lupin>	2
 <Professor Flitwick,Professor Severus Snape>	22
 <Professor Flitwick,Professor Sinistra>	2
 <Professor Flitwick,Professor Sprout>	8
+<Professor Flitwick,Professor Trelawney>	1
 <Professor Flitwick,Ron Weasley >	18
 <Professor Flitwick,Rubeus Hagrid>	5
 <Professor Flitwick,Seamus Finnigan>	4
@@ -2455,8 +2455,8 @@
 <Professor Lupin,James Potter>	25
 <Professor Lupin,Lily Potter>	1
 <Professor Lupin,Mad-eye Moody>	16
-<Professor Lupin,Madam>	2
 <Professor Lupin,Madam Maxime>	1
+<Professor Lupin,Madam Pomfrey>	2
 <Professor Lupin,Molly Weasley>	1
 <Professor Lupin,Moony>	1
 <Professor Lupin,Mr Ollivander>	1
@@ -2471,8 +2471,8 @@
 <Professor Lupin,Professor Minerva Mcgonagall>	2
 <Professor Lupin,Professor Severus Snape>	69
 <Professor Lupin,Ravenclaw>	2
-<Professor Lupin,Ron Weasley>	30
-<Professor Lupin,Ron Weasley >	37
+<Professor Lupin,Ron Weasley>	39
+<Professor Lupin,Ron Weasley >	28
 <Professor Lupin,Rubeus Hagrid>	7
 <Professor Lupin,Scabbers>	8
 <Professor Lupin,Seamus Finnigan>	1
@@ -2487,7 +2487,7 @@
 <Professor Minerva Mcgonagall,Gryffindor>	8
 <Professor Minerva Mcgonagall,Harry Potter>	7
 <Professor Minerva Mcgonagall,James Potter>	1
-<Professor Minerva Mcgonagall,Madam>	1
+<Professor Minerva Mcgonagall,Madam Pomfrey>	1
 <Professor Minerva Mcgonagall,Mr Crouch>	3
 <Professor Minerva Mcgonagall,Peter Pettigrew>	3
 <Professor Minerva Mcgonagall,Professor Lupin>	2
@@ -2523,7 +2523,7 @@
 <Professor Severus Snape,Ginny Weasley>	7
 <Professor Severus Snape,Goyle>	5
 <Professor Severus Snape,Gryffindor>	45
-<Professor Severus Snape,Harry Potter>	744
+<Professor Severus Snape,Harry Potter>	743
 <Professor Severus Snape,Hedwig>	1
 <Professor Severus Snape,Hermione Granger>	126
 <Professor Severus Snape,Hufflepuff>	6
@@ -2536,8 +2536,9 @@
 <Professor Severus Snape,Lily Potter>	3
 <Professor Severus Snape,Ludo Bagman>	1
 <Professor Severus Snape,Mad-eye Moody>	27
-<Professor Severus Snape,Madam>	11
 <Professor Severus Snape,Madam Maxime>	4
+<Professor Severus Snape,Madam Pince>	1
+<Professor Severus Snape,Madam Pomfrey>	10
 <Professor Severus Snape,Moaning Murtle>	2
 <Professor Severus Snape,Molly Weasley>	2
 <Professor Severus Snape,Moony>	1
@@ -2552,18 +2553,18 @@
 <Professor Severus Snape,Percy Weasley>	2
 <Professor Severus Snape,Peter Pettigrew>	7
 <Professor Severus Snape,Petunia Dursley>	1
-<Professor Severus Snape,Porfessor Trelawney>	7
 <Professor Severus Snape,Professor Flitwick>	22
 <Professor Severus Snape,Professor Grubbly-Plank>	1
 <Professor Severus Snape,Professor Lupin>	69
 <Professor Severus Snape,Professor Minerva Mcgonagall>	6
 <Professor Severus Snape,Professor Sinistra>	2
 <Professor Severus Snape,Professor Sprout>	4
+<Professor Severus Snape,Professor Trelawney>	7
 <Professor Severus Snape,Prongs>	1
 <Professor Severus Snape,Ravenclaw>	1
 <Professor Severus Snape,Rita Skeeter>	1
-<Professor Severus Snape,Ron Weasley>	23
-<Professor Severus Snape,Ron Weasley >	145
+<Professor Severus Snape,Ron Weasley>	52
+<Professor Severus Snape,Ron Weasley >	116
 <Professor Severus Snape,Rubeus Hagrid>	35
 <Professor Severus Snape,Scabbers>	3
 <Professor Severus Snape,Seamus Finnigan>	8
@@ -2611,24 +2612,53 @@
 <Professor Sprout,Lavender Brown>	1
 <Professor Sprout,Ludo Bagman>	2
 <Professor Sprout,Mad-eye Moody>	1
-<Professor Sprout,Madam>	3
 <Professor Sprout,Madam Maxime>	1
+<Professor Sprout,Madam Pince>	1
+<Professor Sprout,Madam Pomfrey>	2
 <Professor Sprout,Mr Crouch>	1
 <Professor Sprout,Nearly Headless Nick>	2
 <Professor Sprout,Neville Longbottom>	7
 <Professor Sprout,Peeves>	1
 <Professor Sprout,Percy Weasley>	1
 <Professor Sprout,Petunia Dursley>	1
-<Professor Sprout,Porfessor Trelawney>	1
 <Professor Sprout,Professor Flitwick>	8
 <Professor Sprout,Professor Severus Snape>	4
 <Professor Sprout,Professor Sinistra>	1
-<Professor Sprout,Ron Weasley>	1
-<Professor Sprout,Ron Weasley >	8
+<Professor Sprout,Professor Trelawney>	1
+<Professor Sprout,Ron Weasley>	3
+<Professor Sprout,Ron Weasley >	6
 <Professor Sprout,Rubeus Hagrid>	2
 <Professor Sprout,Seamus Finnigan>	1
 <Professor Sprout,Slytherin>	1
 <Professor Sprout,Vincent Crabbe>	1
+<Professor Trelawney,Albus Dumbledore>	11
+<Professor Trelawney,Alicia SpinnetProfessor Binns>	2
+<Professor Trelawney,Angelina Johnson>	1
+<Professor Trelawney,Cornelius Fudge>	1
+<Professor Trelawney,Dean Thomas>	1
+<Professor Trelawney,Draco Malfoy>	7
+<Professor Trelawney,Fawkes>	1
+<Professor Trelawney,Firenze>	5
+<Professor Trelawney,Fred Weasley>	2
+<Professor Trelawney,George Weasley>	2
+<Professor Trelawney,Ginny Weasley>	1
+<Professor Trelawney,Gryffindor>	3
+<Professor Trelawney,Harry Potter>	80
+<Professor Trelawney,Hermione Granger>	14
+<Professor Trelawney,Lavender Brown>	11
+<Professor Trelawney,Neville Longbottom>	6
+<Professor Trelawney,Parvati Patil>	17
+<Professor Trelawney,Peeves>	1
+<Professor Trelawney,Professor Flitwick>	1
+<Professor Trelawney,Professor Severus Snape>	7
+<Professor Trelawney,Professor Sprout>	1
+<Professor Trelawney,Ron Weasley>	3
+<Professor Trelawney,Ron Weasley >	23
+<Professor Trelawney,Rubeus Hagrid>	7
+<Professor Trelawney,Seamus Finnigan>	1
+<Professor Trelawney,Sirius Black>	3
+<Professor Trelawney,Slytherin>	1
+<Professor Trelawney,Voldemort>	3
 <Prongs,George Weasley>	1
 <Prongs,Harry Potter>	3
 <Prongs,Moony>	5
@@ -2662,8 +2692,8 @@
 <Ravenclaw,Katie Bell>	3
 <Ravenclaw,Lavender Brown>	3
 <Ravenclaw,Lee Jordan>	4
-<Ravenclaw,Madam>	3
-<Ravenclaw,Madam Pomfrey>	1
+<Ravenclaw,Madam Hooch>	2
+<Ravenclaw,Madam Pomfrey>	2
 <Ravenclaw,Moaning Murtle>	1
 <Ravenclaw,Nearly Headless Nick>	4
 <Ravenclaw,Neville Longbottom>	2
@@ -2674,8 +2704,8 @@
 <Ravenclaw,Professor Lupin>	2
 <Ravenclaw,Professor Severus Snape>	1
 <Ravenclaw,Roger Davis>	2
-<Ravenclaw,Ron Weasley>	1
-<Ravenclaw,Ron Weasley >	23
+<Ravenclaw,Ron Weasley>	4
+<Ravenclaw,Ron Weasley >	20
 <Ravenclaw,Scabbers>	1
 <Ravenclaw,Sirius Black>	2
 <Ravenclaw,Slytherin>	24
@@ -2704,8 +2734,8 @@
 <Rita Skeeter,Percy Weasley>	1
 <Rita Skeeter,Petunia Dursley>	1
 <Rita Skeeter,Professor Severus Snape>	1
-<Rita Skeeter,Ron Weasley>	4
-<Rita Skeeter,Ron Weasley >	6
+<Rita Skeeter,Ron Weasley>	5
+<Rita Skeeter,Ron Weasley >	5
 <Rita Skeeter,Rubeus Hagrid>	10
 <Rita Skeeter,Sirius Black>	1
 <Rita Skeeter,Skeeter>	1
@@ -2716,164 +2746,189 @@
 <Roger Davis,Cho Chang>	7
 <Roger Davis,Fleur Delacour>	8
 <Roger Davis,Harry Potter>	12
-<Roger Davis,Madam>	1
 <Roger Davis,Madam Maxime>	1
 <Roger Davis,Padma Patil>	1
 <Roger Davis,Ravenclaw>	2
-<Roger Davis,Ron Weasley >	5
+<Roger Davis,Ron Weasley>	1
+<Roger Davis,Ron Weasley >	4
 <Roger Davis,Viktor Krum>	1
-<Ron Weasley,Albus Dumbledore>	61
+<Ron Weasley,Albus Dumbledore>	84
+<Ron Weasley,Alicia SpinnetProfessor Binns>	2
 <Ron Weasley,Amos Diggory>	9
-<Ron Weasley,Angelina Johnson>	1
+<Ron Weasley,Angelina Johnson>	5
+<Ron Weasley,Aragog>	2
 <Ron Weasley,Bertha Jorkins>	2
-<Ron Weasley,Bill Weasley>	40
-<Ron Weasley,Cedric Diggory>	3
-<Ron Weasley,Charlie Weasley>	13
-<Ron Weasley,Colin Creevey>	2
+<Ron Weasley,Bill Weasley>	41
+<Ron Weasley,Cedric Diggory>	4
+<Ron Weasley,Charlie Weasley>	16
+<Ron Weasley,Cho Chang>	2
+<Ron Weasley,Colin Creevey>	5
 <Ron Weasley,Cornelius Fudge>	28
-<Ron Weasley,Crookshanks>	6
-<Ron Weasley,Dobby>	6
-<Ron Weasley,Draco Malfoy>	65
+<Ron Weasley,Crookshanks>	16
+<Ron Weasley,Dean Thomas>	8
+<Ron Weasley,Dobby>	9
+<Ron Weasley,Draco Malfoy>	90
 <Ron Weasley,Dudley Dursley>	14
-<Ron Weasley,Fat Friar>	2
-<Ron Weasley,Filch>	6
-<Ron Weasley,Fleur Delacour>	20
-<Ron Weasley,Fred Weasley>	88
-<Ron Weasley,George Weasley>	65
-<Ron Weasley,Gibleroy Lockhart>	5
-<Ron Weasley,Ginny Weasley>	90
-<Ron Weasley,Goyle>	1
-<Ron Weasley,Gryffindor>	15
-<Ron Weasley,Harry Potter>	524
-<Ron Weasley,Hedwig>	7
-<Ron Weasley,Hermione Granger>	112
+<Ron Weasley,Ernie Mcmillan>	2
+<Ron Weasley,Fang>	4
+<Ron Weasley,Fat Friar>	3
+<Ron Weasley,Filch>	13
+<Ron Weasley,Firenze>	2
+<Ron Weasley,Fleur Delacour>	27
+<Ron Weasley,Fluffy>	1
+<Ron Weasley,Fred Weasley>	124
+<Ron Weasley,George Weasley>	89
+<Ron Weasley,Gibleroy Lockhart>	11
+<Ron Weasley,Ginny Weasley>	127
+<Ron Weasley,Goyle>	8
+<Ron Weasley,Gryffindor>	31
+<Ron Weasley,Hannah Abbott>	1
+<Ron Weasley,Harry Potter>	1088
+<Ron Weasley,Headless>	1
+<Ron Weasley,Hedwig>	15
+<Ron Weasley,Hermione Granger>	363
 <Ron Weasley,Hufflepuff>	2
-<Ron Weasley,Igor Karkaroff>	1
+<Ron Weasley,Igor Karkaroff>	6
 <Ron Weasley,James Potter>	1
-<Ron Weasley,Katie Bell>	1
-<Ron Weasley,Lee Jordan>	8
+<Ron Weasley,Justin Finch-Fletchley>	1
+<Ron Weasley,Katie Bell>	7
+<Ron Weasley,Lavender Brown>	16
+<Ron Weasley,Lee Jordan>	10
 <Ron Weasley,Ludo Bagman>	12
-<Ron Weasley,Mad-eye Moody>	17
-<Ron Weasley,Madam>	11
-<Ron Weasley,Madam Maxime>	2
-<Ron Weasley,Millicent Bulstrode>	1
+<Ron Weasley,Mad-eye Moody>	20
+<Ron Weasley,Madam Hooch>	1
+<Ron Weasley,Madam Maxime>	3
+<Ron Weasley,Madam Pomfrey>	9
+<Ron Weasley,Millicent Bulstrode>	2
+<Ron Weasley,Moaning Murtle>	3
 <Ron Weasley,Molly Weasley>	13
-<Ron Weasley,Mr Crouch>	3
+<Ron Weasley,Mr Crouch>	10
 <Ron Weasley,Mr Ollivander>	1
-<Ron Weasley,Neville Longbottom>	5
-<Ron Weasley,Oliver Wood>	2
-<Ron Weasley,Percy Weasley>	45
+<Ron Weasley,Nearly Headless Nick>	4
+<Ron Weasley,Neville Longbottom>	23
+<Ron Weasley,Nicolas Flamel>	3
+<Ron Weasley,Oliver Wood>	5
+<Ron Weasley,Padma Patil>	2
+<Ron Weasley,Parvati Patil>	7
+<Ron Weasley,Peeves>	2
+<Ron Weasley,Penelop Clearwater>	1
+<Ron Weasley,Percy Weasley>	57
+<Ron Weasley,Peter Pettigrew>	2
 <Ron Weasley,Petunia Dursley>	9
-<Ron Weasley,Pigwidgeon>	4
-<Ron Weasley,Professor Lupin>	30
+<Ron Weasley,Pigwidgeon>	5
+<Ron Weasley,Professor Lupin>	39
 <Ron Weasley,Professor Minerva Mcgonagall>	1
-<Ron Weasley,Professor Severus Snape>	23
-<Ron Weasley,Professor Sprout>	1
-<Ron Weasley,Ravenclaw>	1
-<Ron Weasley,Rita Skeeter>	4
-<Ron Weasley,Ron Weasley >	114
-<Ron Weasley,Rubeus Hagrid>	47
-<Ron Weasley,Scabbers>	3
-<Ron Weasley,Seamus Finnigan>	3
-<Ron Weasley,Sirius Black>	64
+<Ron Weasley,Professor Severus Snape>	52
+<Ron Weasley,Professor Sprout>	3
+<Ron Weasley,Professor Trelawney>	3
+<Ron Weasley,Ravenclaw>	4
+<Ron Weasley,Rita Skeeter>	5
+<Ron Weasley,Roger Davis>	1
+<Ron Weasley,Ron Weasley >	273
+<Ron Weasley,Rubeus Hagrid>	73
+<Ron Weasley,Scabbers>	9
+<Ron Weasley,Seamus Finnigan>	12
+<Ron Weasley,Sir Cadogan>	1
+<Ron Weasley,Sirius Black>	80
 <Ron Weasley,Skeeter>	1
-<Ron Weasley,Slytherin>	5
-<Ron Weasley,Tom Riddle>	1
+<Ron Weasley,Slytherin>	12
+<Ron Weasley,Tom Riddle>	2
 <Ron Weasley,Vernon Dursley>	19
-<Ron Weasley,Viktor Krum>	1
-<Ron Weasley,Voldemort>	8
-<Ron Weasley,Winky>	2
-<Ron Weasley ,Albus Dumbledore>	113
-<Ron Weasley ,Alicia SpinnetProfessor Binns>	12
-<Ron Weasley ,Angelina Johnson>	16
-<Ron Weasley ,Aragog>	5
-<Ron Weasley ,Bill Weasley>	27
+<Ron Weasley,Viktor Krum>	6
+<Ron Weasley,Vincent Crabbe>	2
+<Ron Weasley,Voldemort>	12
+<Ron Weasley,Winky>	3
+<Ron Weasley ,Albus Dumbledore>	90
+<Ron Weasley ,Alicia SpinnetProfessor Binns>	10
+<Ron Weasley ,Angelina Johnson>	12
+<Ron Weasley ,Aragog>	3
+<Ron Weasley ,Bill Weasley>	26
 <Ron Weasley ,Bloody Baron>	3
 <Ron Weasley ,Buckbeak>	9
-<Ron Weasley ,Cedric Diggory>	19
-<Ron Weasley ,Charlie Weasley>	14
-<Ron Weasley ,Cho Chang>	21
-<Ron Weasley ,Colin Creevey>	9
+<Ron Weasley ,Cedric Diggory>	18
+<Ron Weasley ,Charlie Weasley>	11
+<Ron Weasley ,Cho Chang>	19
+<Ron Weasley ,Colin Creevey>	6
 <Ron Weasley ,Cornelius Fudge>	4
-<Ron Weasley ,Crookshanks>	48
-<Ron Weasley ,Dean Thomas>	46
+<Ron Weasley ,Crookshanks>	38
+<Ron Weasley ,Dean Thomas>	38
 <Ron Weasley ,Dennis Creevey>	1
-<Ron Weasley ,Dobby>	21
-<Ron Weasley ,Draco Malfoy>	168
+<Ron Weasley ,Dobby>	18
+<Ron Weasley ,Draco Malfoy>	143
 <Ron Weasley ,Dudley Dursley>	13
-<Ron Weasley ,Ernie Mcmillan>	10
-<Ron Weasley ,Fang>	19
-<Ron Weasley ,Fat Friar>	15
+<Ron Weasley ,Ernie Mcmillan>	8
+<Ron Weasley ,Fang>	15
+<Ron Weasley ,Fat Friar>	14
 <Ron Weasley ,Fawkes>	1
-<Ron Weasley ,Filch>	29
-<Ron Weasley ,Firenze>	4
-<Ron Weasley ,Fleur Delacour>	32
-<Ron Weasley ,Fluffy>	4
-<Ron Weasley ,Fred Weasley>	140
-<Ron Weasley ,George Weasley>	92
-<Ron Weasley ,Gibleroy Lockhart>	22
-<Ron Weasley ,Ginny Weasley>	167
-<Ron Weasley ,Goyle>	32
-<Ron Weasley ,Gryffindor>	133
-<Ron Weasley ,Hannah Abbott>	4
-<Ron Weasley ,Harry Potter>	2153
-<Ron Weasley ,Headless>	1
-<Ron Weasley ,Hedwig>	35
-<Ron Weasley ,Hermione Granger>	1179
+<Ron Weasley ,Filch>	22
+<Ron Weasley ,Firenze>	2
+<Ron Weasley ,Fleur Delacour>	25
+<Ron Weasley ,Fluffy>	3
+<Ron Weasley ,Fred Weasley>	104
+<Ron Weasley ,George Weasley>	68
+<Ron Weasley ,Gibleroy Lockhart>	16
+<Ron Weasley ,Ginny Weasley>	130
+<Ron Weasley ,Goyle>	25
+<Ron Weasley ,Gryffindor>	117
+<Ron Weasley ,Hannah Abbott>	3
+<Ron Weasley ,Harry Potter>	1589
+<Ron Weasley ,Hedwig>	27
+<Ron Weasley ,Hermione Granger>	928
 <Ron Weasley ,Hufflepuff>	18
-<Ron Weasley ,Igor Karkaroff>	11
-<Ron Weasley ,Justin Finch-Fletchley>	7
-<Ron Weasley ,Katie Bell>	8
-<Ron Weasley ,Lavender Brown>	82
-<Ron Weasley ,Lee Jordan>	8
+<Ron Weasley ,Igor Karkaroff>	6
+<Ron Weasley ,Justin Finch-Fletchley>	6
+<Ron Weasley ,Katie Bell>	2
+<Ron Weasley ,Lavender Brown>	66
+<Ron Weasley ,Lee Jordan>	6
 <Ron Weasley ,Ludo Bagman>	4
-<Ron Weasley ,Mad-eye Moody>	18
-<Ron Weasley ,Madam>	34
-<Ron Weasley ,Madam Hooch>	1
-<Ron Weasley ,Madam Maxime>	6
-<Ron Weasley ,Millicent Bulstrode>	6
-<Ron Weasley ,Moaning Murtle>	14
-<Ron Weasley ,Mr Crouch>	17
-<Ron Weasley ,Nearly Headless Nick>	14
-<Ron Weasley ,Neville Longbottom>	97
-<Ron Weasley ,Nicolas Flamel>	7
+<Ron Weasley ,Mad-eye Moody>	15
+<Ron Weasley ,Madam Hooch>	3
+<Ron Weasley ,Madam Malkin>	1
+<Ron Weasley ,Madam Maxime>	5
+<Ron Weasley ,Madam Pince>	4
+<Ron Weasley ,Madam Pomfrey>	15
+<Ron Weasley ,Millicent Bulstrode>	5
+<Ron Weasley ,Moaning Murtle>	11
+<Ron Weasley ,Mr Crouch>	10
+<Ron Weasley ,Nearly Headless Nick>	10
+<Ron Weasley ,Neville Longbottom>	79
+<Ron Weasley ,Nicolas Flamel>	4
 <Ron Weasley ,Norbert>	3
-<Ron Weasley ,Oliver Wood>	13
-<Ron Weasley ,Padma Patil>	10
+<Ron Weasley ,Oliver Wood>	10
+<Ron Weasley ,Padma Patil>	8
 <Ron Weasley ,Pansy Parkinson>	11
-<Ron Weasley ,Parvati Patil>	35
-<Ron Weasley ,Peeves>	15
-<Ron Weasley ,Penelop Clearwater>	1
-<Ron Weasley ,Percy Weasley>	59
-<Ron Weasley ,Peter Pettigrew>	15
+<Ron Weasley ,Parvati Patil>	28
+<Ron Weasley ,Peeves>	13
+<Ron Weasley ,Percy Weasley>	47
+<Ron Weasley ,Peter Pettigrew>	13
 <Ron Weasley ,Petunia Dursley>	5
-<Ron Weasley ,Pigwidgeon>	20
-<Ron Weasley ,Porfessor Trelawney>	26
+<Ron Weasley ,Pigwidgeon>	19
 <Ron Weasley ,Professor Flitwick>	18
 <Ron Weasley ,Professor Grubbly-Plank>	2
-<Ron Weasley ,Professor Lupin>	37
+<Ron Weasley ,Professor Lupin>	28
 <Ron Weasley ,Professor Minerva Mcgonagall>	3
-<Ron Weasley ,Professor Severus Snape>	145
-<Ron Weasley ,Professor Sprout>	8
-<Ron Weasley ,Ravenclaw>	23
-<Ron Weasley ,Rita Skeeter>	6
-<Ron Weasley ,Roger Davis>	5
-<Ron Weasley ,Ron Weasley>	114
-<Ron Weasley ,Rubeus Hagrid>	152
+<Ron Weasley ,Professor Severus Snape>	116
+<Ron Weasley ,Professor Sprout>	6
+<Ron Weasley ,Professor Trelawney>	23
+<Ron Weasley ,Ravenclaw>	20
+<Ron Weasley ,Rita Skeeter>	5
+<Ron Weasley ,Roger Davis>	4
+<Ron Weasley ,Ron Weasley>	273
+<Ron Weasley ,Rubeus Hagrid>	126
 <Ron Weasley ,Salazar Slytherin>	2
-<Ron Weasley ,Scabbers>	63
-<Ron Weasley ,Seamus Finnigan>	41
-<Ron Weasley ,Sir Cadogan>	5
-<Ron Weasley ,Sirius Black>	108
+<Ron Weasley ,Scabbers>	57
+<Ron Weasley ,Seamus Finnigan>	32
+<Ron Weasley ,Sir Cadogan>	1
+<Ron Weasley ,Sirius Black>	92
 <Ron Weasley ,Skeeter>	3
-<Ron Weasley ,Slytherin>	38
+<Ron Weasley ,Slytherin>	31
 <Ron Weasley ,Thomas>	1
-<Ron Weasley ,Tom Riddle>	4
+<Ron Weasley ,Tom Riddle>	3
 <Ron Weasley ,Vernon Dursley>	8
-<Ron Weasley ,Viktor Krum>	40
-<Ron Weasley ,Vincent Crabbe>	29
-<Ron Weasley ,Voldemort>	22
-<Ron Weasley ,Winky>	6
+<Ron Weasley ,Viktor Krum>	35
+<Ron Weasley ,Vincent Crabbe>	27
+<Ron Weasley ,Voldemort>	18
+<Ron Weasley ,Winky>	5
 <Ronan,Bane>	4
 <Ronan,Firenze>	1
 <Ronan,Harry Potter>	4
@@ -2924,9 +2979,8 @@
 <Rubeus Hagrid,Lily Potter>	8
 <Rubeus Hagrid,Ludo Bagman>	4
 <Rubeus Hagrid,Mad-eye Moody>	25
-<Rubeus Hagrid,Madam>	12
 <Rubeus Hagrid,Madam Maxime>	34
-<Rubeus Hagrid,Madam Pomfrey>	1
+<Rubeus Hagrid,Madam Pomfrey>	3
 <Rubeus Hagrid,Molly Weasley>	5
 <Rubeus Hagrid,Mr Ollivander>	4
 <Rubeus Hagrid,Neville Longbottom>	11
@@ -2939,7 +2993,6 @@
 <Rubeus Hagrid,Percy Weasley>	7
 <Rubeus Hagrid,Peter Pettigrew>	2
 <Rubeus Hagrid,Petunia Dursley>	3
-<Rubeus Hagrid,Porfessor Trelawney>	7
 <Rubeus Hagrid,Professor Flitwick>	5
 <Rubeus Hagrid,Professor Grubbly-Plank>	15
 <Rubeus Hagrid,Professor Lupin>	7
@@ -2947,9 +3000,10 @@
 <Rubeus Hagrid,Professor Severus Snape>	35
 <Rubeus Hagrid,Professor Sinistra>	1
 <Rubeus Hagrid,Professor Sprout>	2
+<Rubeus Hagrid,Professor Trelawney>	7
 <Rubeus Hagrid,Rita Skeeter>	10
-<Rubeus Hagrid,Ron Weasley>	47
-<Rubeus Hagrid,Ron Weasley >	152
+<Rubeus Hagrid,Ron Weasley>	73
+<Rubeus Hagrid,Ron Weasley >	126
 <Rubeus Hagrid,Ronan>	8
 <Rubeus Hagrid,Salazar Slytherin>	1
 <Rubeus Hagrid,Scabbers>	1
@@ -2992,8 +3046,8 @@
 <Scabbers,Professor Lupin>	8
 <Scabbers,Professor Severus Snape>	3
 <Scabbers,Ravenclaw>	1
-<Scabbers,Ron Weasley>	3
-<Scabbers,Ron Weasley >	63
+<Scabbers,Ron Weasley>	9
+<Scabbers,Ron Weasley >	57
 <Scabbers,Rubeus Hagrid>	1
 <Scabbers,Sirius Black>	11
 <Scabbers,Vincent Crabbe>	1
@@ -3019,40 +3073,28 @@
 <Seamus Finnigan,Neville Longbottom>	26
 <Seamus Finnigan,Parvati Patil>	7
 <Seamus Finnigan,Percy Weasley>	1
-<Seamus Finnigan,Porfessor Trelawney>	1
 <Seamus Finnigan,Professor Flitwick>	4
 <Seamus Finnigan,Professor Lupin>	1
 <Seamus Finnigan,Professor Severus Snape>	8
 <Seamus Finnigan,Professor Sprout>	1
-<Seamus Finnigan,Ron Weasley>	3
-<Seamus Finnigan,Ron Weasley >	41
+<Seamus Finnigan,Professor Trelawney>	1
+<Seamus Finnigan,Ron Weasley>	12
+<Seamus Finnigan,Ron Weasley >	32
 <Seamus Finnigan,Rubeus Hagrid>	1
-<Seamus Finnigan,Sir Cadogan>	2
 <Seamus Finnigan,Sirius Black>	1
 <Seamus Finnigan,Slytherin>	1
 <Seamus Finnigan,Viktor Krum>	2
 <Seamus Finnigan,Vincent Crabbe>	1
-<Sir Cadogan,Albus Dumbledore>	7
-<Sir Cadogan,Cornelius Fudge>	1
-<Sir Cadogan,Dobby>	3
-<Sir Cadogan,Draco Malfoy>	3
-<Sir Cadogan,Ernie Mcmillan>	2
 <Sir Cadogan,Fat Friar>	2
 <Sir Cadogan,Filch>	1
-<Sir Cadogan,Gryffindor>	4
-<Sir Cadogan,Harry Potter>	35
-<Sir Cadogan,Headless>	2
-<Sir Cadogan,Hermione Granger>	2
-<Sir Cadogan,Nearly Headless Nick>	7
+<Sir Cadogan,Gryffindor>	2
+<Sir Cadogan,Harry Potter>	11
 <Sir Cadogan,Neville Longbottom>	1
 <Sir Cadogan,Percy Weasley>	2
 <Sir Cadogan,Professor Flitwick>	1
-<Sir Cadogan,Ron Weasley >	5
-<Sir Cadogan,Seamus Finnigan>	2
+<Sir Cadogan,Ron Weasley>	1
+<Sir Cadogan,Ron Weasley >	1
 <Sir Cadogan,Sirius Black>	1
-<Sir Cadogan,Slytherin>	1
-<Sir Cadogan,Tom Riddle>	1
-<Sir Cadogan,Voldemort>	2
 <Sirius Black,Albus Dumbledore>	125
 <Sirius Black,Bertha Jorkins>	2
 <Sirius Black,Buckbeak>	22
@@ -3079,7 +3121,7 @@
 <Sirius Black,Lily Potter>	14
 <Sirius Black,Ludo Bagman>	1
 <Sirius Black,Mad-eye Moody>	17
-<Sirius Black,Madam>	11
+<Sirius Black,Madam Pomfrey>	4
 <Sirius Black,Molly Weasley>	9
 <Sirius Black,Moony>	1
 <Sirius Black,Mr Crouch>	14
@@ -3092,15 +3134,15 @@
 <Sirius Black,Peter Pettigrew>	65
 <Sirius Black,Petunia Dursley>	1
 <Sirius Black,Pigwidgeon>	6
-<Sirius Black,Porfessor Trelawney>	3
 <Sirius Black,Professor Flitwick>	2
 <Sirius Black,Professor Lupin>	111
 <Sirius Black,Professor Minerva Mcgonagall>	2
 <Sirius Black,Professor Severus Snape>	121
+<Sirius Black,Professor Trelawney>	3
 <Sirius Black,Ravenclaw>	2
 <Sirius Black,Rita Skeeter>	1
-<Sirius Black,Ron Weasley>	64
-<Sirius Black,Ron Weasley >	108
+<Sirius Black,Ron Weasley>	80
+<Sirius Black,Ron Weasley >	92
 <Sirius Black,Rubeus Hagrid>	31
 <Sirius Black,Scabbers>	11
 <Sirius Black,Seamus Finnigan>	1
@@ -3151,9 +3193,9 @@
 <Slytherin,Igor Karkaroff>	1
 <Slytherin,Katie Bell>	12
 <Slytherin,Lee Jordan>	12
-<Slytherin,Madam>	7
-<Slytherin,Madam Hooch>	1
+<Slytherin,Madam Hooch>	4
 <Slytherin,Madam Maxime>	1
+<Slytherin,Madam Pince>	1
 <Slytherin,Madam Pomfrey>	1
 <Slytherin,Millicent Bulstrode>	2
 <Slytherin,Nearly Headless Nick>	3
@@ -3161,18 +3203,17 @@
 <Slytherin,Oliver Wood>	17
 <Slytherin,Pansy Parkinson>	12
 <Slytherin,Percy Weasley>	2
-<Slytherin,Porfessor Trelawney>	1
 <Slytherin,Professor Flitwick>	1
 <Slytherin,Professor Grubbly-Plank>	1
 <Slytherin,Professor Severus Snape>	28
 <Slytherin,Professor Sprout>	1
+<Slytherin,Professor Trelawney>	1
 <Slytherin,Ravenclaw>	24
-<Slytherin,Ron Weasley>	5
-<Slytherin,Ron Weasley >	38
+<Slytherin,Ron Weasley>	12
+<Slytherin,Ron Weasley >	31
 <Slytherin,Rubeus Hagrid>	10
 <Slytherin,Salazar Slytherin>	2
 <Slytherin,Seamus Finnigan>	1
-<Slytherin,Sir Cadogan>	1
 <Slytherin,Sirius Black>	2
 <Slytherin,Tom Riddle>	7
 <Slytherin,Viktor Krum>	4
@@ -3204,11 +3245,10 @@
 <Tom Riddle,Percy Weasley>	1
 <Tom Riddle,Professor Lupin>	1
 <Tom Riddle,Professor Severus Snape>	2
-<Tom Riddle,Ron Weasley>	1
-<Tom Riddle,Ron Weasley >	4
+<Tom Riddle,Ron Weasley>	2
+<Tom Riddle,Ron Weasley >	3
 <Tom Riddle,Rubeus Hagrid>	14
 <Tom Riddle,Salazar Slytherin>	1
-<Tom Riddle,Sir Cadogan>	1
 <Tom Riddle,Sirius Black>	1
 <Tom Riddle,Slytherin>	7
 <Tom Riddle,Voldemort>	15
@@ -3263,8 +3303,8 @@
 <Viktor Krum,Ravenclaw>	1
 <Viktor Krum,Rita Skeeter>	1
 <Viktor Krum,Roger Davis>	1
-<Viktor Krum,Ron Weasley>	1
-<Viktor Krum,Ron Weasley >	40
+<Viktor Krum,Ron Weasley>	6
+<Viktor Krum,Ron Weasley >	35
 <Viktor Krum,Rubeus Hagrid>	3
 <Viktor Krum,Seamus Finnigan>	2
 <Viktor Krum,Sirius Black>	1
@@ -3289,7 +3329,7 @@
 <Vincent Crabbe,Hufflepuff>	1
 <Vincent Crabbe,Katie Bell>	3
 <Vincent Crabbe,Mad-eye Moody>	1
-<Vincent Crabbe,Madam>	3
+<Vincent Crabbe,Madam Hooch>	2
 <Vincent Crabbe,Millicent Bulstrode>	1
 <Vincent Crabbe,Moaning Murtle>	2
 <Vincent Crabbe,Neville Longbottom>	5
@@ -3301,7 +3341,8 @@
 <Vincent Crabbe,Professor Severus Snape>	5
 <Vincent Crabbe,Professor Sprout>	1
 <Vincent Crabbe,Ravenclaw>	1
-<Vincent Crabbe,Ron Weasley >	29
+<Vincent Crabbe,Ron Weasley>	2
+<Vincent Crabbe,Ron Weasley >	27
 <Vincent Crabbe,Rubeus Hagrid>	4
 <Vincent Crabbe,Scabbers>	1
 <Vincent Crabbe,Seamus Finnigan>	1
@@ -3328,23 +3369,22 @@
 <Voldemort,James Potter>	10
 <Voldemort,Lily Potter>	11
 <Voldemort,Mad-eye Moody>	6
-<Voldemort,Madam>	2
+<Voldemort,Madam Pomfrey>	1
 <Voldemort,Mr Crouch>	11
 <Voldemort,Nearly Headless Nick>	2
 <Voldemort,Neville Longbottom>	10
 <Voldemort,Percy Weasley>	3
 <Voldemort,Peter Pettigrew>	10
 <Voldemort,Petunia Dursley>	4
-<Voldemort,Porfessor Trelawney>	3
 <Voldemort,Professor Lupin>	4
 <Voldemort,Professor Minerva Mcgonagall>	2
 <Voldemort,Professor Severus Snape>	41
+<Voldemort,Professor Trelawney>	3
 <Voldemort,Rita Skeeter>	2
-<Voldemort,Ron Weasley>	8
-<Voldemort,Ron Weasley >	22
+<Voldemort,Ron Weasley>	12
+<Voldemort,Ron Weasley >	18
 <Voldemort,Rubeus Hagrid>	7
 <Voldemort,Salazar Slytherin>	1
-<Voldemort,Sir Cadogan>	2
 <Voldemort,Sirius Black>	65
 <Voldemort,Slytherin>	3
 <Voldemort,Tom Riddle>	15
@@ -3360,12 +3400,12 @@
 <Winky,Harry Potter>	25
 <Winky,Hermione Granger>	13
 <Winky,Ludo Bagman>	5
-<Winky,Madam>	1
+<Winky,Madam Pomfrey>	1
 <Winky,Mr Crouch>	19
 <Winky,Professor Severus Snape>	2
 <Winky,Rita Skeeter>	1
-<Winky,Ron Weasley>	2
-<Winky,Ron Weasley >	6
+<Winky,Ron Weasley>	3
+<Winky,Ron Weasley >	5
 <Winky,Sirius Black>	1
 <Wormtail,Albus Dumbledore>	6
 <Wormtail,Bertha Jorkins>	10
