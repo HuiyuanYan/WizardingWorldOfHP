@@ -41,7 +41,6 @@ public class task1Mapper
             String line;
             while ((line = reader.readLine()) != null) {
                 // TODO: your code here
-                //
                 String[] strings = line.split(":");
                 this.nameDict.put(strings[0],strings[1]);
             }
