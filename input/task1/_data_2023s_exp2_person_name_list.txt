@@ -8,7 +8,7 @@ Firenze
 Oliver
 Cho Chang
 Rubeus
-Porfessor Trelawney
+Professor Trelawney
 Mad-eye Moody
 Dean Thomas
 Ludo Bagman
@@ -68,7 +68,6 @@ Hannah
 Voldemort
 Draco
 Viktor Krum
-Madam
 Fred Weasley
 Neville
 Professor Flitwick
@@ -87,7 +86,8 @@ Helga Hufflepuff
 Creevey
 Lavender Brown
 Bloody
-Alicia SpinnetProfessor Binns
+Alicia Spinnet
+Professor Binns
 Cornelius
 Justin
 Rubeus Hagrid
@@ -150,7 +150,6 @@ Harry Potter
 Seamus
 Dennis
 Crookshanks
-Porfessor
 Sir Cadogan
 Professor Minerva Mcgonagall
 Vernon Dursley
@@ -159,7 +158,6 @@ Colin
 Diggory
 Ollivander
 Lee Jordan
-Sir
 Black
 Clearwater
 Grubbly-Plank

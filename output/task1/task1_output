@@ -74,11 +74,11 @@ Albus Dumbledore,Filch
 Albus Dumbledore,Filch,Fat Friar
 Albus Dumbledore,Filch,Harry Potter,Peeves
 Albus Dumbledore,Firenze
-Albus Dumbledore,Firenze,Porfessor Trelawney,Voldemort
+Albus Dumbledore,Firenze,Professor Trelawney,Voldemort
 Albus Dumbledore,Fleur Delacour
 Albus Dumbledore,Fred Weasley
-Albus Dumbledore,Fred Weasley,George Weasley,Madam
-Albus Dumbledore,Fred Weasley,George Weasley,Madam,Ravenclaw,Hufflepuff
+Albus Dumbledore,Fred Weasley,George Weasley,Madam Pomfrey
+Albus Dumbledore,Fred Weasley,George Weasley,Madam Pomfrey,Ravenclaw,Hufflepuff
 Albus Dumbledore,George Weasley
 Albus Dumbledore,Gibleroy Lockhart
 Albus Dumbledore,Gibleroy Lockhart
@@ -264,6 +264,7 @@ Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
 Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
 Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
 Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
+Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
 Albus Dumbledore,Harry Potter,Harry Potter,Cornelius Fudge,Harry Potter,Harry Potter
 Albus Dumbledore,Harry Potter,Harry Potter,Harry Potter
 Albus Dumbledore,Harry Potter,Harry Potter,Harry Potter
@@ -277,24 +278,24 @@ Albus Dumbledore,Harry Potter,Hermione Granger
 Albus Dumbledore,Harry Potter,Hermione Granger
 Albus Dumbledore,Harry Potter,Hermione Granger
 Albus Dumbledore,Harry Potter,Hermione Granger,Albus Dumbledore,Albus Dumbledore,Hermione Granger
-Albus Dumbledore,Harry Potter,Hermione Granger,Cornelius Fudge,Madam
+Albus Dumbledore,Harry Potter,Hermione Granger,Cornelius Fudge,Madam Pomfrey
 Albus Dumbledore,Harry Potter,Hermione Granger,Harry Potter
 Albus Dumbledore,Harry Potter,Mad-eye Moody,Igor Karkaroff
 Albus Dumbledore,Harry Potter,Mr Crouch
 Albus Dumbledore,Harry Potter,Percy Weasley,Percy Weasley,Harry Potter
-Albus Dumbledore,Harry Potter,Porfessor Trelawney
-Albus Dumbledore,Harry Potter,Porfessor Trelawney
 Albus Dumbledore,Harry Potter,Professor Lupin
 Albus Dumbledore,Harry Potter,Professor Severus Snape
 Albus Dumbledore,Harry Potter,Professor Severus Snape,Mr Crouch
 Albus Dumbledore,Harry Potter,Professor Severus Snape,Voldemort,Professor Severus Snape
-Albus Dumbledore,Harry Potter,Ron Weasley 
-Albus Dumbledore,Harry Potter,Ron Weasley 
+Albus Dumbledore,Harry Potter,Professor Trelawney
+Albus Dumbledore,Harry Potter,Professor Trelawney
+Albus Dumbledore,Harry Potter,Ron Weasley
+Albus Dumbledore,Harry Potter,Ron Weasley
 Albus Dumbledore,Harry Potter,Ron Weasley,Harry Potter
-Albus Dumbledore,Harry Potter,Ron Weasley,Ron Weasley ,Hermione Granger,Madam,Harry Potter,Harry Potter,Ron Weasley
+Albus Dumbledore,Harry Potter,Ron Weasley,Ron Weasley ,Hermione Granger,Madam Pomfrey,Harry Potter,Harry Potter,Ron Weasley
 Albus Dumbledore,Harry Potter,Rubeus Hagrid,Fang,Igor Karkaroff
 Albus Dumbledore,Harry Potter,Tom Riddle
-Albus Dumbledore,Harry Potter,Tom Riddle,Sir Cadogan
+Albus Dumbledore,Harry Potter,Tom Riddle
 Albus Dumbledore,Harry Potter,Vernon Dursley
 Albus Dumbledore,Harry Potter,Voldemort
 Albus Dumbledore,Harry Potter,Voldemort
@@ -312,10 +313,10 @@ Albus Dumbledore,Hermione Granger
 Albus Dumbledore,Hermione Granger
 Albus Dumbledore,Hermione Granger
 Albus Dumbledore,Hermione Granger
-Albus Dumbledore,Hermione Granger,Harry Potter,Ron Weasley 
+Albus Dumbledore,Hermione Granger,Harry Potter,Ron Weasley
 Albus Dumbledore,Hermione Granger,Harry Potter,Ron Weasley ,Crookshanks
 Albus Dumbledore,Hermione Granger,Ron Weasley
-Albus Dumbledore,Hermione Granger,Ron Weasley 
+Albus Dumbledore,Hermione Granger,Ron Weasley
 Albus Dumbledore,Hufflepuff,Slytherin
 Albus Dumbledore,Hufflepuff,Slytherin,Gryffindor,Ravenclaw,Gryffindor
 Albus Dumbledore,Igor Karkaroff
@@ -339,8 +340,7 @@ Albus Dumbledore,Mad-eye Moody
 Albus Dumbledore,Mad-eye Moody,Igor Karkaroff
 Albus Dumbledore,Mad-eye Moody,Professor Lupin,Professor Severus Snape,Sirius Black,Professor Severus Snape
 Albus Dumbledore,Mad-eye Moody,Professor Severus Snape
-Albus Dumbledore,Madam
-Albus Dumbledore,Madam,Winky,Dobby
+Albus Dumbledore,Madam Pomfrey,Winky,Dobby
 Albus Dumbledore,Molly Weasley
 Albus Dumbledore,Molly Weasley
 Albus Dumbledore,Mr Crouch
@@ -352,10 +352,6 @@ Albus Dumbledore,Neville Longbottom
 Albus Dumbledore,Neville Longbottom,Harry Potter,Albus Dumbledore
 Albus Dumbledore,Nicolas Flamel,Albus Dumbledore
 Albus Dumbledore,Percy Weasley
-Albus Dumbledore,Porfessor Trelawney
-Albus Dumbledore,Porfessor Trelawney
-Albus Dumbledore,Porfessor Trelawney,Porfessor Trelawney
-Albus Dumbledore,Porfessor Trelawney,Ron Weasley ,Firenze
 Albus Dumbledore,Professor Flitwick,Percy Weasley
 Albus Dumbledore,Professor Lupin
 Albus Dumbledore,Professor Lupin,Albus Dumbledore,Harry Potter,Professor Lupin
@@ -379,13 +375,17 @@ Albus Dumbledore,Professor Severus Snape,Albus Dumbledore
 Albus Dumbledore,Professor Severus Snape,Albus Dumbledore,Professor Severus Snape
 Albus Dumbledore,Professor Severus Snape,Gryffindor
 Albus Dumbledore,Professor Severus Snape,Harry Potter,Professor Severus Snape,Professor Severus Snape,Slytherin
-Albus Dumbledore,Professor Severus Snape,Madam,Harry Potter,Katie Bell
-Albus Dumbledore,Professor Severus Snape,Madam,Mad-eye Moody,Cornelius Fudge,Mr Crouch
+Albus Dumbledore,Professor Severus Snape,Madam Pomfrey,Katie Bell
+Albus Dumbledore,Professor Severus Snape,Madam Pomfrey,Mad-eye Moody,Cornelius Fudge,Mr Crouch
 Albus Dumbledore,Professor Severus Snape,Professor Flitwick,Filch,Slytherin
 Albus Dumbledore,Professor Severus Snape,Rubeus Hagrid
 Albus Dumbledore,Professor Sprout
 Albus Dumbledore,Professor Sprout
 Albus Dumbledore,Professor Sprout,Albus Dumbledore
+Albus Dumbledore,Professor Trelawney
+Albus Dumbledore,Professor Trelawney
+Albus Dumbledore,Professor Trelawney,Professor Trelawney
+Albus Dumbledore,Professor Trelawney,Ron Weasley ,Firenze
 Albus Dumbledore,Ravenclaw,Hufflepuff,Slytherin
 Albus Dumbledore,Rita Skeeter
 Albus Dumbledore,Rita Skeeter,Mad-eye Moody,Mad-eye Moody,Albus Dumbledore
@@ -393,17 +393,17 @@ Albus Dumbledore,Ron Weasley
 Albus Dumbledore,Ron Weasley
 Albus Dumbledore,Ron Weasley
 Albus Dumbledore,Ron Weasley
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
-Albus Dumbledore,Ron Weasley 
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
+Albus Dumbledore,Ron Weasley
 Albus Dumbledore,Ron Weasley ,Bill Weasley,Albus Dumbledore
 Albus Dumbledore,Ron Weasley ,Harry Potter
 Albus Dumbledore,Ron Weasley ,Harry Potter,Albus Dumbledore
@@ -508,7 +508,7 @@ Albus Dumbledore,Voldemort,Harry Potter
 Albus Dumbledore,Voldemort,Harry Potter
 Albus Dumbledore,Voldemort,Harry Potter
 Albus Dumbledore,Voldemort,Harry Potter,Albus Dumbledore,Voldemort
-Albus Dumbledore,Voldemort,Harry Potter,Ron Weasley 
+Albus Dumbledore,Voldemort,Harry Potter,Ron Weasley
 Albus Dumbledore,Voldemort,Harry Potter,Voldemort
 Albus Dumbledore,Voldemort,Harry Potter,Voldemort,Voldemort
 Albus Dumbledore,Voldemort,Sirius Black,Voldemort
@@ -528,7 +528,7 @@ Alicia SpinnetProfessor Binns,Harry Potter
 Alicia SpinnetProfessor Binns,Harry Potter
 Alicia SpinnetProfessor Binns,Harry Potter
 Alicia SpinnetProfessor Binns,Harry Potter
-Alicia SpinnetProfessor Binns,Harry Potter,Ron Weasley 
+Alicia SpinnetProfessor Binns,Harry Potter,Ron Weasley
 Alicia SpinnetProfessor Binns,Hermione Granger
 Alicia SpinnetProfessor Binns,Hermione Granger
 Alicia SpinnetProfessor Binns,Katie Bell
@@ -537,9 +537,9 @@ Alicia SpinnetProfessor Binns,Katie Bell,Slytherin
 Alicia SpinnetProfessor Binns,Lee Jordan
 Alicia SpinnetProfessor Binns,Lee Jordan,Harry Potter,Lee Jordan,Angelina Johnson
 Alicia SpinnetProfessor Binns,Oliver Wood,Angelina Johnson,Slytherin,Gryffindor,Oliver Wood,Katie Bell,Gryffindor,Fred Weasley,George Weasley,Gryffindor,Angelina Johnson,Angelina Johnson
-Alicia SpinnetProfessor Binns,Porfessor Trelawney,Fred Weasley
-Alicia SpinnetProfessor Binns,Professor Severus Snape,Porfessor Trelawney,George Weasley
 Alicia SpinnetProfessor Binns,Professor Severus Snape,Professor Flitwick
+Alicia SpinnetProfessor Binns,Professor Severus Snape,Professor Trelawney,George Weasley
+Alicia SpinnetProfessor Binns,Professor Trelawney,Fred Weasley
 Alicia SpinnetProfessor Binns,Ron Weasley ,Harry Potter,Hermione Granger
 Amos Diggory,Harry Potter
 Amos Diggory,Harry Potter
@@ -576,16 +576,16 @@ Angelina Johnson,Harry Potter
 Angelina Johnson,Harry Potter,Fred Weasley,George Weasley,Harry Potter
 Angelina Johnson,Harry Potter,Harry Potter,Fred Weasley
 Angelina Johnson,Harry Potter,Hermione Granger
-Angelina Johnson,Harry Potter,Ron Weasley 
+Angelina Johnson,Harry Potter,Ron Weasley
 Angelina Johnson,Harry Potter,Ron Weasley ,Ron Weasley ,Alicia SpinnetProfessor Binns
 Angelina Johnson,Katie Bell
-Angelina Johnson,Katie Bell,Alicia SpinnetProfessor Binns,Madam
+Angelina Johnson,Katie Bell,Alicia SpinnetProfessor Binns
 Angelina Johnson,Pansy Parkinson
 Angelina Johnson,Slytherin,Harry Potter,Hufflepuff
 Aragog,Aragog
 Aragog,Harry Potter
 Aragog,Harry Potter
-Aragog,Harry Potter,Ron Weasley 
+Aragog,Harry Potter,Ron Weasley
 Aragog,Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Harry Potter
 Aragog,Rubeus Hagrid
 Aragog,Rubeus Hagrid
@@ -689,9 +689,9 @@ Cedric Diggory,Ludo Bagman,Mr Crouch
 Cedric Diggory,Mad-eye Moody,Rubeus Hagrid
 Cedric Diggory,Mr Crouch
 Cedric Diggory,Mr Crouch
-Cedric Diggory,Oliver Wood,Oliver Wood,Harry Potter,Madam,Madam
+Cedric Diggory,Oliver Wood,Oliver Wood,Harry Potter,Madam Hooch
 Cedric Diggory,Ron Weasley
-Cedric Diggory,Ron Weasley 
+Cedric Diggory,Ron Weasley
 Cedric Diggory,Seamus Finnigan
 Cedric Diggory,Seamus Finnigan
 Cedric Diggory,Viktor Krum
@@ -715,7 +715,7 @@ Charlie Weasley,Percy Weasley
 Charlie Weasley,Percy Weasley
 Charlie Weasley,Percy Weasley
 Charlie Weasley,Percy Weasley,Fred Weasley,Ginny Weasley
-Charlie Weasley,Ron Weasley 
+Charlie Weasley,Ron Weasley
 Charlie Weasley,Ron Weasley ,Harry Potter
 Charlie Weasley,Rubeus Hagrid,Harry Potter
 Cho Chang,Albus Dumbledore
@@ -723,7 +723,7 @@ Cho Chang,Cedric Diggory
 Cho Chang,Cho Chang,Cho Chang
 Cho Chang,Cho Chang,Cho Chang
 Cho Chang,Cho Chang,Harry Potter
-Cho Chang,Ginny Weasley,Hermione Granger,Viktor Krum,Ron Weasley 
+Cho Chang,Ginny Weasley,Hermione Granger,Viktor Krum,Ron Weasley
 Cho Chang,Gryffindor
 Cho Chang,Harry Potter
 Cho Chang,Harry Potter
@@ -757,9 +757,10 @@ Colin Creevey,Harry Potter
 Colin Creevey,Harry Potter
 Colin Creevey,Harry Potter,Harry Potter,Colin Creevey,Harry Potter
 Colin Creevey,Harry Potter,Hermione Granger,Harry Potter
-Colin Creevey,Harry Potter,Hermione Granger,Ron Weasley 
+Colin Creevey,Harry Potter,Hermione Granger,Ron Weasley
 Colin Creevey,Hermione Granger
-Colin Creevey,Ron Weasley ,Ron Weasley 
+Colin Creevey,Ron Weasley ,Ron Weasley
+Cornelius Fudge,Albus Dumbledore
 Cornelius Fudge,Albus Dumbledore
 Cornelius Fudge,Albus Dumbledore
 Cornelius Fudge,Albus Dumbledore
@@ -843,9 +844,7 @@ Cornelius Fudge,Hermione Granger
 Cornelius Fudge,Hermione Granger
 Cornelius Fudge,Ludo Bagman
 Cornelius Fudge,Ludo Bagman
-Cornelius Fudge,Madam
 Cornelius Fudge,Madam Maxime,Mr Crouch
-Cornelius Fudge,Madam,Albus Dumbledore
 Cornelius Fudge,Mr Crouch
 Cornelius Fudge,Mr Crouch
 Cornelius Fudge,Percy Weasley
@@ -866,7 +865,7 @@ Cornelius Fudge,Rubeus Hagrid,Rubeus Hagrid
 Cornelius Fudge,Sirius Black
 Cornelius Fudge,Sirius Black
 Cornelius Fudge,Sirius Black
-Cornelius Fudge,Sirius Black,Madam
+Cornelius Fudge,Sirius Black
 Cornelius Fudge,Sirius Black,Peter Pettigrew
 Cornelius Fudge,Sirius Black,Sirius Black,James Potter,Lily Potter,Harry Potter
 Cornelius Fudge,Tom Riddle
@@ -886,20 +885,20 @@ Crookshanks,Harry Potter,Hermione Granger
 Crookshanks,Harry Potter,Hermione Granger
 Crookshanks,Harry Potter,Hermione Granger
 Crookshanks,Harry Potter,Hermione Granger,Harry Potter
-Crookshanks,Harry Potter,Hermione Granger,Ron Weasley 
+Crookshanks,Harry Potter,Hermione Granger,Ron Weasley
 Crookshanks,Hedwig
 Crookshanks,Hermione Granger
 Crookshanks,Hermione Granger,Crookshanks
-Crookshanks,Professor Lupin,Ron Weasley 
+Crookshanks,Professor Lupin,Ron Weasley
 Crookshanks,Professor Lupin,Ron Weasley ,Professor Severus Snape,Sirius Black,Hermione Granger
-Crookshanks,Ron Weasley 
-Crookshanks,Ron Weasley 
-Crookshanks,Ron Weasley 
+Crookshanks,Ron Weasley
+Crookshanks,Ron Weasley
+Crookshanks,Ron Weasley
 Crookshanks,Sirius Black,Scabbers
 Dean Thomas,Ginny Weasley
 Dean Thomas,Ginny Weasley
 Dean Thomas,Ginny Weasley,Harry Potter,Ron Weasley ,Lavender Brown,Harry Potter,Hermione Granger
-Dean Thomas,Ginny Weasley,Hermione Granger,Harry Potter,Ron Weasley 
+Dean Thomas,Ginny Weasley,Hermione Granger,Harry Potter,Ron Weasley
 Dean Thomas,Harry Potter
 Dean Thomas,Harry Potter
 Dean Thomas,Harry Potter,Harry Potter
@@ -944,8 +943,8 @@ Dobby,Dobby,Harry Potter,Dobby,Harry Potter
 Dobby,Dobby,Harry Potter,Dobby,Harry Potter
 Dobby,Dobby,Harry Potter,Dobby,Harry Potter,Dobby,Harry Potter,Dobby,Harry Potter
 Dobby,Dobby,Harry Potter,Harry Potter
+Dobby,Dobby,Harry Potter,Harry Potter,Dobby
 Dobby,Dobby,Harry Potter,Harry Potter,Dobby,Harry Potter
-Dobby,Dobby,Harry Potter,Sir Cadogan,Harry Potter,Dobby
 Dobby,Dobby,Hermione Granger
 Dobby,Dobby,Mad-eye Moody,Dobby,Harry Potter
 Dobby,Dobby,Winky,Albus Dumbledore,Albus Dumbledore
@@ -983,7 +982,7 @@ Dobby,Harry Potter,Ron Weasley ,Hermione Granger,Dobby,Harry Potter,Ron Weasley
 Dobby,Harry Potter,Ron Weasley ,Peeves
 Dobby,Hermione Granger
 Dobby,Hermione Granger,Hermione Granger,Hedwig
-Dobby,Ron Weasley 
+Dobby,Ron Weasley
 Dobby,Ron Weasley,Dobby
 Dobby,Vernon Dursley,Harry Potter,Dobby
 Dobby,Winky
@@ -1015,7 +1014,7 @@ Draco Malfoy,Draco Malfoy
 Draco Malfoy,Draco Malfoy,Fred Weasley,George Weasley,Alicia SpinnetProfessor Binns,Ron Weasley ,Draco Malfoy
 Draco Malfoy,Draco Malfoy,Harry Potter,Draco Malfoy,Ron Weasley ,Draco Malfoy,Professor Severus Snape
 Draco Malfoy,Draco Malfoy,Harry Potter,Gibleroy Lockhart
-Draco Malfoy,Draco Malfoy,Harry Potter,Ron Weasley 
+Draco Malfoy,Draco Malfoy,Harry Potter,Ron Weasley
 Draco Malfoy,Draco Malfoy,Harry Potter,Vincent Crabbe,Goyle,Hermione Granger
 Draco Malfoy,Dudley Dursley
 Draco Malfoy,Ernie Mcmillan
@@ -1105,10 +1104,10 @@ Draco Malfoy,Harry Potter,Hermione Granger
 Draco Malfoy,Harry Potter,Hermione Granger,Draco Malfoy
 Draco Malfoy,Harry Potter,Professor Severus Snape
 Draco Malfoy,Harry Potter,Ron Weasley
-Draco Malfoy,Harry Potter,Ron Weasley 
-Draco Malfoy,Harry Potter,Ron Weasley 
-Draco Malfoy,Harry Potter,Ron Weasley 
-Draco Malfoy,Harry Potter,Ron Weasley 
+Draco Malfoy,Harry Potter,Ron Weasley
+Draco Malfoy,Harry Potter,Ron Weasley
+Draco Malfoy,Harry Potter,Ron Weasley
+Draco Malfoy,Harry Potter,Ron Weasley
 Draco Malfoy,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter
 Draco Malfoy,Harry Potter,Ron Weasley ,Sirius Black
 Draco Malfoy,Harry Potter,Ron Weasley ,Viktor Krum
@@ -1130,16 +1129,16 @@ Draco Malfoy,Hermione Granger
 Draco Malfoy,Hermione Granger,Filch
 Draco Malfoy,Hermione Granger,Filch
 Draco Malfoy,Hermione Granger,Harry Potter,Hermione Granger
-Draco Malfoy,Hermione Granger,Harry Potter,Ron Weasley 
+Draco Malfoy,Hermione Granger,Harry Potter,Ron Weasley
 Draco Malfoy,Hermione Granger,Hermione Granger,Harry Potter
 Draco Malfoy,Hermione Granger,Ron Weasley
 Draco Malfoy,Igor Karkaroff
 Draco Malfoy,Katie Bell
 Draco Malfoy,Katie Bell
 Draco Malfoy,Katie Bell,Alicia SpinnetProfessor Binns,Harry Potter
-Draco Malfoy,Madam
-Draco Malfoy,Madam
-Draco Malfoy,Madam
+Draco Malfoy,Madam Malkin
+Draco Malfoy,Madam Pince
+Draco Malfoy,Madam Pomfrey
 Draco Malfoy,Moaning Murtle,Ron Weasley ,Salazar Slytherin
 Draco Malfoy,Neville Longbottom
 Draco Malfoy,Neville Longbottom
@@ -1164,12 +1163,12 @@ Draco Malfoy,Professor Severus Snape,Harry Potter
 Draco Malfoy,Professor Severus Snape,Vincent Crabbe,Goyle
 Draco Malfoy,Ron Weasley
 Draco Malfoy,Ron Weasley
-Draco Malfoy,Ron Weasley 
-Draco Malfoy,Ron Weasley 
-Draco Malfoy,Ron Weasley 
-Draco Malfoy,Ron Weasley 
-Draco Malfoy,Ron Weasley 
-Draco Malfoy,Ron Weasley 
+Draco Malfoy,Ron Weasley
+Draco Malfoy,Ron Weasley
+Draco Malfoy,Ron Weasley
+Draco Malfoy,Ron Weasley
+Draco Malfoy,Ron Weasley
+Draco Malfoy,Ron Weasley
 Draco Malfoy,Ron Weasley ,Draco Malfoy,Vincent Crabbe,Goyle
 Draco Malfoy,Ron Weasley ,Gryffindor
 Draco Malfoy,Ron Weasley ,Harry Potter
@@ -1181,7 +1180,7 @@ Draco Malfoy,Ron Weasley ,Viktor Krum
 Draco Malfoy,Ron Weasley ,Vincent Crabbe
 Draco Malfoy,Rubeus Hagrid
 Draco Malfoy,Rubeus Hagrid,Buckbeak,Draco Malfoy
-Draco Malfoy,Sir Cadogan
+Draco Malfoy,Slytherin
 Draco Malfoy,Slytherin
 Draco Malfoy,Slytherin
 Draco Malfoy,Slytherin
@@ -1272,7 +1271,7 @@ Dursley,Harry Potter
 Dursley,Harry Potter,Vernon Dursley,Petunia Dursley,Dudley Dursley,Petunia Dursley,Vernon Dursley,Harry Potter,Harry Potter
 Dursley,Petunia Dursley
 Ernie Mcmillan,Draco Malfoy
-Ernie Mcmillan,Draco Malfoy,Sir Cadogan,Harry Potter
+Ernie Mcmillan,Draco Malfoy,Harry Potter,Harry Potter
 Ernie Mcmillan,Fat Friar,Harry Potter,Hermione Granger,Ernie Mcmillan
 Ernie Mcmillan,Hannah Abbott,Hufflepuff
 Ernie Mcmillan,Hannah Abbott,Ron Weasley ,Ravenclaw
@@ -1291,12 +1290,12 @@ Fang,Harry Potter,Harry Potter
 Fang,Harry Potter,Harry Potter
 Fang,Harry Potter,Harry Potter
 Fang,Harry Potter,Harry Potter,Ron Weasley ,Harry Potter
-Fang,Harry Potter,Ron Weasley 
-Fang,Harry Potter,Ron Weasley 
+Fang,Harry Potter,Ron Weasley
+Fang,Harry Potter,Ron Weasley
 Fang,Hermione Granger
 Fang,Hermione Granger,Ron Weasley ,Rubeus Hagrid
-Fang,Ron Weasley 
-Fang,Ron Weasley ,Ron Weasley 
+Fang,Ron Weasley
+Fang,Ron Weasley ,Ron Weasley
 Fang,Rubeus Hagrid
 Fang,Rubeus Hagrid
 Fang,Rubeus Hagrid
@@ -1328,7 +1327,7 @@ Fawkes,Harry Potter,Harry Potter
 Fawkes,Harry Potter,Slytherin,Tom Riddle,Harry Potter
 Fawkes,Tom Riddle
 Fawkes,Tom Riddle,Albus Dumbledore,Harry Potter
-Fawkes,Voldemort,Porfessor Trelawney
+Fawkes,Voldemort,Professor Trelawney
 Filch,Cho Chang,Cho Chang
 Filch,Filch
 Filch,Filch
@@ -1350,7 +1349,7 @@ Filch,Harry Potter,Filch
 Filch,Harry Potter,Filch,Harry Potter
 Filch,Harry Potter,Harry Potter,Harry Potter
 Filch,Harry Potter,Harry Potter,Mad-eye Moody,Professor Severus Snape
-Filch,Harry Potter,Harry Potter,Ron Weasley 
+Filch,Harry Potter,Harry Potter,Ron Weasley
 Filch,Harry Potter,Mad-eye Moody,Mad-eye Moody
 Filch,Harry Potter,Ron Weasley
 Filch,Harry Potter,Ron Weasley
@@ -1359,7 +1358,7 @@ Filch,Harry Potter,Sirius Black
 Filch,Hermione Granger
 Filch,Hermione Granger,Filch,Filch,Harry Potter
 Filch,Mad-eye Moody
-Filch,Madam
+Filch,Madam Pince
 Filch,Neville Longbottom
 Filch,Peeves
 Filch,Peeves
@@ -1372,9 +1371,9 @@ Filch,Professor Severus Snape
 Filch,Professor Severus Snape,Filch,Professor Severus Snape
 Filch,Professor Severus Snape,Harry Potter
 Filch,Ron Weasley
-Filch,Ron Weasley 
-Filch,Ron Weasley 
-Filch,Ron Weasley 
+Filch,Ron Weasley
+Filch,Ron Weasley
+Filch,Ron Weasley
 Filch,Ron Weasley ,Albus Dumbledore
 Filch,Ron Weasley ,Harry Potter,Hermione Granger
 Filch,Rubeus Hagrid
@@ -1391,9 +1390,9 @@ Firenze,Harry Potter
 Firenze,Harry Potter
 Firenze,Harry Potter,Ronan,Bane
 Firenze,Hermione Granger
-Firenze,Hermione Granger,Ron Weasley 
+Firenze,Hermione Granger,Ron Weasley
 Firenze,Parvati Patil
-Firenze,Ron Weasley 
+Firenze,Ron Weasley
 Firenze,Rubeus Hagrid
 Firenze,Rubeus Hagrid,Rubeus Hagrid
 Fleur Delacour,Bill Weasley
@@ -1402,12 +1401,12 @@ Fleur Delacour,Bill Weasley,Ron Weasley
 Fleur Delacour,Draco Malfoy,Rubeus Hagrid
 Fleur Delacour,George Weasley
 Fleur Delacour,Ginny Weasley
-Fleur Delacour,Ginny Weasley,Fleur Delacour,Ron Weasley 
+Fleur Delacour,Ginny Weasley,Fleur Delacour,Ron Weasley
 Fleur Delacour,Harry Potter
 Fleur Delacour,Harry Potter
 Fleur Delacour,Harry Potter,Ron Weasley
-Fleur Delacour,Harry Potter,Ron Weasley 
-Fleur Delacour,Harry Potter,Ron Weasley ,Ron Weasley 
+Fleur Delacour,Harry Potter,Ron Weasley
+Fleur Delacour,Harry Potter,Ron Weasley ,Ron Weasley
 Fleur Delacour,Harry Potter,Rubeus Hagrid,Madam Maxime
 Fleur Delacour,Hermione Granger
 Fleur Delacour,Madam Maxime
@@ -1417,7 +1416,7 @@ Fleur Delacour,Rita Skeeter,Harry Potter
 Fleur Delacour,Roger Davis
 Fleur Delacour,Ron Weasley
 Fleur Delacour,Ron Weasley ,Bill Weasley
-Fleur Delacour,Ron Weasley ,Ginny Weasley,Ron Weasley 
+Fleur Delacour,Ron Weasley ,Ginny Weasley,Ron Weasley
 Fleur Delacour,Ron Weasley,Fred Weasley,George Weasley,Ginny Weasley,Bill Weasley,Fleur Delacour,Professor Lupin
 Fleur Delacour,Ron Weasley,Ron Weasley
 Fleur Delacour,Viktor Krum
@@ -1487,7 +1486,7 @@ Fred Weasley,George Weasley,George Weasley
 Fred Weasley,George Weasley,George Weasley,Ron Weasley,Sirius Black,Harry Potter
 Fred Weasley,George Weasley,Ginny Weasley
 Fred Weasley,George Weasley,Ginny Weasley,Harry Potter,Ron Weasley ,Sirius Black
-Fred Weasley,George Weasley,Ginny Weasley,Ron Weasley 
+Fred Weasley,George Weasley,Ginny Weasley,Ron Weasley
 Fred Weasley,George Weasley,Gryffindor
 Fred Weasley,George Weasley,Gryffindor
 Fred Weasley,George Weasley,Gryffindor,Gryffindor,Harry Potter
@@ -1499,7 +1498,7 @@ Fred Weasley,George Weasley,Harry Potter
 Fred Weasley,George Weasley,Harry Potter,Fred Weasley,Lee Jordan
 Fred Weasley,George Weasley,Harry Potter,Hermione Granger
 Fred Weasley,George Weasley,Harry Potter,Hermione Granger,Fred Weasley,Harry Potter
-Fred Weasley,George Weasley,Harry Potter,Hermione Granger,Ron Weasley 
+Fred Weasley,George Weasley,Harry Potter,Hermione Granger,Ron Weasley
 Fred Weasley,George Weasley,Harry Potter,Ron Weasley ,Ginny Weasley,Harry Potter,Ron Weasley ,Fred Weasley,Ginny Weasley
 Fred Weasley,George Weasley,Hermione Granger
 Fred Weasley,George Weasley,Katie Bell,Ginny Weasley
@@ -1512,14 +1511,14 @@ Fred Weasley,George Weasley,Pigwidgeon,Hedwig
 Fred Weasley,George Weasley,Ron Weasley
 Fred Weasley,George Weasley,Ron Weasley
 Fred Weasley,George Weasley,Ron Weasley
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
-Fred Weasley,George Weasley,Ron Weasley 
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
+Fred Weasley,George Weasley,Ron Weasley
 Fred Weasley,George Weasley,Ron Weasley ,Hermione Granger
 Fred Weasley,George Weasley,Ron Weasley,Ron Weasley
 Fred Weasley,George Weasley,Sirius Black
@@ -1560,7 +1559,7 @@ Fred Weasley,Harry Potter,Harry Potter
 Fred Weasley,Harry Potter,Harry Potter
 Fred Weasley,Harry Potter,Hermione Granger
 Fred Weasley,Harry Potter,Hermione Granger
-Fred Weasley,Harry Potter,Ron Weasley 
+Fred Weasley,Harry Potter,Ron Weasley
 Fred Weasley,Hermione Granger
 Fred Weasley,Hermione Granger
 Fred Weasley,Hermione Granger
@@ -1572,7 +1571,7 @@ Fred Weasley,Lee Jordan
 Fred Weasley,Lee Jordan,George Weasley
 Fred Weasley,Lee Jordan,Gryffindor,Hufflepuff,Parvati Patil,Lavender Brown,Harry Potter
 Fred Weasley,Lee Jordan,Professor Severus Snape
-Fred Weasley,Madam,Alicia SpinnetProfessor Binns
+Fred Weasley,Madam Hooch,Alicia SpinnetProfessor Binns
 Fred Weasley,Oliver Wood,Harry Potter
 Fred Weasley,Percy Weasley
 Fred Weasley,Ron Weasley
@@ -1580,19 +1579,19 @@ Fred Weasley,Ron Weasley
 Fred Weasley,Ron Weasley
 Fred Weasley,Ron Weasley
 Fred Weasley,Ron Weasley
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
-Fred Weasley,Ron Weasley 
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
+Fred Weasley,Ron Weasley
 Fred Weasley,Ron Weasley ,George Weasley
 Fred Weasley,Ron Weasley ,Harry Potter
 Fred Weasley,Ron Weasley ,Harry Potter
@@ -1608,7 +1607,7 @@ Fred Weasley,Rubeus Hagrid
 Fred Weasley,Sirius Black
 George Weasley,Albus Dumbledore
 George Weasley,Albus Dumbledore
-George Weasley,Angelina Johnson,Harry Potter,Ron Weasley 
+George Weasley,Angelina Johnson,Harry Potter,Ron Weasley
 George Weasley,Bill Weasley
 George Weasley,Cedric Diggory,Ludo Bagman,Ludo Bagman
 George Weasley,Draco Malfoy
@@ -1633,8 +1632,8 @@ George Weasley,Fred Weasley,George Weasley,Harry Potter
 George Weasley,Fred Weasley,Ginny Weasley
 George Weasley,Fred Weasley,Harry Potter,Hermione Granger,Ginny Weasley
 George Weasley,Fred Weasley,Lee Jordan,George Weasley,Harry Potter
-George Weasley,Fred Weasley,Ron Weasley 
-George Weasley,Fred Weasley,Ron Weasley 
+George Weasley,Fred Weasley,Ron Weasley
+George Weasley,Fred Weasley,Ron Weasley
 George Weasley,George Weasley
 George Weasley,Gibleroy Lockhart,Ginny Weasley
 George Weasley,Ginny Weasley
@@ -1678,14 +1677,14 @@ George Weasley,Percy Weasley,Mr Crouch,Percy Weasley,Mr Crouch,Percy Weasley
 George Weasley,Professor Lupin
 George Weasley,Ron Weasley
 George Weasley,Ron Weasley
-George Weasley,Ron Weasley 
-George Weasley,Ron Weasley 
-George Weasley,Ron Weasley 
+George Weasley,Ron Weasley
+George Weasley,Ron Weasley
+George Weasley,Ron Weasley
 George Weasley,Ron Weasley ,Harry Potter
 George Weasley,Slytherin,Slytherin
 George Weasley,Vincent Crabbe
 Gibleroy Lockhart,Albus Dumbledore
-Gibleroy Lockhart,Albus Dumbledore,Ron Weasley 
+Gibleroy Lockhart,Albus Dumbledore,Ron Weasley
 Gibleroy Lockhart,Colin Creevey,Colin Creevey,Harry Potter,Colin Creevey,Harry Potter
 Gibleroy Lockhart,Draco Malfoy,Harry Potter,Harry Potter,Draco Malfoy,Draco Malfoy
 Gibleroy Lockhart,Gibleroy Lockhart
@@ -1712,14 +1711,14 @@ Gibleroy Lockhart,Harry Potter,Harry Potter,Gibleroy Lockhart,Gibleroy Lockhart
 Gibleroy Lockhart,Harry Potter,Harry Potter,Gibleroy Lockhart,Harry Potter,Harry Potter,Harry Potter,Professor Sprout,Harry Potter,Ron Weasley ,Hermione Granger
 Gibleroy Lockhart,Harry Potter,Hermione Granger
 Gibleroy Lockhart,Harry Potter,Professor Severus Snape
-Gibleroy Lockhart,Harry Potter,Ron Weasley,Hermione Granger,Madam
+Gibleroy Lockhart,Harry Potter,Ron Weasley,Hermione Granger,Madam Pomfrey
 Gibleroy Lockhart,Hermione Granger
 Gibleroy Lockhart,Hermione Granger,Ron Weasley ,Harry Potter
 Gibleroy Lockhart,Justin Finch-Fletchley
 Gibleroy Lockhart,Moaning Murtle
 Gibleroy Lockhart,Neville Longbottom
 Gibleroy Lockhart,Neville Longbottom
-Gibleroy Lockhart,Neville Longbottom,Justin Finch-Fletchley,Professor Severus Snape,Harry Potter,Ron Weasley 
+Gibleroy Lockhart,Neville Longbottom,Justin Finch-Fletchley,Professor Severus Snape,Harry Potter,Ron Weasley
 Gibleroy Lockhart,Professor Lupin
 Gibleroy Lockhart,Professor Lupin,Harry Potter,Mad-eye Moody
 Gibleroy Lockhart,Professor Severus Snape
@@ -1727,9 +1726,9 @@ Gibleroy Lockhart,Professor Severus Snape
 Gibleroy Lockhart,Professor Severus Snape,Neville Longbottom,Finch-Fletchley
 Gibleroy Lockhart,Professor Severus Snape,Neville Longbottom,Finch-Fletchley,Draco Malfoy,Harry Potter,Professor Severus Snape
 Gibleroy Lockhart,Professor Severus Snape,Professor Flitwick
-Gibleroy Lockhart,Ron Weasley 
-Gibleroy Lockhart,Ron Weasley 
-Gibleroy Lockhart,Ron Weasley 
+Gibleroy Lockhart,Ron Weasley
+Gibleroy Lockhart,Ron Weasley
+Gibleroy Lockhart,Ron Weasley
 Gibleroy Lockhart,Ron Weasley ,Harry Potter,Gryffindor,Professor Severus Snape,Harry Potter,Ron Weasley ,Hermione Granger
 Gibleroy Lockhart,Rubeus Hagrid
 Gibleroy Lockhart,Rubeus Hagrid
@@ -1752,8 +1751,8 @@ Ginny Weasley,Fred Weasley
 Ginny Weasley,Fred Weasley,Harry Potter
 Ginny Weasley,Ginny Weasley
 Ginny Weasley,Ginny Weasley,Harry Potter,Harry Potter
-Ginny Weasley,Ginny Weasley,Ron Weasley 
-Ginny Weasley,Gryffindor,Ravenclaw,Cho Chang,Ron Weasley 
+Ginny Weasley,Ginny Weasley,Ron Weasley
+Ginny Weasley,Gryffindor,Ravenclaw,Cho Chang,Ron Weasley
 Ginny Weasley,Harry Potter
 Ginny Weasley,Harry Potter
 Ginny Weasley,Harry Potter
@@ -1775,7 +1774,7 @@ Ginny Weasley,Harry Potter,Ginny Weasley,Gryffindor,Harry Potter,Ginny Weasley
 Ginny Weasley,Harry Potter,Harry Potter,Professor Severus Snape,Professor Severus Snape
 Ginny Weasley,Harry Potter,Hermione Granger,Gryffindor
 Ginny Weasley,Harry Potter,Neville Longbottom
-Ginny Weasley,Harry Potter,Ron Weasley 
+Ginny Weasley,Harry Potter,Ron Weasley
 Ginny Weasley,Harry Potter,Ron Weasley ,Hermione Granger
 Ginny Weasley,Harry Potter,Ron Weasley ,Hermione Granger,Ginny Weasley
 Ginny Weasley,Harry Potter,Tom Riddle,Rubeus Hagrid
@@ -1785,7 +1784,7 @@ Ginny Weasley,Hermione Granger
 Ginny Weasley,Hermione Granger
 Ginny Weasley,Hermione Granger
 Ginny Weasley,Hermione Granger,Ginny Weasley,Ginny Weasley,George Weasley
-Ginny Weasley,Hermione Granger,Gryffindor,Ron Weasley 
+Ginny Weasley,Hermione Granger,Gryffindor,Ron Weasley
 Ginny Weasley,Hermione Granger,Harry Potter
 Ginny Weasley,Hermione Granger,Neville Longbottom,Harry Potter,Hermione Granger
 Ginny Weasley,Hufflepuff
@@ -1800,23 +1799,23 @@ Ginny Weasley,Percy Weasley
 Ginny Weasley,Professor Lupin,Sirius Black
 Ginny Weasley,Professor Severus Snape,Harry Potter,Harry Potter
 Ginny Weasley,Ron Weasley
-Ginny Weasley,Ron Weasley 
-Ginny Weasley,Ron Weasley 
-Ginny Weasley,Ron Weasley 
-Ginny Weasley,Ron Weasley 
-Ginny Weasley,Ron Weasley 
-Ginny Weasley,Ron Weasley 
-Ginny Weasley,Ron Weasley 
+Ginny Weasley,Ron Weasley
+Ginny Weasley,Ron Weasley
+Ginny Weasley,Ron Weasley
+Ginny Weasley,Ron Weasley
+Ginny Weasley,Ron Weasley
+Ginny Weasley,Ron Weasley
+Ginny Weasley,Ron Weasley
 Ginny Weasley,Ron Weasley ,Harry Potter
 Ginny Weasley,Ron Weasley ,Harry Potter
 Ginny Weasley,Ron Weasley ,Hermione Granger,Professor Lupin
 Ginny Weasley,Ron Weasley ,Ron Weasley ,Ginny Weasley,Dean Thomas,Ron Weasley ,Harry Potter
-Ginny Weasley,Ron Weasley ,Ron Weasley ,Ron Weasley 
+Ginny Weasley,Ron Weasley ,Ron Weasley ,Ron Weasley
 Ginny Weasley,Ron Weasley ,Slytherin
 Ginny Weasley,Ron Weasley,Bill Weasley,Percy Weasley
 Ginny Weasley,Ron Weasley,Ginny Weasley
 Ginny Weasley,Ron Weasley,Harry Potter,Hermione Granger
-Ginny Weasley,Ron Weasley,Harry Potter,Ron Weasley 
+Ginny Weasley,Ron Weasley,Harry Potter,Ron Weasley
 Ginny Weasley,Sirius Black
 Ginny Weasley,Sirius Black
 Ginny Weasley,Tom Riddle
@@ -1838,10 +1837,10 @@ Goyle,Harry Potter
 Goyle,Harry Potter,Draco Malfoy,Harry Potter
 Goyle,Harry Potter,Goyle,Hermione Granger
 Goyle,Harry Potter,Ron Weasley ,Hermione Granger
-Goyle,Neville Longbottom,Hermione Granger,Professor Severus Snape,Harry Potter,Ron Weasley 
-Goyle,Ron Weasley 
-Goyle,Ron Weasley 
-Goyle,Ron Weasley 
+Goyle,Neville Longbottom,Hermione Granger,Professor Severus Snape,Harry Potter,Ron Weasley
+Goyle,Ron Weasley
+Goyle,Ron Weasley
+Goyle,Ron Weasley
 Gryffindor,Albus Dumbledore
 Gryffindor,Albus Dumbledore,Harry Potter,Salazar Slytherin,Gryffindor
 Gryffindor,Alicia SpinnetProfessor Binns,Gryffindor,Slytherin,Alicia SpinnetProfessor Binns,Slytherin,George Weasley,Angelina Johnson,Angelina Johnson,Angelina Johnson
@@ -1885,12 +1884,12 @@ Gryffindor,Harry Potter,Hermione Granger,Hermione Granger,Harry Potter
 Gryffindor,Harry Potter,Hermione Granger,Neville Longbottom,Fred Weasley,Ginny Weasley
 Gryffindor,Harry Potter,Hermione Granger,Neville Longbottom,Gryffindor,Harry Potter,Ron Weasley ,Draco Malfoy
 Gryffindor,Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley ,Gryffindor
-Gryffindor,Harry Potter,Porfessor Trelawney,Draco Malfoy
+Gryffindor,Harry Potter,Professor Trelawney,Draco Malfoy
 Gryffindor,Harry Potter,Ravenclaw,Hufflepuff,Slytherin,Harry Potter,Draco Malfoy
 Gryffindor,Harry Potter,Ron Weasley
 Gryffindor,Harry Potter,Ron Weasley ,Harry Potter
-Gryffindor,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
-Gryffindor,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
+Gryffindor,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
+Gryffindor,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
 Gryffindor,Harry Potter,Ron Weasley ,Hermione Granger
 Gryffindor,Harry Potter,Ron Weasley ,Percy Weasley
 Gryffindor,Harry Potter,Sirius Black,Harry Potter,Hermione Granger
@@ -1911,10 +1910,10 @@ Gryffindor,Hufflepuff,Ravenclaw,Slytherin
 Gryffindor,Hufflepuff,Slytherin,Harry Potter,Hermione Granger,Gryffindor,Harry Potter
 Gryffindor,Katie Bell,Gryffindor
 Gryffindor,Katie Bell,Lee Jordan
-Gryffindor,Lavender Brown,Parvati Patil,Hermione Granger,Parvati Patil,Harry Potter,Ron Weasley ,Parvati Patil,Lavender Brown,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley ,Draco Malfoy,Hermione Granger,Ron Weasley 
+Gryffindor,Lavender Brown,Parvati Patil,Hermione Granger,Parvati Patil,Harry Potter,Ron Weasley ,Parvati Patil,Lavender Brown,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley ,Draco Malfoy,Hermione Granger,Ron Weasley
 Gryffindor,Lee Jordan,Dean Thomas,Harry Potter,Cedric Diggory
-Gryffindor,Madam,Draco Malfoy
-Gryffindor,Madam,Oliver Wood
+Gryffindor,Madam Hooch,Draco Malfoy
+Gryffindor,Madam Hooch,Oliver Wood
 Gryffindor,Neville Longbottom
 Gryffindor,Neville Longbottom,Sir Cadogan
 Gryffindor,Oliver Wood,Fred Weasley,George Weasley,Alicia SpinnetProfessor Binns
@@ -1935,9 +1934,9 @@ Gryffindor,Ravenclaw,Hufflepuff,Slytherin
 Gryffindor,Ravenclaw,Slytherin
 Gryffindor,Ravenclaw,Slytherin,Hufflepuff,Gryffindor
 Gryffindor,Ravenclaw,Slytherin,Slytherin,Gryffindor,Ron Weasley ,Harry Potter,Ron Weasley ,Gryffindor,Slytherin
-Gryffindor,Ron Weasley 
-Gryffindor,Ron Weasley 
-Gryffindor,Ron Weasley 
+Gryffindor,Ron Weasley
+Gryffindor,Ron Weasley
+Gryffindor,Ron Weasley
 Gryffindor,Ron Weasley ,Dean Thomas,Seamus Finnigan
 Gryffindor,Ron Weasley ,Ginny Weasley,Harry Potter
 Gryffindor,Ron Weasley ,Hermione Granger
@@ -1965,7 +1964,10 @@ Gryffindor,Slytherin,Slytherin,Professor Severus Snape
 Hannah Abbott,Harry Potter
 Hannah Abbott,Hufflepuff
 Hannah Abbott,Hufflepuff,Harry Potter,Fat Friar
-Hannah Abbott,Ron Weasley 
+Hannah Abbott,Ron Weasley
+Harry Potter,Albus Dumbledore
+Harry Potter,Albus Dumbledore
+Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore
@@ -2126,8 +2128,8 @@ Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter
+Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter,Hedwig
-Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter,Sir Cadogan,Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Hedwig,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Professor Severus Snape,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Albus Dumbledore,Professor Severus Snape,Draco Malfoy,Harry Potter,Professor Severus Snape
@@ -2160,6 +2162,7 @@ Harry Potter,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Harry Potter
+Harry Potter,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Harry Potter,Albus Dumbledore
@@ -2173,11 +2176,9 @@ Harry Potter,Albus Dumbledore,Harry Potter,Fang
 Harry Potter,Albus Dumbledore,Harry Potter,Harry Potter
 Harry Potter,Albus Dumbledore,Harry Potter,Professor Severus Snape,Draco Malfoy
 Harry Potter,Albus Dumbledore,Harry Potter,Voldemort,Harry Potter
-Harry Potter,Albus Dumbledore,Hermione Granger,Sirius Black,Ron Weasley 
+Harry Potter,Albus Dumbledore,Hermione Granger,Sirius Black,Ron Weasley
 Harry Potter,Albus Dumbledore,Mad-eye Moody,Mad-eye Moody,Albus Dumbledore,Mad-eye Moody
-Harry Potter,Albus Dumbledore,Madam
-Harry Potter,Albus Dumbledore,Madam,Harry Potter
-Harry Potter,Albus Dumbledore,Madam,Hermione Granger
+Harry Potter,Albus Dumbledore,Madam Pomfrey,Hermione Granger
 Harry Potter,Albus Dumbledore,Molly Weasley
 Harry Potter,Albus Dumbledore,Mr Crouch,Mr Crouch
 Harry Potter,Albus Dumbledore,Peeves
@@ -2189,17 +2190,15 @@ Harry Potter,Albus Dumbledore,Professor Severus Snape,Albus Dumbledore,Harry Pot
 Harry Potter,Albus Dumbledore,Professor Severus Snape,Albus Dumbledore,Harry Potter
 Harry Potter,Albus Dumbledore,Ravenclaw,Cho Chang,Cho Chang,Hufflepuff,Ernie Mcmillan,Harry Potter
 Harry Potter,Albus Dumbledore,Ron Weasley
-Harry Potter,Albus Dumbledore,Ron Weasley 
+Harry Potter,Albus Dumbledore,Ron Weasley
 Harry Potter,Albus Dumbledore,Ron Weasley ,Hermione Granger,Sirius Black,Harry Potter,Harry Potter,Hermione Granger,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Ron Weasley ,Ron Weasley
 Harry Potter,Albus Dumbledore,Ron Weasley,Ron Weasley,Harry Potter,Ron Weasley
 Harry Potter,Albus Dumbledore,Rubeus Hagrid
 Harry Potter,Albus Dumbledore,Rubeus Hagrid
 Harry Potter,Albus Dumbledore,Rubeus Hagrid
-Harry Potter,Albus Dumbledore,Rubeus Hagrid,Ron Weasley 
+Harry Potter,Albus Dumbledore,Rubeus Hagrid,Ron Weasley
 Harry Potter,Albus Dumbledore,Scabbers
-Harry Potter,Albus Dumbledore,Sir Cadogan
-Harry Potter,Albus Dumbledore,Sir Cadogan,Sir Cadogan
 Harry Potter,Albus Dumbledore,Sirius Black
 Harry Potter,Albus Dumbledore,Sirius Black
 Harry Potter,Albus Dumbledore,Sirius Black,Harry Potter,Harry Potter,James Potter,Harry Potter
@@ -2224,7 +2223,7 @@ Harry Potter,Angelina Johnson
 Harry Potter,Angelina Johnson
 Harry Potter,Angelina Johnson,Alicia SpinnetProfessor Binns
 Harry Potter,Angelina Johnson,George Weasley,Katie Bell,Alicia SpinnetProfessor Binns,Angelina Johnson,Katie Bell
-Harry Potter,Angelina Johnson,Ron Weasley ,Ron Weasley 
+Harry Potter,Angelina Johnson,Ron Weasley ,Ron Weasley
 Harry Potter,Aragog
 Harry Potter,Aragog
 Harry Potter,Aragog
@@ -2275,7 +2274,7 @@ Harry Potter,Cedric Diggory,Harry Potter,Cho Chang
 Harry Potter,Cedric Diggory,Harry Potter,Voldemort
 Harry Potter,Cedric Diggory,Hufflepuff
 Harry Potter,Cedric Diggory,Ludo Bagman
-Harry Potter,Cedric Diggory,Madam
+Harry Potter,Cedric Diggory,Madam Pomfrey
 Harry Potter,Cedric Diggory,Professor Severus Snape,Harry Potter
 Harry Potter,Cedric Diggory,Rita Skeeter,Cedric Diggory,Harry Potter
 Harry Potter,Cedric Diggory,Ron Weasley ,Hermione Granger,Ron Weasley ,Hermione Granger
@@ -2307,7 +2306,7 @@ Harry Potter,Cho Chang,Harry Potter,Cho Chang
 Harry Potter,Cho Chang,Harry Potter,Cho Chang,Hermione Granger,Harry Potter,Harry Potter,Cho Chang
 Harry Potter,Cho Chang,Harry Potter,Harry Potter,Harry Potter
 Harry Potter,Cho Chang,Hermione Granger
-Harry Potter,Cho Chang,Madam
+Harry Potter,Cho Chang,Madam Pomfrey
 Harry Potter,Cho Chang,Neville Longbottom
 Harry Potter,Cho Chang,Ravenclaw
 Harry Potter,Cho Chang,Roger Davis
@@ -2321,7 +2320,7 @@ Harry Potter,Colin Creevey,Cedric Diggory,Harry Potter,Harry Potter,Hermione Gra
 Harry Potter,Colin Creevey,Dennis Creevey
 Harry Potter,Colin Creevey,Gryffindor
 Harry Potter,Colin Creevey,Harry Potter
-Harry Potter,Colin Creevey,Ron Weasley 
+Harry Potter,Colin Creevey,Ron Weasley
 Harry Potter,Cornelius Fudge
 Harry Potter,Cornelius Fudge
 Harry Potter,Cornelius Fudge
@@ -2334,8 +2333,8 @@ Harry Potter,Cornelius Fudge,Albus Dumbledore
 Harry Potter,Cornelius Fudge,Draco Malfoy
 Harry Potter,Cornelius Fudge,Harry Potter
 Harry Potter,Cornelius Fudge,Harry Potter,Sirius Black
-Harry Potter,Cornelius Fudge,Madam
-Harry Potter,Cornelius Fudge,Porfessor Trelawney,Rubeus Hagrid
+Harry Potter,Cornelius Fudge,Madam Pomfrey
+Harry Potter,Cornelius Fudge,Professor Trelawney,Rubeus Hagrid
 Harry Potter,Cornelius Fudge,Tom Riddle
 Harry Potter,Crookshanks
 Harry Potter,Crookshanks
@@ -2421,7 +2420,7 @@ Harry Potter,Dobby,Hedwig
 Harry Potter,Dobby,Hermione Granger
 Harry Potter,Dobby,Hermione Granger
 Harry Potter,Dobby,Igor Karkaroff,Harry Potter,Harry Potter,Igor Karkaroff
-Harry Potter,Dobby,Ron Weasley 
+Harry Potter,Dobby,Ron Weasley
 Harry Potter,Dobby,Rubeus Hagrid,Hermione Granger,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley ,Harry Potter
 Harry Potter,Dobby,Vernon Dursley,Petunia Dursley
 Harry Potter,Dobby,Winky,Mr Crouch
@@ -2529,13 +2528,13 @@ Harry Potter,Draco Malfoy,Harry Potter,Vincent Crabbe,Pansy Parkinson
 Harry Potter,Draco Malfoy,Hermione Granger
 Harry Potter,Draco Malfoy,Hermione Granger
 Harry Potter,Draco Malfoy,Hermione Granger,Harry Potter
-Harry Potter,Draco Malfoy,Hermione Granger,Ron Weasley 
+Harry Potter,Draco Malfoy,Hermione Granger,Ron Weasley
 Harry Potter,Draco Malfoy,Moaning Murtle
 Harry Potter,Draco Malfoy,Pansy Parkinson
 Harry Potter,Draco Malfoy,Professor Grubbly-Plank
 Harry Potter,Draco Malfoy,Professor Severus Snape,Harry Potter,Filch,Draco Malfoy
 Harry Potter,Draco Malfoy,Professor Severus Snape,Professor Severus Snape
-Harry Potter,Draco Malfoy,Ron Weasley 
+Harry Potter,Draco Malfoy,Ron Weasley
 Harry Potter,Draco Malfoy,Ron Weasley ,Hermione Granger
 Harry Potter,Draco Malfoy,Ron Weasley ,Lavender Brown
 Harry Potter,Draco Malfoy,Sirius Black,Draco Malfoy,Draco Malfoy
@@ -2621,7 +2620,7 @@ Harry Potter,Filch,Harry Potter
 Harry Potter,Filch,Harry Potter
 Harry Potter,Filch,Harry Potter,Filch,Harry Potter
 Harry Potter,Filch,Harry Potter,Harry Potter
-Harry Potter,Filch,Neville Longbottom,Ron Weasley 
+Harry Potter,Filch,Neville Longbottom,Ron Weasley
 Harry Potter,Filch,Nicolas Flamel
 Harry Potter,Filch,Peeves,Harry Potter,Gryffindor
 Harry Potter,Filch,Peeves,Peeves,Harry Potter
@@ -2635,8 +2634,8 @@ Harry Potter,Fleur Delacour
 Harry Potter,Fleur Delacour
 Harry Potter,Fleur Delacour
 Harry Potter,Fleur Delacour,Madam Maxime
-Harry Potter,Fleur Delacour,Ravenclaw,Roger Davis,Ron Weasley 
-Harry Potter,Fleur Delacour,Ron Weasley 
+Harry Potter,Fleur Delacour,Ravenclaw,Roger Davis,Ron Weasley
+Harry Potter,Fleur Delacour,Ron Weasley
 Harry Potter,Fleur Delacour,Viktor Krum
 Harry Potter,Fluffy
 Harry Potter,Fred Weasley
@@ -2688,7 +2687,7 @@ Harry Potter,Fred Weasley,Hermione Granger,George Weasley
 Harry Potter,Fred Weasley,Lee Jordan
 Harry Potter,Fred Weasley,Lee Jordan,Hermione Granger,Albus Dumbledore
 Harry Potter,Fred Weasley,Percy Weasley
-Harry Potter,Fred Weasley,Ron Weasley 
+Harry Potter,Fred Weasley,Ron Weasley
 Harry Potter,George Weasley
 Harry Potter,George Weasley
 Harry Potter,George Weasley
@@ -2698,7 +2697,8 @@ Harry Potter,George Weasley
 Harry Potter,George Weasley
 Harry Potter,George Weasley
 Harry Potter,George Weasley
-Harry Potter,George Weasley,Angelina Johnson,Katie Bell,Fred Weasley,Draco Malfoy,Harry Potter,Madam,Vincent Crabbe
+Harry Potter,George Weasley
+Harry Potter,George Weasley,Angelina Johnson,Katie Bell,Fred Weasley,Draco Malfoy,Harry Potter,Madam Hooch,Vincent Crabbe
 Harry Potter,George Weasley,Draco Malfoy,Draco Malfoy
 Harry Potter,George Weasley,Draco Malfoy,Goyle
 Harry Potter,George Weasley,Fred Weasley
@@ -2748,7 +2748,7 @@ Harry Potter,Ginny Weasley
 Harry Potter,Ginny Weasley
 Harry Potter,Ginny Weasley
 Harry Potter,Ginny Weasley,Dean Thomas
-Harry Potter,Ginny Weasley,Dean Thomas,Ron Weasley 
+Harry Potter,Ginny Weasley,Dean Thomas,Ron Weasley
 Harry Potter,Ginny Weasley,Dean Thomas,Seamus Finnigan,Nearly Headless Nick,Nearly Headless Nick,Gryffindor
 Harry Potter,Ginny Weasley,Ernie Mcmillan,Colin Creevey,Justin Finch-Fletchley
 Harry Potter,Ginny Weasley,Fleur Delacour,Bill Weasley
@@ -2762,21 +2762,21 @@ Harry Potter,Ginny Weasley,Harry Potter
 Harry Potter,Ginny Weasley,Harry Potter
 Harry Potter,Ginny Weasley,Harry Potter
 Harry Potter,Ginny Weasley,Harry Potter
-Harry Potter,Ginny Weasley,Harry Potter,Ginny Weasley,Hermione Granger,Ron Weasley 
+Harry Potter,Ginny Weasley,Harry Potter,Ginny Weasley,Hermione Granger,Ron Weasley
 Harry Potter,Ginny Weasley,Harry Potter,Harry Potter,Neville Longbottom
 Harry Potter,Ginny Weasley,Harry Potter,Rubeus Hagrid,Harry Potter,Rubeus Hagrid
 Harry Potter,Ginny Weasley,Hermione Granger,Ginny Weasley,Albus Dumbledore
 Harry Potter,Ginny Weasley,Lavender Brown,Dean Thomas
-Harry Potter,Ginny Weasley,Madam,Fred Weasley,George Weasley
+Harry Potter,Ginny Weasley,Madam Pomfrey,Fred Weasley,George Weasley
 Harry Potter,Ginny Weasley,Professor Severus Snape,Professor Severus Snape
 Harry Potter,Ginny Weasley,Ron Weasley
-Harry Potter,Ginny Weasley,Ron Weasley 
-Harry Potter,Ginny Weasley,Ron Weasley 
-Harry Potter,Ginny Weasley,Ron Weasley 
-Harry Potter,Ginny Weasley,Ron Weasley 
+Harry Potter,Ginny Weasley,Ron Weasley
+Harry Potter,Ginny Weasley,Ron Weasley
+Harry Potter,Ginny Weasley,Ron Weasley
+Harry Potter,Ginny Weasley,Ron Weasley
 Harry Potter,Ginny Weasley,Ron Weasley ,Bill Weasley,Ginny Weasley,Dean Thomas
 Harry Potter,Ginny Weasley,Ron Weasley ,Gryffindor
-Harry Potter,Ginny Weasley,Ron Weasley ,Harry Potter,Hermione Granger,Ginny Weasley,Ginny Weasley,Ron Weasley 
+Harry Potter,Ginny Weasley,Ron Weasley ,Harry Potter,Hermione Granger,Ginny Weasley,Ginny Weasley,Ron Weasley
 Harry Potter,Ginny Weasley,Ron Weasley ,Hermione Granger
 Harry Potter,Ginny Weasley,Ron Weasley ,Hermione Granger
 Harry Potter,Ginny Weasley,Ron Weasley,Ron Weasley
@@ -2811,7 +2811,7 @@ Harry Potter,Gryffindor
 Harry Potter,Gryffindor
 Harry Potter,Gryffindor
 Harry Potter,Gryffindor
-Harry Potter,Gryffindor,Alicia SpinnetProfessor Binns,George Weasley,Madam,Oliver Wood
+Harry Potter,Gryffindor,Alicia SpinnetProfessor Binns,George Weasley,Madam Hooch,Oliver Wood
 Harry Potter,Gryffindor,Dobby,Dobby,Harry Potter,Dobby,Harry Potter,Dobby,Harry Potter,Harry Potter
 Harry Potter,Gryffindor,Fat Friar
 Harry Potter,Gryffindor,Fred Weasley,George Weasley,George Weasley,Harry Potter,Fred Weasley,Harry Potter,Fred Weasley,George Weasley,Dudley Dursley
@@ -2824,11 +2824,14 @@ Harry Potter,Gryffindor,Lee Jordan,Ron Weasley ,Harry Potter
 Harry Potter,Gryffindor,Oliver Wood
 Harry Potter,Gryffindor,Professor Lupin
 Harry Potter,Gryffindor,Professor Severus Snape
-Harry Potter,Gryffindor,Ron Weasley 
-Harry Potter,Gryffindor,Ron Weasley 
+Harry Potter,Gryffindor,Ron Weasley
+Harry Potter,Gryffindor,Ron Weasley
 Harry Potter,Gryffindor,Ron Weasley ,Hermione Granger
-Harry Potter,Gryffindor,Ron Weasley ,Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley 
+Harry Potter,Gryffindor,Ron Weasley ,Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley
 Harry Potter,Gryffindor,Slytherin,Gryffindor
+Harry Potter,Harry Potter
+Harry Potter,Harry Potter
+Harry Potter,Harry Potter
 Harry Potter,Harry Potter
 Harry Potter,Harry Potter
 Harry Potter,Harry Potter
@@ -3061,16 +3064,16 @@ Harry Potter,Harry Potter,Albus Dumbledore
 Harry Potter,Harry Potter,Albus Dumbledore
 Harry Potter,Harry Potter,Albus Dumbledore
 Harry Potter,Harry Potter,Albus Dumbledore,Albus Dumbledore
+Harry Potter,Harry Potter,Albus Dumbledore,Cornelius Fudge,Harry Potter
 Harry Potter,Harry Potter,Albus Dumbledore,Gryffindor
 Harry Potter,Harry Potter,Albus Dumbledore,Harry Potter
 Harry Potter,Harry Potter,Albus Dumbledore,Harry Potter
-Harry Potter,Harry Potter,Albus Dumbledore,Madam,Cornelius Fudge,Harry Potter,Madam
 Harry Potter,Harry Potter,Bane
 Harry Potter,Harry Potter,Cedric Diggory
 Harry Potter,Harry Potter,Cedric Diggory
 Harry Potter,Harry Potter,Cedric Diggory,Cedric Diggory
 Harry Potter,Harry Potter,Cedric Diggory,Viktor Krum
-Harry Potter,Harry Potter,Charlie Weasley,Charlie Weasley,Percy Weasley,Ron Weasley 
+Harry Potter,Harry Potter,Charlie Weasley,Charlie Weasley,Percy Weasley,Ron Weasley
 Harry Potter,Harry Potter,Cornelius Fudge
 Harry Potter,Harry Potter,Cornelius Fudge
 Harry Potter,Harry Potter,Cornelius Fudge,Harry Potter
@@ -3115,6 +3118,8 @@ Harry Potter,Harry Potter,Harry Potter
 Harry Potter,Harry Potter,Harry Potter
 Harry Potter,Harry Potter,Harry Potter
 Harry Potter,Harry Potter,Harry Potter
+Harry Potter,Harry Potter,Harry Potter
+Harry Potter,Harry Potter,Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter
 Harry Potter,Harry Potter,Harry Potter,Buckbeak,Harry Potter
 Harry Potter,Harry Potter,Harry Potter,Dobby,Dobby
 Harry Potter,Harry Potter,Harry Potter,Draco Malfoy,Dobby,Dobby
@@ -3135,7 +3140,7 @@ Harry Potter,Harry Potter,Harry Potter,Rubeus Hagrid
 Harry Potter,Harry Potter,Harry Potter,Rubeus Hagrid,Harry Potter,Madam Maxime,Rubeus Hagrid,Rubeus Hagrid,Madam Maxime
 Harry Potter,Harry Potter,Harry Potter,Vernon Dursley,Harry Potter,Vernon Dursley,Harry Potter
 Harry Potter,Harry Potter,Hedwig
-Harry Potter,Harry Potter,Hedwig,Ron Weasley 
+Harry Potter,Harry Potter,Hedwig,Ron Weasley
 Harry Potter,Harry Potter,Hedwig,Vernon Dursley,Hedwig
 Harry Potter,Harry Potter,Hermione Granger
 Harry Potter,Harry Potter,Hermione Granger
@@ -3148,7 +3153,7 @@ Harry Potter,Harry Potter,Hermione Granger,Harry Potter
 Harry Potter,Harry Potter,Hermione Granger,Harry Potter
 Harry Potter,Harry Potter,Hermione Granger,Neville Longbottom
 Harry Potter,Harry Potter,Hermione Granger,Pigwidgeon
-Harry Potter,Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley 
+Harry Potter,Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley
 Harry Potter,Harry Potter,Justin Finch-Fletchley
 Harry Potter,Harry Potter,Lavender Brown
 Harry Potter,Harry Potter,Lavender Brown
@@ -3159,27 +3164,27 @@ Harry Potter,Harry Potter,Moaning Murtle,Harry Potter,Draco Malfoy
 Harry Potter,Harry Potter,Mr Crouch
 Harry Potter,Harry Potter,Nearly Headless Nick
 Harry Potter,Harry Potter,Petunia Dursley,Voldemort,Petunia Dursley,Petunia Dursley,Vernon Dursley
-Harry Potter,Harry Potter,Porfessor Trelawney
-Harry Potter,Harry Potter,Porfessor Trelawney,Ron Weasley ,Ron Weasley 
 Harry Potter,Harry Potter,Professor Severus Snape
 Harry Potter,Harry Potter,Professor Severus Snape
 Harry Potter,Harry Potter,Professor Severus Snape
 Harry Potter,Harry Potter,Professor Severus Snape,Draco Malfoy,Ron Weasley ,Neville Longbottom
 Harry Potter,Harry Potter,Professor Severus Snape,Sirius Black
 Harry Potter,Harry Potter,Professor Severus Snape,Voldemort
+Harry Potter,Harry Potter,Professor Trelawney
+Harry Potter,Harry Potter,Professor Trelawney,Ron Weasley ,Ron Weasley
 Harry Potter,Harry Potter,Prongs
 Harry Potter,Harry Potter,Rita Skeeter,Harry Potter
-Harry Potter,Harry Potter,Ron Weasley 
-Harry Potter,Harry Potter,Ron Weasley 
-Harry Potter,Harry Potter,Ron Weasley 
-Harry Potter,Harry Potter,Ron Weasley 
+Harry Potter,Harry Potter,Ron Weasley
+Harry Potter,Harry Potter,Ron Weasley
+Harry Potter,Harry Potter,Ron Weasley
+Harry Potter,Harry Potter,Ron Weasley
 Harry Potter,Harry Potter,Ron Weasley ,Gryffindor,Harry Potter
 Harry Potter,Harry Potter,Ron Weasley ,Gryffindor,Hermione Granger,Harry Potter,Neville Longbottom,Neville Longbottom,Harry Potter
 Harry Potter,Harry Potter,Ron Weasley ,Harry Potter
-Harry Potter,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
+Harry Potter,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
 Harry Potter,Harry Potter,Ron Weasley ,Hermione Granger
 Harry Potter,Harry Potter,Ron Weasley ,Ron Weasley
-Harry Potter,Harry Potter,Ron Weasley ,Ron Weasley 
+Harry Potter,Harry Potter,Ron Weasley ,Ron Weasley
 Harry Potter,Harry Potter,Rubeus Hagrid
 Harry Potter,Harry Potter,Rubeus Hagrid
 Harry Potter,Harry Potter,Rubeus Hagrid,Harry Potter
@@ -3218,7 +3223,7 @@ Harry Potter,Hedwig
 Harry Potter,Hedwig
 Harry Potter,Hedwig
 Harry Potter,Hedwig
-Harry Potter,Hedwig,Crookshanks,Ron Weasley 
+Harry Potter,Hedwig,Crookshanks,Ron Weasley
 Harry Potter,Hedwig,Harry Potter
 Harry Potter,Hedwig,Harry Potter
 Harry Potter,Hedwig,Harry Potter,Hedwig
@@ -3440,10 +3445,11 @@ Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger
+Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger,Albus Dumbledore
 Harry Potter,Hermione Granger,Albus Dumbledore
 Harry Potter,Hermione Granger,Albus Dumbledore,Cornelius Fudge
-Harry Potter,Hermione Granger,Albus Dumbledore,Madam,Ron Weasley 
+Harry Potter,Hermione Granger,Albus Dumbledore,Madam Pomfrey,Ron Weasley
 Harry Potter,Hermione Granger,Albus Dumbledore,Professor Grubbly-Plank
 Harry Potter,Hermione Granger,Albus Dumbledore,Sirius Black
 Harry Potter,Hermione Granger,Albus Dumbledore,Voldemort
@@ -3458,13 +3464,13 @@ Harry Potter,Hermione Granger,Draco Malfoy
 Harry Potter,Hermione Granger,Draco Malfoy
 Harry Potter,Hermione Granger,Draco Malfoy,Draco Malfoy
 Harry Potter,Hermione Granger,Ernie Mcmillan
-Harry Potter,Hermione Granger,Fluffy,Professor Severus Snape,Harry Potter,Ron Weasley 
+Harry Potter,Hermione Granger,Fluffy,Professor Severus Snape,Harry Potter,Ron Weasley
 Harry Potter,Hermione Granger,Fred Weasley
 Harry Potter,Hermione Granger,Fred Weasley
 Harry Potter,Hermione Granger,Fred Weasley,Harry Potter
 Harry Potter,Hermione Granger,Fred Weasley,Lee Jordan
 Harry Potter,Hermione Granger,Fred Weasley,Ludo Bagman
-Harry Potter,Hermione Granger,George Weasley,Ginny Weasley,Bill Weasley,Ron Weasley 
+Harry Potter,Hermione Granger,George Weasley,Ginny Weasley,Bill Weasley,Ron Weasley
 Harry Potter,Hermione Granger,George Weasley,Ginny Weasley,Fred Weasley,Harry Potter
 Harry Potter,Hermione Granger,Ginny Weasley
 Harry Potter,Hermione Granger,Ginny Weasley
@@ -3473,7 +3479,7 @@ Harry Potter,Hermione Granger,Ginny Weasley
 Harry Potter,Hermione Granger,Ginny Weasley,Harry Potter
 Harry Potter,Hermione Granger,Ginny Weasley,Harry Potter,Neville Longbottom,Albus Dumbledore,Harry Potter
 Harry Potter,Hermione Granger,Ginny Weasley,Hermione Granger,Ginny Weasley
-Harry Potter,Hermione Granger,Ginny Weasley,Madam,Neville Longbottom,Hermione Granger
+Harry Potter,Hermione Granger,Ginny Weasley,Madam Pomfrey,Neville Longbottom,Hermione Granger
 Harry Potter,Hermione Granger,Gryffindor
 Harry Potter,Hermione Granger,Gryffindor
 Harry Potter,Hermione Granger,Gryffindor,Colin Creevey,Ron Weasley ,Ginny Weasley,Crookshanks
@@ -3502,11 +3508,11 @@ Harry Potter,Hermione Granger,Harry Potter,Colin Creevey
 Harry Potter,Hermione Granger,Harry Potter,Draco Malfoy
 Harry Potter,Hermione Granger,Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger,Harry Potter,Hermione Granger
-Harry Potter,Hermione Granger,Harry Potter,Hermione Granger,Ernie Mcmillan,Harry Potter,Ron Weasley 
+Harry Potter,Hermione Granger,Harry Potter,Hermione Granger,Ernie Mcmillan,Harry Potter,Ron Weasley
 Harry Potter,Hermione Granger,Harry Potter,Hermione Granger,Rubeus Hagrid,Buckbeak
 Harry Potter,Hermione Granger,Harry Potter,Professor Severus Snape,Harry Potter
-Harry Potter,Hermione Granger,Harry Potter,Ron Weasley 
-Harry Potter,Hermione Granger,Harry Potter,Ron Weasley 
+Harry Potter,Hermione Granger,Harry Potter,Ron Weasley
+Harry Potter,Hermione Granger,Harry Potter,Ron Weasley
 Harry Potter,Hermione Granger,Harry Potter,Ron Weasley ,Fred Weasley,Lee Jordan
 Harry Potter,Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter
 Harry Potter,Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger,Hermione Granger
@@ -3520,8 +3526,8 @@ Harry Potter,Hermione Granger,Hermione Granger,Viktor Krum
 Harry Potter,Hermione Granger,Justin Finch-Fletchley,Hufflepuff,Rubeus Hagrid,Harry Potter,Ron Weasley ,Gryffindor
 Harry Potter,Hermione Granger,Katie Bell
 Harry Potter,Hermione Granger,Lavender Brown
-Harry Potter,Hermione Granger,Madam
-Harry Potter,Hermione Granger,Madam,Harry Potter,Hermione Granger,Madam
+Harry Potter,Hermione Granger,Madam Pomfrey
+Harry Potter,Hermione Granger,Madam Pomfrey,Harry Potter,Hermione Granger,Madam Pomfrey
 Harry Potter,Hermione Granger,Mr Crouch
 Harry Potter,Hermione Granger,Nearly Headless Nick,Nearly Headless Nick
 Harry Potter,Hermione Granger,Nearly Headless Nick,Nearly Headless Nick,Gryffindor,Nearly Headless Nick
@@ -3543,18 +3549,18 @@ Harry Potter,Hermione Granger,Professor Sprout
 Harry Potter,Hermione Granger,Ron Weasley
 Harry Potter,Hermione Granger,Ron Weasley
 Harry Potter,Hermione Granger,Ron Weasley
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley 
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley
 Harry Potter,Hermione Granger,Ron Weasley ,Crookshanks,Pigwidgeon,Harry Potter
 Harry Potter,Hermione Granger,Ron Weasley ,Fang,Rubeus Hagrid
 Harry Potter,Hermione Granger,Ron Weasley ,Ginny Weasley,Ginny Weasley,Ron Weasley
@@ -3566,13 +3572,13 @@ Harry Potter,Hermione Granger,Ron Weasley ,Hermione Granger
 Harry Potter,Hermione Granger,Ron Weasley ,Hermione Granger,Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger,Ron Weasley ,Hermione Granger,Harry Potter,Sirius Black,Buckbeak,Harry Potter
 Harry Potter,Hermione Granger,Ron Weasley ,Lavender Brown,Professor Severus Snape,Professor Sprout,Harry Potter,Harry Potter
-Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley 
-Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley 
+Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley
+Harry Potter,Hermione Granger,Ron Weasley ,Ron Weasley
 Harry Potter,Hermione Granger,Ron Weasley ,Vincent Crabbe,Goyle,Slytherin
 Harry Potter,Hermione Granger,Ron Weasley,Percy Weasley
 Harry Potter,Hermione Granger,Ron Weasley,Professor Lupin,Harry Potter,Ron Weasley,Harry Potter,Fred Weasley,Bill Weasley
-Harry Potter,Hermione Granger,Ron Weasley,Ron Weasley 
+Harry Potter,Hermione Granger,Ron Weasley,Ron Weasley
 Harry Potter,Hermione Granger,Ronan
 Harry Potter,Hermione Granger,Rubeus Hagrid
 Harry Potter,Hermione Granger,Rubeus Hagrid
@@ -3603,7 +3609,7 @@ Harry Potter,Igor Karkaroff
 Harry Potter,Igor Karkaroff,Madam Maxime
 Harry Potter,Igor Karkaroff,Professor Severus Snape
 Harry Potter,Igor Karkaroff,Professor Severus Snape,Igor Karkaroff,Professor Severus Snape
-Harry Potter,Igor Karkaroff,Ron Weasley 
+Harry Potter,Igor Karkaroff,Ron Weasley
 Harry Potter,James Potter
 Harry Potter,Justin Finch-Fletchley
 Harry Potter,Justin Finch-Fletchley
@@ -3628,7 +3634,7 @@ Harry Potter,Lavender Brown
 Harry Potter,Lavender Brown
 Harry Potter,Lavender Brown,Fat Friar
 Harry Potter,Lee Jordan
-Harry Potter,Lee Jordan,Gryffindor,Harry Potter,Ron Weasley 
+Harry Potter,Lee Jordan,Gryffindor,Harry Potter,Ron Weasley
 Harry Potter,Lee Jordan,Harry Potter
 Harry Potter,Lee Jordan,Slytherin
 Harry Potter,Lily Potter
@@ -3675,41 +3681,26 @@ Harry Potter,Mad-eye Moody,Hermione Granger
 Harry Potter,Mad-eye Moody,Mad-eye Moody,Harry Potter
 Harry Potter,Mad-eye Moody,Professor Lupin,Ron Weasley,Fleur Delacour,Fred Weasley,George Weasley,Madam Maxime,Tom Riddle
 Harry Potter,Mad-eye Moody,Professor Severus Snape,Filch,Harry Potter,Mad-eye Moody
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
-Harry Potter,Madam
+Harry Potter,Madam Hooch
+Harry Potter,Madam Hooch
+Harry Potter,Madam Hooch
+Harry Potter,Madam Hooch,Harry Potter,Ron Weasley
+Harry Potter,Madam Hooch,Slytherin
+Harry Potter,Madam Malkin
+Harry Potter,Madam Malkin,Harry Potter
 Harry Potter,Madam Maxime
 Harry Potter,Madam Maxime
 Harry Potter,Madam Maxime,Igor Karkaroff,Fleur Delacour
-Harry Potter,Madam,Draco Malfoy
-Harry Potter,Madam,Harry Potter
-Harry Potter,Madam,Harry Potter
-Harry Potter,Madam,Harry Potter
-Harry Potter,Madam,Harry Potter,Harry Potter,Albus Dumbledore,Albus Dumbledore,Harry Potter
-Harry Potter,Madam,Harry Potter,Professor Severus Snape
-Harry Potter,Madam,Harry Potter,Ron Weasley 
-Harry Potter,Madam,Hermione Granger,Rubeus Hagrid,Ron Weasley 
-Harry Potter,Madam,Ron Weasley,Cornelius Fudge,Cornelius Fudge,Ron Weasley,Harry Potter,Harry Potter,Percy Weasley,Cornelius Fudge,Harry Potter
-Harry Potter,Madam,Slytherin
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey
+Harry Potter,Madam Pomfrey,Draco Malfoy
+Harry Potter,Madam Pomfrey,Harry Potter,Professor Severus Snape
+Harry Potter,Madam Pomfrey,Hermione Granger,Rubeus Hagrid,Ron Weasley
 Harry Potter,Moaning Murtle
 Harry Potter,Moaning Murtle
 Harry Potter,Moaning Murtle,Harry Potter
@@ -3787,7 +3778,7 @@ Harry Potter,Neville Longbottom,Harry Potter,Hermione Granger,Neville Longbottom
 Harry Potter,Neville Longbottom,Hermione Granger
 Harry Potter,Neville Longbottom,Hermione Granger,Colin Creevey,Parvati Patil
 Harry Potter,Neville Longbottom,Lavender Brown
-Harry Potter,Neville Longbottom,Madam
+Harry Potter,Neville Longbottom,Madam Pomfrey
 Harry Potter,Neville Longbottom,Neville Longbottom
 Harry Potter,Neville Longbottom,Neville Longbottom,Harry Potter
 Harry Potter,Neville Longbottom,Neville Longbottom,Harry Potter
@@ -3795,7 +3786,7 @@ Harry Potter,Neville Longbottom,Neville Longbottom,Harry Potter,Harry Potter
 Harry Potter,Neville Longbottom,Neville Longbottom,Hermione Granger
 Harry Potter,Neville Longbottom,Padma Patil,Dean Thomas
 Harry Potter,Neville Longbottom,Professor Severus Snape,Harry Potter
-Harry Potter,Neville Longbottom,Ron Weasley 
+Harry Potter,Neville Longbottom,Ron Weasley
 Harry Potter,Neville Longbottom,Ron Weasley ,Harry Potter
 Harry Potter,Neville Longbottom,Ron Weasley ,Hermione Granger
 Harry Potter,Neville Longbottom,Ron Weasley ,Professor Lupin,Hermione Granger,Harry Potter,Professor Lupin
@@ -3809,6 +3800,7 @@ Harry Potter,Nicolas Flamel
 Harry Potter,Nicolas Flamel
 Harry Potter,Nicolas Flamel
 Harry Potter,Norbert
+Harry Potter,Oliver Wood
 Harry Potter,Oliver Wood
 Harry Potter,Oliver Wood
 Harry Potter,Oliver Wood
@@ -3853,7 +3845,7 @@ Harry Potter,Percy Weasley
 Harry Potter,Percy Weasley,Fred Weasley,George Weasley,Harry Potter,Fred Weasley,George Weasley,Rubeus Hagrid
 Harry Potter,Percy Weasley,Harry Potter,Harry Potter
 Harry Potter,Percy Weasley,Harry Potter,Percy Weasley
-Harry Potter,Percy Weasley,Harry Potter,Ron Weasley ,Ron Weasley 
+Harry Potter,Percy Weasley,Harry Potter,Ron Weasley ,Ron Weasley
 Harry Potter,Percy Weasley,Harry Potter,Tom Riddle
 Harry Potter,Percy Weasley,Rubeus Hagrid,Ron Weasley ,Hermione Granger,Harry Potter,Harry Potter
 Harry Potter,Peter Pettigrew
@@ -3879,23 +3871,6 @@ Harry Potter,Petunia Dursley,Petunia Dursley
 Harry Potter,Petunia Dursley,Vernon Dursley
 Harry Potter,Petunia Dursley,Vernon Dursley,Petunia Dursley
 Harry Potter,Pigwidgeon,Neville Longbottom
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney,Draco Malfoy
-Harry Potter,Porfessor Trelawney,Harry Potter
-Harry Potter,Porfessor Trelawney,Ron Weasley ,Hermione Granger,Ginny Weasley
-Harry Potter,Porfessor Trelawney,Ron Weasley ,Porfessor Trelawney
-Harry Potter,Porfessor Trelawney,Rubeus Hagrid,Harry Potter
 Harry Potter,Professor Flitwick
 Harry Potter,Professor Flitwick
 Harry Potter,Professor Flitwick
@@ -3939,7 +3914,7 @@ Harry Potter,Professor Lupin
 Harry Potter,Professor Lupin
 Harry Potter,Professor Lupin,Harry Potter
 Harry Potter,Professor Lupin,Harry Potter,Harry Potter
-Harry Potter,Professor Lupin,Hedwig,Ron Weasley 
+Harry Potter,Professor Lupin,Hedwig,Ron Weasley
 Harry Potter,Professor Lupin,James Potter,Albus Dumbledore,Professor Severus Snape
 Harry Potter,Professor Lupin,Mad-eye Moody,Mad-eye Moody
 Harry Potter,Professor Lupin,Ron Weasley
@@ -4031,7 +4006,7 @@ Harry Potter,Professor Severus Snape,Cho Chang
 Harry Potter,Professor Severus Snape,Cho Chang,Professor Severus Snape
 Harry Potter,Professor Severus Snape,Colin Creevey
 Harry Potter,Professor Severus Snape,Dean Thomas
-Harry Potter,Professor Severus Snape,Gibleroy Lockhart,Draco Malfoy,Ron Weasley 
+Harry Potter,Professor Severus Snape,Gibleroy Lockhart,Draco Malfoy,Ron Weasley
 Harry Potter,Professor Severus Snape,Gryffindor
 Harry Potter,Professor Severus Snape,Gryffindor,Neville Longbottom
 Harry Potter,Professor Severus Snape,Gryffindor,Voldemort,Voldemort
@@ -4046,7 +4021,7 @@ Harry Potter,Professor Severus Snape,Harry Potter,Albus Dumbledore,Professor Sev
 Harry Potter,Professor Severus Snape,Harry Potter,Draco Malfoy,Professor Severus Snape
 Harry Potter,Professor Severus Snape,Harry Potter,Harry Potter
 Harry Potter,Professor Severus Snape,Harry Potter,Harry Potter
-Harry Potter,Professor Severus Snape,Harry Potter,Harry Potter,Professor Severus Snape,Ron Weasley 
+Harry Potter,Professor Severus Snape,Harry Potter,Harry Potter,Professor Severus Snape,Ron Weasley
 Harry Potter,Professor Severus Snape,Harry Potter,Harry Potter,Vernon Dursley,Petunia Dursley,Dudley Dursley,Harry Potter
 Harry Potter,Professor Severus Snape,Harry Potter,Hufflepuff,Ron Weasley ,Hermione Granger
 Harry Potter,Professor Severus Snape,Harry Potter,Professor Severus Snape
@@ -4075,6 +4050,23 @@ Harry Potter,Professor Severus Snape,Voldemort,Voldemort,Professor Severus Snape
 Harry Potter,Professor Sprout
 Harry Potter,Professor Sprout
 Harry Potter,Professor Sprout,Ernie Mcmillan
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney
+Harry Potter,Professor Trelawney,Draco Malfoy
+Harry Potter,Professor Trelawney,Harry Potter
+Harry Potter,Professor Trelawney,Ron Weasley ,Hermione Granger,Ginny Weasley
+Harry Potter,Professor Trelawney,Ron Weasley ,Professor Trelawney
+Harry Potter,Professor Trelawney,Rubeus Hagrid,Harry Potter
 Harry Potter,Prongs
 Harry Potter,Ravenclaw
 Harry Potter,Ravenclaw
@@ -4089,7 +4081,7 @@ Harry Potter,Rita Skeeter
 Harry Potter,Rita Skeeter
 Harry Potter,Rita Skeeter
 Harry Potter,Rita Skeeter,Harry Potter
-Harry Potter,Rita Skeeter,Ron Weasley 
+Harry Potter,Rita Skeeter,Ron Weasley
 Harry Potter,Roger Davis
 Harry Potter,Roger Davis,Cedric Diggory
 Harry Potter,Ron Weasley
@@ -4137,232 +4129,232 @@ Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Albus Dumbledore
 Harry Potter,Ron Weasley ,Albus Dumbledore
 Harry Potter,Ron Weasley ,Albus Dumbledore
 Harry Potter,Ron Weasley ,Albus Dumbledore,Ron Weasley ,Ron Weasley
-Harry Potter,Ron Weasley ,Angelina Johnson,Fred Weasley,George Weasley,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley ,Angelina Johnson,Fred Weasley,George Weasley,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Aragog
 Harry Potter,Ron Weasley ,Bill Weasley
 Harry Potter,Ron Weasley ,Bill Weasley,Charlie Weasley,Fred Weasley,George Weasley
@@ -4387,7 +4379,7 @@ Harry Potter,Ron Weasley ,Fluffy,Hedwig,Albus Dumbledore,Professor Severus Snape
 Harry Potter,Ron Weasley ,Fred Weasley
 Harry Potter,Ron Weasley ,Fred Weasley,George Weasley
 Harry Potter,Ron Weasley ,Fred Weasley,Harry Potter,Hermione Granger,Draco Malfoy
-Harry Potter,Ron Weasley ,Fred Weasley,Ron Weasley 
+Harry Potter,Ron Weasley ,Fred Weasley,Ron Weasley
 Harry Potter,Ron Weasley ,Fred Weasley,Ron Weasley ,Harry Potter
 Harry Potter,Ron Weasley ,George Weasley
 Harry Potter,Ron Weasley ,George Weasley,Harry Potter,Bill Weasley,Charlie Weasley,Ron Weasley
@@ -4429,18 +4421,19 @@ Harry Potter,Ron Weasley ,Harry Potter,Gryffindor
 Harry Potter,Ron Weasley ,Harry Potter,Hannah Abbott,Hannah Abbott
 Harry Potter,Ron Weasley ,Harry Potter,Harry Potter
 Harry Potter,Ron Weasley ,Harry Potter,Harry Potter
-Harry Potter,Ron Weasley ,Harry Potter,Harry Potter,Ron Weasley ,Hedwig,Ron Weasley ,Harry Potter,Harry Potter,Ron Weasley ,Ron Weasley 
+Harry Potter,Ron Weasley ,Harry Potter,Harry Potter,Ron Weasley ,Hedwig,Ron Weasley ,Harry Potter,Harry Potter,Ron Weasley ,Ron Weasley
 Harry Potter,Ron Weasley ,Harry Potter,Percy Weasley,Ron Weasley ,Draco Malfoy,Peter Pettigrew
-Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
-Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley ,Fred Weasley,Ron Weasley ,George Weasley
-Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley ,Ron Weasley 
+Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley ,Ron Weasley
 Harry Potter,Ron Weasley ,Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Rubeus Hagrid,Professor Severus Snape
 Harry Potter,Ron Weasley ,Harry Potter,Viktor Krum
 Harry Potter,Ron Weasley ,Hedwig
 Harry Potter,Ron Weasley ,Hedwig,Pigwidgeon,Ron Weasley,Fred Weasley
+Harry Potter,Ron Weasley ,Hermione Granger
 Harry Potter,Ron Weasley ,Hermione Granger
 Harry Potter,Ron Weasley ,Hermione Granger
 Harry Potter,Ron Weasley ,Hermione Granger
@@ -4524,28 +4517,27 @@ Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Fred Weasley,George Weasley
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ginny Weasley,Voldemort
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Hermione Granger,Draco Malfoy
-Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Madam,Harry Potter
+Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Madam Pince,Harry Potter
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Neville Longbottom,Ron Weasley ,Cho Chang
-Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter,Harry Potter,Hermione Granger
-Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley ,Ron Weasley 
+Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley ,Ron Weasley
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Rubeus Hagrid,Hermione Granger
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Seamus Finnigan,Dean Thomas,Neville Longbottom,Harry Potter,Neville Longbottom,Harry Potter,Neville Longbottom
 Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Voldemort,Professor Severus Snape
 Harry Potter,Ron Weasley ,Hermione Granger,Hermione Granger
 Harry Potter,Ron Weasley ,Hermione Granger,Hermione Granger
 Harry Potter,Ron Weasley ,Hermione Granger,Hermione Granger
-Harry Potter,Ron Weasley ,Hermione Granger,Madam
-Harry Potter,Ron Weasley ,Hermione Granger,Madam,Nicolas Flamel,Professor Severus Snape
+Harry Potter,Ron Weasley ,Hermione Granger,Madam Pince,Nicolas Flamel,Professor Severus Snape
 Harry Potter,Ron Weasley ,Hermione Granger,Moaning Murtle
 Harry Potter,Ron Weasley ,Hermione Granger,Oliver Wood,Angelina Johnson
 Harry Potter,Ron Weasley ,Hermione Granger,Peter Pettigrew
 Harry Potter,Ron Weasley ,Hermione Granger,Professor Severus Snape
 Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley
-Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley 
-Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley 
-Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley 
-Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley 
+Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley
+Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley
+Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley
+Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley
 Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley ,Harry Potter
 Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley ,Hermione Granger,Cho Chang
 Harry Potter,Ron Weasley ,Hermione Granger,Ron Weasley ,Viktor Krum
@@ -4566,61 +4558,61 @@ Harry Potter,Ron Weasley ,Lavender Brown
 Harry Potter,Ron Weasley ,Lavender Brown
 Harry Potter,Ron Weasley ,Lavender Brown,Harry Potter,Hermione Granger,Ron Weasley ,Harry Potter
 Harry Potter,Ron Weasley ,Mad-eye Moody
-Harry Potter,Ron Weasley ,Madam
-Harry Potter,Ron Weasley ,Madam,Hermione Granger,Ron Weasley ,Hermione Granger,Ginny Weasley,Dean Thomas
+Harry Potter,Ron Weasley ,Madam Pomfrey
+Harry Potter,Ron Weasley ,Madam Pomfrey,Hermione Granger,Ron Weasley ,Hermione Granger,Ginny Weasley,Dean Thomas
 Harry Potter,Ron Weasley ,Neville Longbottom
-Harry Potter,Ron Weasley ,Neville Longbottom,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley ,Neville Longbottom,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Neville Longbottom,Hermione Granger
 Harry Potter,Ron Weasley ,Neville Longbottom,Sirius Black
 Harry Potter,Ron Weasley ,Padma Patil,Fleur Delacour,Roger Davis,Fleur Delacour,Cedric Diggory,Cho Chang,Harry Potter,Viktor Krum
 Harry Potter,Ron Weasley ,Parvati Patil,Lavender Brown,Hermione Granger,Ron Weasley ,Hermione Granger
-Harry Potter,Ron Weasley ,Percy Weasley,Ron Weasley 
+Harry Potter,Ron Weasley ,Percy Weasley,Ron Weasley
 Harry Potter,Ron Weasley ,Peter Pettigrew,Professor Lupin,Sirius Black
 Harry Potter,Ron Weasley ,Pigwidgeon
 Harry Potter,Ron Weasley ,Pigwidgeon,Hermione Granger,Harry Potter
-Harry Potter,Ron Weasley ,Porfessor Trelawney
-Harry Potter,Ron Weasley ,Porfessor Trelawney
-Harry Potter,Ron Weasley ,Porfessor Trelawney
-Harry Potter,Ron Weasley ,Porfessor Trelawney
-Harry Potter,Ron Weasley ,Porfessor Trelawney
 Harry Potter,Ron Weasley ,Professor Severus Snape
 Harry Potter,Ron Weasley ,Professor Severus Snape
 Harry Potter,Ron Weasley ,Professor Severus Snape
 Harry Potter,Ron Weasley ,Professor Severus Snape
 Harry Potter,Ron Weasley ,Professor Severus Snape,Harry Potter,Professor Severus Snape,Harry Potter,Hermione Granger
-Harry Potter,Ron Weasley ,Professor Severus Snape,Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley ,Professor Severus Snape,Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Professor Severus Snape,Professor Severus Snape
+Harry Potter,Ron Weasley ,Professor Trelawney
+Harry Potter,Ron Weasley ,Professor Trelawney
+Harry Potter,Ron Weasley ,Professor Trelawney
+Harry Potter,Ron Weasley ,Professor Trelawney
+Harry Potter,Ron Weasley ,Professor Trelawney
 Harry Potter,Ron Weasley ,Ravenclaw,Ron Weasley ,Harry Potter,Hermione Granger
 Harry Potter,Ron Weasley ,Rita Skeeter,Harry Potter,Hermione Granger,Sirius Black,Harry Potter
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley 
-Harry Potter,Ron Weasley ,Ron Weasley ,Ginny Weasley,Dean Thomas,Hermione Granger,Ron Weasley ,Harry Potter,Ron Weasley ,Hermione Granger,Hermione Granger,Ron Weasley 
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley
+Harry Potter,Ron Weasley ,Ron Weasley ,Ginny Weasley,Dean Thomas,Hermione Granger,Ron Weasley ,Harry Potter,Ron Weasley ,Hermione Granger,Hermione Granger,Ron Weasley
 Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter
 Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter
 Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter
 Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter,Professor Severus Snape
-Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley ,Ron Weasley ,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley ,Ron Weasley ,Hermione Granger
 Harry Potter,Ron Weasley ,Ron Weasley ,Hermione Granger
 Harry Potter,Ron Weasley ,Ron Weasley ,Hermione Granger,Gryffindor
 Harry Potter,Ron Weasley ,Ron Weasley ,Hermione Granger,Lavender Brown,Harry Potter,Hermione Granger,Ron Weasley ,Lavender Brown,Ron Weasley ,Hermione Granger
-Harry Potter,Ron Weasley ,Ron Weasley ,Ron Weasley ,Ron Weasley 
+Harry Potter,Ron Weasley ,Ron Weasley ,Ron Weasley ,Ron Weasley
 Harry Potter,Ron Weasley ,Ron Weasley,Ginny Weasley,George Weasley
 Harry Potter,Ron Weasley ,Ron Weasley,Hermione Granger,Neville Longbottom
-Harry Potter,Ron Weasley ,Ron Weasley,Ron Weasley 
+Harry Potter,Ron Weasley ,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley ,Ron Weasley,Rubeus Hagrid,Harry Potter,Harry Potter
 Harry Potter,Ron Weasley ,Rubeus Hagrid
 Harry Potter,Ron Weasley ,Rubeus Hagrid
@@ -4637,6 +4629,7 @@ Harry Potter,Ron Weasley ,Vincent Crabbe,Goyle,Draco Malfoy,Ron Weasley ,Harry P
 Harry Potter,Ron Weasley,Albus Dumbledore
 Harry Potter,Ron Weasley,Bill Weasley
 Harry Potter,Ron Weasley,Bill Weasley,Professor Lupin
+Harry Potter,Ron Weasley,Cornelius Fudge,Cornelius Fudge,Ron Weasley,Harry Potter,Harry Potter,Percy Weasley,Cornelius Fudge,Harry Potter
 Harry Potter,Ron Weasley,Draco Malfoy
 Harry Potter,Ron Weasley,Draco Malfoy
 Harry Potter,Ron Weasley,Draco Malfoy,Harry Potter,Ron Weasley,Harry Potter,Ron Weasley
@@ -4658,22 +4651,23 @@ Harry Potter,Ron Weasley,Harry Potter,Ron Weasley,Neville Longbottom
 Harry Potter,Ron Weasley,Harry Potter,Sirius Black,Harry Potter
 Harry Potter,Ron Weasley,Molly Weasley
 Harry Potter,Ron Weasley,Professor Severus Snape
-Harry Potter,Ron Weasley,Professor Severus Snape,Harry Potter,Professor Lupin,Sirius Black,Ron Weasley 
+Harry Potter,Ron Weasley,Professor Severus Snape,Harry Potter,Professor Lupin,Sirius Black,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley
-Harry Potter,Ron Weasley,Ron Weasley 
+Harry Potter,Ron Weasley,Ron Weasley
 Harry Potter,Ron Weasley,Ron Weasley ,Fred Weasley,Harry Potter
 Harry Potter,Ron Weasley,Ron Weasley ,Hermione Granger,Ginny Weasley
-Harry Potter,Ron Weasley,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley 
+Harry Potter,Ron Weasley,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley
 Harry Potter,Ron Weasley,Rubeus Hagrid
 Harry Potter,Ron Weasley,Sirius Black
 Harry Potter,Ron Weasley,Sirius Black
 Harry Potter,Ron Weasley,Sirius Black
 Harry Potter,Ron Weasley,Voldemort
+Harry Potter,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid
@@ -4770,12 +4764,11 @@ Harry Potter,Rubeus Hagrid,Harry Potter,Rubeus Hagrid,Harry Potter,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Harry Potter,Rubeus Hagrid,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Hermione Granger
 Harry Potter,Rubeus Hagrid,Mad-eye Moody,Rubeus Hagrid,Mad-eye Moody,Harry Potter,Rubeus Hagrid,Harry Potter
-Harry Potter,Rubeus Hagrid,Madam
-Harry Potter,Rubeus Hagrid,Porfessor Trelawney,Harry Potter,Hermione Granger
-Harry Potter,Rubeus Hagrid,Ron Weasley 
-Harry Potter,Rubeus Hagrid,Ron Weasley 
+Harry Potter,Rubeus Hagrid,Professor Trelawney,Harry Potter,Hermione Granger
+Harry Potter,Rubeus Hagrid,Ron Weasley
+Harry Potter,Rubeus Hagrid,Ron Weasley
 Harry Potter,Rubeus Hagrid,Ron Weasley ,Fat Friar,Ron Weasley ,Harry Potter
-Harry Potter,Rubeus Hagrid,Ron Weasley ,Hermione Granger,Madam
+Harry Potter,Rubeus Hagrid,Ron Weasley ,Hermione Granger
 Harry Potter,Rubeus Hagrid,Ron Weasley ,Hermione Granger,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Ron Weasley ,Ron Weasley ,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Rubeus Hagrid
@@ -4783,9 +4776,9 @@ Harry Potter,Rubeus Hagrid,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Rubeus Hagrid
 Harry Potter,Rubeus Hagrid,Rubeus Hagrid
-Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Gryffindor,Harry Potter,Porfessor Trelawney,Harry Potter,Voldemort,Harry Potter,Slytherin,Draco Malfoy,Harry Potter,Draco Malfoy
+Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Gryffindor,Harry Potter,Professor Trelawney,Harry Potter,Voldemort,Harry Potter,Slytherin,Draco Malfoy,Harry Potter,Draco Malfoy
 Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Harry Potter
-Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Mad-eye Moody,Mad-eye Moody,Madam,Mad-eye Moody,Harry Potter,Mad-eye Moody
+Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Mad-eye Moody,Mad-eye Moody,Mad-eye Moody,Harry Potter,Mad-eye Moody
 Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Voldemort
 Harry Potter,Rubeus Hagrid,Sirius Black
 Harry Potter,Rubeus Hagrid,Voldemort,Ron Weasley ,Hermione Granger,Hermione Granger,Sirius Black
@@ -4806,9 +4799,6 @@ Harry Potter,Seamus Finnigan,Professor Severus Snape
 Harry Potter,Seamus Finnigan,Professor Severus Snape
 Harry Potter,Seamus Finnigan,Seamus Finnigan,Harry Potter
 Harry Potter,Seamus Finnigan,Sirius Black
-Harry Potter,Sir Cadogan
-Harry Potter,Sir Cadogan
-Harry Potter,Sir Cadogan
 Harry Potter,Sir Cadogan
 Harry Potter,Sir Cadogan,Harry Potter
 Harry Potter,Sirius Black
@@ -4867,7 +4857,7 @@ Harry Potter,Sirius Black
 Harry Potter,Sirius Black,Albus Dumbledore,Harry Potter,Sirius Black
 Harry Potter,Sirius Black,Crookshanks
 Harry Potter,Sirius Black,Crookshanks,Hermione Granger
-Harry Potter,Sirius Black,Crookshanks,Ron Weasley 
+Harry Potter,Sirius Black,Crookshanks,Ron Weasley
 Harry Potter,Sirius Black,Fred Weasley,George Weasley
 Harry Potter,Sirius Black,Harry Potter
 Harry Potter,Sirius Black,Harry Potter
@@ -4885,7 +4875,6 @@ Harry Potter,Sirius Black,Harry Potter,Voldemort,Wormtail,Wormtail,Harry Potter
 Harry Potter,Sirius Black,Hermione Granger
 Harry Potter,Sirius Black,James Potter
 Harry Potter,Sirius Black,James Potter,Sirius Black,Professor Lupin
-Harry Potter,Sirius Black,Madam,Voldemort
 Harry Potter,Sirius Black,Peter Pettigrew,Sirius Black
 Harry Potter,Sirius Black,Professor Lupin
 Harry Potter,Sirius Black,Professor Lupin
@@ -4896,7 +4885,7 @@ Harry Potter,Sirius Black,Ron Weasley
 Harry Potter,Sirius Black,Ron Weasley
 Harry Potter,Sirius Black,Ron Weasley
 Harry Potter,Sirius Black,Ron Weasley
-Harry Potter,Sirius Black,Ron Weasley 
+Harry Potter,Sirius Black,Ron Weasley
 Harry Potter,Sirius Black,Ron Weasley ,Hermione Granger,Hedwig,Harry Potter,Dudley Dursley,Dudley Dursley
 Harry Potter,Sirius Black,Rubeus Hagrid,Harry Potter,Rubeus Hagrid
 Harry Potter,Sirius Black,Sirius Black
@@ -4912,6 +4901,7 @@ Harry Potter,Sirius Black,Sirius Black,Ron Weasley
 Harry Potter,Sirius Black,Vernon Dursley
 Harry Potter,Sirius Black,Viktor Krum,Mr Crouch
 Harry Potter,Sirius Black,Voldemort
+Harry Potter,Sirius Black,Voldemort
 Harry Potter,Sirius Black,Wormtail,Sirius Black,Harry Potter,Buckbeak,Sirius Black,Harry Potter,Wormtail
 Harry Potter,Skeeter
 Harry Potter,Skeeter
@@ -4926,13 +4916,13 @@ Harry Potter,Slytherin
 Harry Potter,Slytherin,Draco Malfoy
 Harry Potter,Slytherin,Draco Malfoy
 Harry Potter,Slytherin,Draco Malfoy,Harry Potter
-Harry Potter,Slytherin,Draco Malfoy,Ron Weasley 
+Harry Potter,Slytherin,Draco Malfoy,Ron Weasley
 Harry Potter,Slytherin,Harry Potter,Harry Potter
 Harry Potter,Slytherin,Harry Potter,Harry Potter
 Harry Potter,Slytherin,Harry Potter,Slytherin,Draco Malfoy,Draco Malfoy,Professor Severus Snape,Harry Potter
 Harry Potter,Slytherin,Oliver Wood
-Harry Potter,Slytherin,Professor Sprout,Madam,Filch
-Harry Potter,Slytherin,Ron Weasley 
+Harry Potter,Slytherin,Professor Sprout,Madam Pince,Filch
+Harry Potter,Slytherin,Ron Weasley
 Harry Potter,Slytherin,Slytherin
 Harry Potter,Tom Riddle
 Harry Potter,Tom Riddle
@@ -4952,7 +4942,7 @@ Harry Potter,Tom Riddle,Cornelius Fudge
 Harry Potter,Tom Riddle,Ginny Weasley,Slytherin
 Harry Potter,Tom Riddle,Harry Potter
 Harry Potter,Tom Riddle,Harry Potter
-Harry Potter,Tom Riddle,Hermione Granger,Ron Weasley 
+Harry Potter,Tom Riddle,Hermione Granger,Ron Weasley
 Harry Potter,Tom Riddle,Rubeus Hagrid
 Harry Potter,Tom Riddle,Rubeus Hagrid
 Harry Potter,Tom Riddle,Sirius Black,Voldemort
@@ -5036,6 +5026,7 @@ Harry Potter,Voldemort
 Harry Potter,Voldemort
 Harry Potter,Voldemort
 Harry Potter,Voldemort
+Harry Potter,Voldemort
 Harry Potter,Voldemort,Albus Dumbledore
 Harry Potter,Voldemort,Albus Dumbledore
 Harry Potter,Voldemort,Albus Dumbledore
@@ -5049,6 +5040,7 @@ Harry Potter,Voldemort,Harry Potter
 Harry Potter,Voldemort,Harry Potter
 Harry Potter,Voldemort,Harry Potter
 Harry Potter,Voldemort,Harry Potter
+Harry Potter,Voldemort,Harry Potter
 Harry Potter,Voldemort,Harry Potter,Draco Malfoy,Cornelius Fudge,Harry Potter,Cornelius Fudge,Draco Malfoy
 Harry Potter,Voldemort,Harry Potter,Harry Potter
 Harry Potter,Voldemort,Harry Potter,Tom Riddle,Harry Potter
@@ -5057,10 +5049,9 @@ Harry Potter,Voldemort,Hermione Granger,Harry Potter,Hermione Granger
 Harry Potter,Voldemort,Mad-eye Moody,Voldemort
 Harry Potter,Voldemort,Professor Severus Snape
 Harry Potter,Voldemort,Rita Skeeter,Harry Potter
-Harry Potter,Voldemort,Ron Weasley 
-Harry Potter,Voldemort,Ron Weasley 
+Harry Potter,Voldemort,Ron Weasley
+Harry Potter,Voldemort,Ron Weasley
 Harry Potter,Voldemort,Salazar Slytherin,Harry Potter,Albus Dumbledore
-Harry Potter,Voldemort,Sir Cadogan,Harry Potter
 Harry Potter,Voldemort,Sirius Black
 Harry Potter,Voldemort,Voldemort,Harry Potter,Harry Potter,Voldemort
 Harry Potter,Voldemort,Voldemort,Harry Potter,Voldemort,Harry Potter,Voldemort,Harry Potter,Voldemort
@@ -5085,11 +5076,12 @@ Harry Potter,Wormtail,Voldemort,Harry Potter
 Headless,Harry Potter
 Headless,Harry Potter
 Headless,Harry Potter,Hermione Granger
-Headless,Hermione Granger,Harry Potter,Ron Weasley 
+Headless,Hermione Granger,Harry Potter,Ron Weasley
+Headless,Nearly Headless Nick,Nearly Headless Nick
 Hedwig,Alicia SpinnetProfessor Binns,Hedwig,Hedwig
 Hedwig,Crookshanks
 Hedwig,Crookshanks,Harry Potter,Hermione Granger,Harry Potter,Albus Dumbledore,Voldemort
-Hedwig,Fred Weasley,George Weasley,Harry Potter,Ron Weasley 
+Hedwig,Fred Weasley,George Weasley,Harry Potter,Ron Weasley
 Hedwig,Fred Weasley,Harry Potter,Ron Weasley ,Harry Potter
 Hedwig,Harry Potter
 Hedwig,Harry Potter
@@ -5109,9 +5101,9 @@ Hedwig,Hedwig,Petunia Dursley,Hedwig,Harry Potter
 Hedwig,Hermione Granger
 Hedwig,Petunia Dursley,Dudley Dursley,Harry Potter
 Hedwig,Pigwidgeon,Fred Weasley
-Hedwig,Ron Weasley 
-Hedwig,Ron Weasley 
-Hedwig,Ron Weasley 
+Hedwig,Ron Weasley
+Hedwig,Ron Weasley
+Hedwig,Ron Weasley
 Hedwig,Ron Weasley ,Harry Potter
 Hedwig,Ron Weasley ,Hermione Granger
 Hermione Granger,Albus Dumbledore
@@ -5133,7 +5125,7 @@ Hermione Granger,Albus Dumbledore,Rubeus Hagrid
 Hermione Granger,Albus Dumbledore,Sirius Black
 Hermione Granger,Albus Dumbledore,Voldemort,Ron Weasley ,Albus Dumbledore
 Hermione Granger,Alicia SpinnetProfessor Binns
-Hermione Granger,Alicia SpinnetProfessor Binns,Madam
+Hermione Granger,Alicia SpinnetProfessor Binns,Madam Pomfrey
 Hermione Granger,Angelina Johnson
 Hermione Granger,Aragog
 Hermione Granger,Bane
@@ -5151,8 +5143,8 @@ Hermione Granger,Cornelius Fudge,Professor Severus Snape
 Hermione Granger,Crookshanks
 Hermione Granger,Crookshanks
 Hermione Granger,Crookshanks
-Hermione Granger,Crookshanks,Harry Potter,Albus Dumbledore,Ron Weasley ,Harry Potter,Ron Weasley 
-Hermione Granger,Crookshanks,Ron Weasley 
+Hermione Granger,Crookshanks,Harry Potter,Albus Dumbledore,Ron Weasley ,Harry Potter,Ron Weasley
+Hermione Granger,Crookshanks,Ron Weasley
 Hermione Granger,Crookshanks,Ron Weasley ,Pigwidgeon
 Hermione Granger,Crookshanks,Scabbers,Crookshanks
 Hermione Granger,Dean Thomas
@@ -5161,13 +5153,13 @@ Hermione Granger,Draco Malfoy
 Hermione Granger,Draco Malfoy
 Hermione Granger,Draco Malfoy
 Hermione Granger,Draco Malfoy,Goyle,Vincent Crabbe,Goyle
-Hermione Granger,Draco Malfoy,Harry Potter,Draco Malfoy,Voldemort,Ron Weasley 
+Hermione Granger,Draco Malfoy,Harry Potter,Draco Malfoy,Voldemort,Ron Weasley
 Hermione Granger,Draco Malfoy,Harry Potter,Harry Potter
 Hermione Granger,Draco Malfoy,Hermione Granger
-Hermione Granger,Draco Malfoy,Ron Weasley 
-Hermione Granger,Draco Malfoy,Ron Weasley 
+Hermione Granger,Draco Malfoy,Ron Weasley
+Hermione Granger,Draco Malfoy,Ron Weasley
 Hermione Granger,Ernie Mcmillan,Hannah Abbott,Hufflepuff,Ginny Weasley
-Hermione Granger,Ernie Mcmillan,Harry Potter,Ron Weasley 
+Hermione Granger,Ernie Mcmillan,Harry Potter,Ron Weasley
 Hermione Granger,Fang
 Hermione Granger,Fat Friar
 Hermione Granger,Fat Friar
@@ -5185,7 +5177,7 @@ Hermione Granger,Fred Weasley,George Weasley
 Hermione Granger,Fred Weasley,George Weasley
 Hermione Granger,Fred Weasley,George Weasley
 Hermione Granger,Fred Weasley,George Weasley,Gryffindor
-Hermione Granger,Fred Weasley,George Weasley,Ron Weasley 
+Hermione Granger,Fred Weasley,George Weasley,Ron Weasley
 Hermione Granger,Fred Weasley,George Weasley,Ron Weasley ,Harry Potter
 Hermione Granger,Fred Weasley,Lee Jordan,Fred Weasley
 Hermione Granger,Gibleroy Lockhart
@@ -5204,8 +5196,8 @@ Hermione Granger,Ginny Weasley,Harry Potter,Draco Malfoy,Harry Potter
 Hermione Granger,Ginny Weasley,Hermione Granger
 Hermione Granger,Ginny Weasley,Neville Longbottom,Hermione Granger
 Hermione Granger,Ginny Weasley,Ron Weasley
-Hermione Granger,Ginny Weasley,Ron Weasley 
-Hermione Granger,Ginny Weasley,Ron Weasley 
+Hermione Granger,Ginny Weasley,Ron Weasley
+Hermione Granger,Ginny Weasley,Ron Weasley
 Hermione Granger,Ginny Weasley,Ron Weasley ,Harry Potter
 Hermione Granger,Ginny Weasley,Ron Weasley ,Neville Longbottom
 Hermione Granger,Gryffindor
@@ -5218,7 +5210,7 @@ Hermione Granger,Gryffindor,Ginny Weasley,Harry Potter,Hermione Granger,Sirius B
 Hermione Granger,Gryffindor,Gryffindor
 Hermione Granger,Gryffindor,Harry Potter
 Hermione Granger,Gryffindor,Harry Potter,Hermione Granger
-Hermione Granger,Hannah Abbott,Madam
+Hermione Granger,Hannah Abbott,Madam Pomfrey
 Hermione Granger,Harry Potter
 Hermione Granger,Harry Potter
 Hermione Granger,Harry Potter
@@ -5360,13 +5352,13 @@ Hermione Granger,Harry Potter
 Hermione Granger,Harry Potter,Albus Dumbledore
 Hermione Granger,Harry Potter,Albus Dumbledore
 Hermione Granger,Harry Potter,Albus Dumbledore,Ron Weasley
-Hermione Granger,Harry Potter,Aragog,Ron Weasley 
+Hermione Granger,Harry Potter,Aragog,Ron Weasley
 Hermione Granger,Harry Potter,Bane
 Hermione Granger,Harry Potter,Cornelius Fudge
 Hermione Granger,Harry Potter,Cornelius Fudge,Professor Severus Snape
 Hermione Granger,Harry Potter,Crookshanks
 Hermione Granger,Harry Potter,Dobby,Draco Malfoy
-Hermione Granger,Harry Potter,Dobby,Hermione Granger,Ron Weasley 
+Hermione Granger,Harry Potter,Dobby,Hermione Granger,Ron Weasley
 Hermione Granger,Harry Potter,Draco Malfoy
 Hermione Granger,Harry Potter,Draco Malfoy,Gryffindor
 Hermione Granger,Harry Potter,Draco Malfoy,Vincent Crabbe,Goyle,Harry Potter
@@ -5388,8 +5380,8 @@ Hermione Granger,Harry Potter,Harry Potter
 Hermione Granger,Harry Potter,Harry Potter
 Hermione Granger,Harry Potter,Harry Potter
 Hermione Granger,Harry Potter,Harry Potter,Hermione Granger
-Hermione Granger,Harry Potter,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Harry Potter,Ron Weasley 
+Hermione Granger,Harry Potter,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Harry Potter,Ron Weasley
 Hermione Granger,Harry Potter,Hedwig
 Hermione Granger,Harry Potter,Hedwig,Crookshanks
 Hermione Granger,Harry Potter,Hedwig,Hermione Granger,Ron Weasley ,Hedwig
@@ -5401,46 +5393,46 @@ Hermione Granger,Harry Potter,Hermione Granger,Draco Malfoy
 Hermione Granger,Harry Potter,Hermione Granger,Neville Longbottom
 Hermione Granger,Harry Potter,Hermione Granger,Ron Weasley ,Harry Potter
 Hermione Granger,Harry Potter,Hermione Granger,Ron Weasley ,Petunia Dursley
-Hermione Granger,Harry Potter,Lavender Brown,Parvati Patil,Ron Weasley 
-Hermione Granger,Harry Potter,Madam
-Hermione Granger,Harry Potter,Madam
-Hermione Granger,Harry Potter,Porfessor Trelawney,Sirius Black,Porfessor Trelawney
+Hermione Granger,Harry Potter,Lavender Brown,Parvati Patil,Ron Weasley
+Hermione Granger,Harry Potter,Madam Pince
+Hermione Granger,Harry Potter,Madam Pomfrey
+Hermione Granger,Harry Potter,Professor Trelawney,Sirius Black,Professor Trelawney
 Hermione Granger,Harry Potter,Rita Skeeter
 Hermione Granger,Harry Potter,Rita Skeeter,Harry Potter
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
-Hermione Granger,Harry Potter,Ron Weasley 
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
 Hermione Granger,Harry Potter,Ron Weasley ,Albus Dumbledore
 Hermione Granger,Harry Potter,Ron Weasley ,Draco Malfoy
 Hermione Granger,Harry Potter,Ron Weasley ,Fred Weasley,George Weasley
@@ -5450,7 +5442,7 @@ Hermione Granger,Harry Potter,Ron Weasley ,Gryffindor
 Hermione Granger,Harry Potter,Ron Weasley ,Gryffindor
 Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter,Harry Potter,Harry Potter
 Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter,Hermione Granger,Draco Malfoy,Rubeus Hagrid
-Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
+Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
 Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger
 Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger
 Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger
@@ -5461,7 +5453,7 @@ Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger,Gryffindor,Ron Weasl
 Hermione Granger,Harry Potter,Ron Weasley ,Mad-eye Moody
 Hermione Granger,Harry Potter,Ron Weasley ,Parvati Patil,Lavender Brown
 Hermione Granger,Harry Potter,Ron Weasley ,Professor Flitwick,Professor Sprout
-Hermione Granger,Harry Potter,Ron Weasley ,Ron Weasley 
+Hermione Granger,Harry Potter,Ron Weasley ,Ron Weasley
 Hermione Granger,Harry Potter,Ron Weasley ,Rubeus Hagrid
 Hermione Granger,Harry Potter,Ron Weasley ,Sirius Black
 Hermione Granger,Harry Potter,Ron Weasley ,Sirius Black,Rubeus Hagrid
@@ -5489,14 +5481,14 @@ Hermione Granger,Hermione Granger
 Hermione Granger,Hermione Granger,Crookshanks,Ron Weasley ,Scabbers
 Hermione Granger,Hermione Granger,Draco Malfoy
 Hermione Granger,Hermione Granger,Harry Potter
-Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley 
+Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley
 Hermione Granger,Hermione Granger,Harry Potter,Ron Weasley ,Gryffindor,Oliver Wood,Harry Potter
 Hermione Granger,Hermione Granger,Hermione Granger
-Hermione Granger,Hermione Granger,Moaning Murtle,Harry Potter,Ron Weasley 
+Hermione Granger,Hermione Granger,Moaning Murtle,Harry Potter,Ron Weasley
 Hermione Granger,Hermione Granger,Pansy Parkinson,Draco Malfoy,Ron Weasley ,Hermione Granger
 Hermione Granger,Hermione Granger,Professor Severus Snape
 Hermione Granger,Hermione Granger,Rita Skeeter
-Hermione Granger,Hermione Granger,Ron Weasley 
+Hermione Granger,Hermione Granger,Ron Weasley
 Hermione Granger,Hermione Granger,Rubeus Hagrid
 Hermione Granger,Lavender Brown
 Hermione Granger,Lavender Brown
@@ -5508,12 +5500,11 @@ Hermione Granger,Mad-eye Moody
 Hermione Granger,Mad-eye Moody
 Hermione Granger,Mad-eye Moody
 Hermione Granger,Mad-eye Moody,Rubeus Hagrid
-Hermione Granger,Madam
-Hermione Granger,Madam
-Hermione Granger,Madam
-Hermione Granger,Madam
-Hermione Granger,Madam
-Hermione Granger,Madam,Ron Weasley 
+Hermione Granger,Madam Hooch
+Hermione Granger,Madam Pince
+Hermione Granger,Madam Pomfrey
+Hermione Granger,Madam Pomfrey
+Hermione Granger,Madam Pomfrey,Ron Weasley
 Hermione Granger,Millicent Bulstrode
 Hermione Granger,Millicent Bulstrode,Draco Malfoy
 Hermione Granger,Millicent Bulstrode,Harry Potter
@@ -5553,10 +5544,6 @@ Hermione Granger,Percy Weasley,Hermione Granger,Percy Weasley
 Hermione Granger,Percy Weasley,Mr Crouch
 Hermione Granger,Peter Pettigrew
 Hermione Granger,Pigwidgeon
-Hermione Granger,Porfessor Trelawney
-Hermione Granger,Porfessor Trelawney
-Hermione Granger,Porfessor Trelawney
-Hermione Granger,Porfessor Trelawney
 Hermione Granger,Professor Flitwick
 Hermione Granger,Professor Flitwick
 Hermione Granger,Professor Flitwick
@@ -5581,14 +5568,18 @@ Hermione Granger,Professor Severus Snape
 Hermione Granger,Professor Severus Snape,Albus Dumbledore
 Hermione Granger,Professor Severus Snape,Gryffindor
 Hermione Granger,Professor Severus Snape,Harry Potter,Ron Weasley
-Hermione Granger,Professor Severus Snape,Harry Potter,Ron Weasley 
+Hermione Granger,Professor Severus Snape,Harry Potter,Ron Weasley
 Hermione Granger,Professor Severus Snape,Hermione Granger,Neville Longbottom
 Hermione Granger,Professor Severus Snape,Pansy Parkinson,Slytherin,Hermione Granger
 Hermione Granger,Professor Severus Snape,Professor Severus Snape
 Hermione Granger,Professor Severus Snape,Professor Severus Snape
-Hermione Granger,Professor Severus Snape,Ron Weasley 
+Hermione Granger,Professor Severus Snape,Ron Weasley
 Hermione Granger,Professor Sinistra
 Hermione Granger,Professor Sprout,Hermione Granger
+Hermione Granger,Professor Trelawney
+Hermione Granger,Professor Trelawney
+Hermione Granger,Professor Trelawney
+Hermione Granger,Professor Trelawney
 Hermione Granger,Ravenclaw
 Hermione Granger,Ravenclaw,Cho Chang
 Hermione Granger,Rita Skeeter
@@ -5598,86 +5589,86 @@ Hermione Granger,Ron Weasley
 Hermione Granger,Ron Weasley
 Hermione Granger,Ron Weasley
 Hermione Granger,Ron Weasley
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
-Hermione Granger,Ron Weasley 
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
+Hermione Granger,Ron Weasley
 Hermione Granger,Ron Weasley ,Albus Dumbledore
 Hermione Granger,Ron Weasley ,Aragog,Moaning Murtle
 Hermione Granger,Ron Weasley ,Crookshanks,Scabbers
@@ -5700,22 +5691,22 @@ Hermione Granger,Ron Weasley ,Harry Potter,Dobby,Winky
 Hermione Granger,Ron Weasley ,Harry Potter,Draco Malfoy
 Hermione Granger,Ron Weasley ,Harry Potter,Hermione Granger
 Hermione Granger,Ron Weasley ,Harry Potter,Hermione Granger
-Hermione Granger,Ron Weasley ,Harry Potter,Hermione Granger,Hermione Granger,Madam
+Hermione Granger,Ron Weasley ,Harry Potter,Hermione Granger,Hermione Granger,Madam Pomfrey
 Hermione Granger,Ron Weasley ,Harry Potter,Professor Severus Snape
 Hermione Granger,Ron Weasley ,Harry Potter,Ron Weasley
-Hermione Granger,Ron Weasley ,Harry Potter,Ron Weasley 
+Hermione Granger,Ron Weasley ,Harry Potter,Ron Weasley
 Hermione Granger,Ron Weasley ,Hermione Granger
 Hermione Granger,Ron Weasley ,Hermione Granger
 Hermione Granger,Ron Weasley ,Hermione Granger,Lavender Brown
 Hermione Granger,Ron Weasley ,Hermione Granger,Lavender Brown,Parvati Patil,Hermione Granger,Harry Potter
-Hermione Granger,Ron Weasley ,Hermione Granger,Ron Weasley 
+Hermione Granger,Ron Weasley ,Hermione Granger,Ron Weasley
 Hermione Granger,Ron Weasley ,Professor Flitwick,Professor Severus Snape,Professor Severus Snape,Harry Potter
-Hermione Granger,Ron Weasley ,Ron Weasley 
-Hermione Granger,Ron Weasley ,Ron Weasley 
+Hermione Granger,Ron Weasley ,Ron Weasley
+Hermione Granger,Ron Weasley ,Ron Weasley
 Hermione Granger,Ron Weasley ,Ron Weasley ,Hermione Granger,Skeeter
 Hermione Granger,Ron Weasley ,Ron Weasley ,Lavender Brown
 Hermione Granger,Ron Weasley ,Ron Weasley ,Ron Weasley
-Hermione Granger,Ron Weasley ,Rubeus Hagrid,Harry Potter,Ron Weasley 
+Hermione Granger,Ron Weasley ,Rubeus Hagrid,Harry Potter,Ron Weasley
 Hermione Granger,Ron Weasley ,Scabbers
 Hermione Granger,Ron Weasley ,Winky
 Hermione Granger,Ron Weasley,Bill Weasley,Harry Potter
@@ -5777,14 +5768,14 @@ Hermione Granger,Viktor Krum
 Hermione Granger,Viktor Krum
 Hermione Granger,Viktor Krum
 Hermione Granger,Viktor Krum
-Hermione Granger,Viktor Krum,Fat Friar,Harry Potter,Ron Weasley ,Ginny Weasley,Ron Weasley 
+Hermione Granger,Viktor Krum,Fat Friar,Harry Potter,Ron Weasley ,Ginny Weasley,Ron Weasley
 Hermione Granger,Viktor Krum,Harry Potter
 Hermione Granger,Viktor Krum,Padma Patil
 Hermione Granger,Viktor Krum,Rita Skeeter
-Hermione Granger,Viktor Krum,Ron Weasley ,Viktor Krum,Harry Potter,Ron Weasley 
+Hermione Granger,Viktor Krum,Ron Weasley ,Viktor Krum,Harry Potter,Ron Weasley
 Hermione Granger,Vincent Crabbe
 Hermione Granger,Vincent Crabbe,Goyle
-Hermione Granger,Vincent Crabbe,Goyle,Slytherin,Harry Potter,Vincent Crabbe,Goyle,Harry Potter,Ron Weasley 
+Hermione Granger,Vincent Crabbe,Goyle,Slytherin,Harry Potter,Vincent Crabbe,Goyle,Harry Potter,Ron Weasley
 Hermione Granger,Voldemort
 Hermione Granger,Voldemort
 Hermione Granger,Voldemort
@@ -5797,6 +5788,7 @@ Hermione Granger,Winky
 Hermione Granger,Winky,Mr Crouch
 Hufflepuff,Albus Dumbledore
 Hufflepuff,Dean Thomas
+Hufflepuff,Draco Malfoy
 Hufflepuff,Fat Friar
 Hufflepuff,Ginny Weasley,Gryffindor,Ginny Weasley
 Hufflepuff,Harry Potter
@@ -5804,10 +5796,9 @@ Hufflepuff,Harry Potter
 Hufflepuff,Harry Potter
 Hufflepuff,Harry Potter,Harry Potter,Harry Potter
 Hufflepuff,Harry Potter,Peeves,Harry Potter
-Hufflepuff,Madam,Draco Malfoy
 Hufflepuff,Ravenclaw,Ravenclaw,Slytherin
 Hufflepuff,Ron Weasley ,Harry Potter,Cho Chang
-Hufflepuff,Ron Weasley ,Madam
+Hufflepuff,Ron Weasley ,Madam Pomfrey
 Hufflepuff,Slytherin,Rubeus Hagrid,Slytherin
 Igor Karkaroff,Albus Dumbledore
 Igor Karkaroff,Albus Dumbledore
@@ -5832,7 +5823,7 @@ Igor Karkaroff,Professor Severus Snape
 Igor Karkaroff,Professor Severus Snape
 Igor Karkaroff,Professor Severus Snape,Albus Dumbledore
 Igor Karkaroff,Professor Severus Snape,Harry Potter
-Igor Karkaroff,Ron Weasley 
+Igor Karkaroff,Ron Weasley
 Igor Karkaroff,Rubeus Hagrid,Madam Maxime,Igor Karkaroff,Madam Maxime
 Igor Karkaroff,Viktor Krum,Hermione Granger,Ludo Bagman,Madam Maxime
 James Potter,Albus Dumbledore,Sirius Black,Sirius Black,Albus Dumbledore
@@ -5855,50 +5846,50 @@ Justin Finch-Fletchley,Headless
 Justin Finch-Fletchley,Justin Finch-Fletchley
 Justin Finch-Fletchley,Nearly Headless Nick,Nearly Headless Nick,Ernie Mcmillan,Hufflepuff
 Justin Finch-Fletchley,Nearly Headless Nick,Nearly Headless Nick,Harry Potter
-Justin Finch-Fletchley,Nearly Headless Nick,Nearly Headless Nick,Madam
+Justin Finch-Fletchley,Nearly Headless Nick,Nearly Headless Nick,Madam Pomfrey
 Justin Finch-Fletchley,Nearly Headless Nick,Nearly Headless Nick,Nearly Headless Nick
 Justin Finch-Fletchley,Nearly Headless Nick,Nearly Headless Nick,Peeves,Harry Potter,Ernie Mcmillan,Harry Potter,Professor Sprout
 Katie Bell,Cho Chang
 Katie Bell,Dean Thomas,Harry Potter,Harry Potter,Dean Thomas,Seamus Finnigan
-Katie Bell,Ginny Weasley,Harry Potter,Dean Thomas,Madam
+Katie Bell,Ginny Weasley,Harry Potter,Dean Thomas
 Katie Bell,Gryffindor,Harry Potter
 Katie Bell,Gryffindor,Harry Potter,Katie Bell,Slytherin
 Katie Bell,Gryffindor,Katie Bell,Angelina Johnson,Angelina Johnson,Angelina Johnson,Slytherin
-Katie Bell,Harry Potter,Hermione Granger,Harry Potter,Ron Weasley 
+Katie Bell,Harry Potter,Hermione Granger,Harry Potter,Ron Weasley
 Katie Bell,Harry Potter,Hermione Granger,Katie Bell
-Katie Bell,Harry Potter,Ron Weasley 
+Katie Bell,Harry Potter,Ron Weasley
 Katie Bell,Hermione Granger
 Katie Bell,Hermione Granger,Katie Bell,Peeves,Hermione Granger
 Katie Bell,Katie Bell
 Katie Bell,Katie Bell
 Katie Bell,Katie Bell,Gryffindor
-Katie Bell,Ron Weasley 
-Katie Bell,Ron Weasley 
-Katie Bell,Ron Weasley 
+Katie Bell,Ron Weasley
+Katie Bell,Ron Weasley
+Katie Bell,Ron Weasley
 Katie Bell,Slytherin
 Lavender Brown,Harry Potter
 Lavender Brown,Harry Potter,Harry Potter
 Lavender Brown,Harry Potter,Hermione Granger
 Lavender Brown,Harry Potter,Ron Weasley ,Harry Potter,Lavender Brown,Ron Weasley ,Harry Potter,Harry Potter
-Lavender Brown,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley 
+Lavender Brown,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley
 Lavender Brown,Hermione Granger
 Lavender Brown,Hermione Granger
 Lavender Brown,Hermione Granger
-Lavender Brown,Hermione Granger,Harry Potter,Ron Weasley 
-Lavender Brown,Hermione Granger,Ron Weasley 
+Lavender Brown,Hermione Granger,Harry Potter,Ron Weasley
+Lavender Brown,Hermione Granger,Ron Weasley
 Lavender Brown,Neville Longbottom,Mad-eye Moody
 Lavender Brown,Parvati Patil,Harry Potter
 Lavender Brown,Parvati Patil,Harry Potter,Harry Potter
 Lavender Brown,Parvati Patil,Hermione Granger,Harry Potter
 Lavender Brown,Parvati Patil,Seamus Finnigan,Dean Thomas
-Lavender Brown,Porfessor Trelawney
 Lavender Brown,Professor Severus Snape
-Lavender Brown,Ron Weasley 
-Lavender Brown,Ron Weasley 
-Lavender Brown,Ron Weasley 
-Lavender Brown,Ron Weasley 
+Lavender Brown,Professor Trelawney
+Lavender Brown,Ron Weasley
+Lavender Brown,Ron Weasley
+Lavender Brown,Ron Weasley
+Lavender Brown,Ron Weasley
 Lavender Brown,Ron Weasley ,Hermione Granger
-Lavender Brown,Ron Weasley ,Ron Weasley 
+Lavender Brown,Ron Weasley ,Ron Weasley
 Lavender Brown,Rubeus Hagrid
 Lavender Brown,Seamus Finnigan,Hermione Granger
 Lee Jordan,Angelina Johnson,Fred Weasley,George Weasley,Katie Bell,Slytherin,Gryffindor
@@ -5910,7 +5901,6 @@ Lee Jordan,Harry Potter
 Lee Jordan,Harry Potter,Angelina Johnson,Ron Weasley,Oliver Wood
 Lee Jordan,Harry Potter,Harry Potter
 Lee Jordan,Katie Bell
-Lee Jordan,Madam
 Lee Jordan,Ravenclaw,Angelina Johnson,Katie Bell,Lee Jordan
 Lee Jordan,Slytherin
 Lee Jordan,Slytherin,Gryffindor,Angelina Johnson,Angelina Johnson,Gryffindor,Oliver Wood
@@ -6046,16 +6036,16 @@ Mad-eye Moody,Mad-eye Moody,Harry Potter,Harry Potter
 Mad-eye Moody,Mad-eye Moody,Mad-eye Moody
 Mad-eye Moody,Mr Crouch
 Mad-eye Moody,Mr Crouch
-Mad-eye Moody,Mr Crouch,Ron Weasley 
+Mad-eye Moody,Mr Crouch,Ron Weasley
 Mad-eye Moody,Professor Lupin
 Mad-eye Moody,Professor Lupin,Mad-eye Moody,Harry Potter
 Mad-eye Moody,Professor Lupin,Ron Weasley,Fred Weasley,George Weasley
 Mad-eye Moody,Professor Severus Snape
 Mad-eye Moody,Professor Severus Snape
 Mad-eye Moody,Professor Severus Snape
-Mad-eye Moody,Professor Severus Snape,Ron Weasley 
+Mad-eye Moody,Professor Severus Snape,Ron Weasley
 Mad-eye Moody,Ron Weasley
-Mad-eye Moody,Ron Weasley 
+Mad-eye Moody,Ron Weasley
 Mad-eye Moody,Ron Weasley ,Albus Dumbledore
 Mad-eye Moody,Ron Weasley ,Harry Potter,Sirius Black
 Mad-eye Moody,Ron Weasley ,Hermione Granger,Harry Potter
@@ -6064,11 +6054,20 @@ Mad-eye Moody,Rubeus Hagrid
 Mad-eye Moody,Vernon Dursley
 Mad-eye Moody,Vincent Crabbe
 Mad-eye Moody,Wormtail,Voldemort,Cedric Diggory
+Madam Hooch,Angelina Johnson,Harry Potter
 Madam Hooch,Gryffindor
 Madam Hooch,Gryffindor,Harry Potter
+Madam Hooch,Gryffindor,Slytherin
+Madam Hooch,Harry Potter,Draco Malfoy,George Weasley,Fred Weasley,Vincent Crabbe
 Madam Hooch,Harry Potter,Ron Weasley ,Draco Malfoy
 Madam Hooch,Harry Potter,Slytherin
 Madam Hooch,Neville Longbottom
+Madam Hooch,Oliver Wood,Ravenclaw
+Madam Hooch,Professor Flitwick
+Madam Malkin,Draco Malfoy
+Madam Malkin,Harry Potter
+Madam Malkin,Harry Potter
+Madam Malkin,Harry Potter,Ron Weasley ,Draco Malfoy
 Madam Maxime,Fleur Delacour
 Madam Maxime,Harry Potter
 Madam Maxime,Harry Potter
@@ -6088,88 +6087,57 @@ Madam Maxime,Rubeus Hagrid,Albus Dumbledore
 Madam Maxime,Rubeus Hagrid,Fleur Delacour,Viktor Krum,Slytherin,Viktor Krum,Albus Dumbledore
 Madam Maxime,Rubeus Hagrid,Harry Potter,Rubeus Hagrid,Madam Maxime
 Madam Maxime,Rubeus Hagrid,Professor Severus Snape,Harry Potter,Harry Potter,Harry Potter,Professor Severus Snape
+Madam Pince,Hannah Abbott
+Madam Pince,Harry Potter,Harry Potter,Gryffindor
 Madam Pince,Hermione Granger
 Madam Pomfrey,Albus Dumbledore
+Madam Pomfrey,Albus Dumbledore
+Madam Pomfrey,Albus Dumbledore,Harry Potter,Madam Pomfrey
 Madam Pomfrey,Alicia SpinnetProfessor Binns
 Madam Pomfrey,Cornelius Fudge
+Madam Pomfrey,Ginny Weasley
+Madam Pomfrey,Ginny Weasley,Percy Weasley
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter
+Madam Pomfrey,Harry Potter,Bill Weasley,Hermione Granger
 Madam Pomfrey,Harry Potter,Harry Potter
+Madam Pomfrey,Harry Potter,Harry Potter
+Madam Pomfrey,Harry Potter,Hermione Granger
+Madam Pomfrey,Harry Potter,Mad-eye Moody
 Madam Pomfrey,Harry Potter,Ravenclaw,Slytherin
+Madam Pomfrey,Harry Potter,Ron Weasley ,Bill Weasley,Ron Weasley,Ron Weasley ,Hermione Granger
+Madam Pomfrey,Hermione Granger
+Madam Pomfrey,Hermione Granger
+Madam Pomfrey,Hermione Granger,Cedric Diggory,Cho Chang
+Madam Pomfrey,Madam Pomfrey
+Madam Pomfrey,Professor Minerva Mcgonagall
+Madam Pomfrey,Professor Sprout
+Madam Pomfrey,Ron Weasley ,Harry Potter,Fleur Delacour,Fleur Delacour,Madam Pomfrey
+Madam Pomfrey,Ron Weasley ,Hermione Granger
+Madam Pomfrey,Ron Weasley ,Madam Pomfrey
 Madam Pomfrey,Rubeus Hagrid
-Madam,Albus Dumbledore
-Madam,Albus Dumbledore
-Madam,Albus Dumbledore,Harry Potter,Harry Potter,Albus Dumbledore
-Madam,Albus Dumbledore,Harry Potter,Madam
-Madam,Angelina Johnson,Harry Potter
-Madam,Cornelius Fudge
-Madam,Cornelius Fudge
-Madam,Draco Malfoy
-Madam,Draco Malfoy
-Madam,Ginny Weasley
-Madam,Ginny Weasley,Percy Weasley
-Madam,Gryffindor,Slytherin
-Madam,Hannah Abbott
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter
-Madam,Harry Potter,Bill Weasley,Hermione Granger
-Madam,Harry Potter,Draco Malfoy,George Weasley,Fred Weasley,Vincent Crabbe
-Madam,Harry Potter,George Weasley
-Madam,Harry Potter,Harry Potter
-Madam,Harry Potter,Harry Potter
-Madam,Harry Potter,Harry Potter,Gryffindor
-Madam,Harry Potter,Harry Potter,Harry Potter
-Madam,Harry Potter,Hermione Granger
-Madam,Harry Potter,Mad-eye Moody
-Madam,Harry Potter,Madam
-Madam,Harry Potter,Oliver Wood
-Madam,Harry Potter,Ron Weasley ,Bill Weasley,Ron Weasley,Ron Weasley ,Hermione Granger
-Madam,Harry Potter,Ron Weasley ,Draco Malfoy
-Madam,Hermione Granger
-Madam,Hermione Granger
-Madam,Hermione Granger
-Madam,Hermione Granger
-Madam,Hermione Granger,Cedric Diggory,Cho Chang
-Madam,Madam
-Madam,Madam
-Madam,Madam
-Madam,Oliver Wood
-Madam,Oliver Wood,Ravenclaw
-Madam,Professor Flitwick
-Madam,Professor Flitwick
-Madam,Professor Minerva Mcgonagall
-Madam,Professor Sprout
-Madam,Roger Davis
-Madam,Ron Weasley 
-Madam,Ron Weasley ,Harry Potter,Fleur Delacour,Fleur Delacour,Madam
-Madam,Ron Weasley ,Hermione Granger
-Madam,Ron Weasley ,Madam
-Madam,Rubeus Hagrid
-Madam,Sirius Black
-Madam,Sirius Black
-Madam,Sirius Black
-Madam,Sirius Black,James Potter
-Madam,Slytherin,Slytherin
-Millicent Bulstrode,Ron Weasley 
+Madam Pomfrey,Rubeus Hagrid
+Madam Pomfrey,Sirius Black
+Madam Pomfrey,Sirius Black
+Millicent Bulstrode,Ron Weasley
 Millicent Bulstrode,Slytherin,Slytherin,Dudley Dursley
 Moaning Murtle,Harry Potter
 Moaning Murtle,Harry Potter
 Moaning Murtle,Harry Potter
-Moaning Murtle,Harry Potter,Harry Potter,Ron Weasley ,Harry Potter,Harry Potter,Ron Weasley 
+Moaning Murtle,Harry Potter,Harry Potter,Ron Weasley ,Harry Potter,Harry Potter,Ron Weasley
 Moaning Murtle,Hermione Granger,Harry Potter
 Moaning Murtle,Hermione Granger,Moaning Murtle
-Moaning Murtle,Hermione Granger,Ron Weasley 
+Moaning Murtle,Hermione Granger,Ron Weasley
 Molly Weasley,Bill Weasley,Harry Potter,Rubeus Hagrid,Albus Dumbledore,Professor Severus Snape,Professor Severus Snape,Albus Dumbledore
 Molly Weasley,Harry Potter
 Molly Weasley,Harry Potter
 Molly Weasley,Harry Potter,Percy Weasley,Percy Weasley
-Molly Weasley,Madam,Ron Weasley,Rubeus Hagrid
 Molly Weasley,Molly Weasley
 Molly Weasley,Ron Weasley
 Molly Weasley,Ron Weasley
@@ -6177,7 +6145,8 @@ Molly Weasley,Ron Weasley
 Molly Weasley,Ron Weasley
 Molly Weasley,Ron Weasley,Bill Weasley
 Molly Weasley,Ron Weasley,George Weasley
-Molly Weasley,Rubeus Hagrid,Ron Weasley,Ginny Weasley,Harry Potter,Hermione Granger,Rubeus Hagrid,Madam
+Molly Weasley,Ron Weasley,Rubeus Hagrid
+Molly Weasley,Rubeus Hagrid,Ron Weasley,Ginny Weasley,Harry Potter,Hermione Granger,Rubeus Hagrid
 Molly Weasley,Sirius Black
 Moony,Padfoot
 Moony,Padfoot,Prongs
@@ -6208,7 +6177,7 @@ Mr Crouch,Hermione Granger
 Mr Crouch,Hermione Granger
 Mr Crouch,Hermione Granger
 Mr Crouch,Hermione Granger
-Mr Crouch,Hermione Granger,Ron Weasley 
+Mr Crouch,Hermione Granger,Ron Weasley
 Mr Crouch,Igor Karkaroff
 Mr Crouch,Ludo Bagman
 Mr Crouch,Ludo Bagman
@@ -6234,17 +6203,17 @@ Mr Crouch,Percy Weasley
 Mr Crouch,Percy Weasley
 Mr Crouch,Professor Severus Snape
 Mr Crouch,Ron Weasley
-Mr Crouch,Ron Weasley 
-Mr Crouch,Ron Weasley 
-Mr Crouch,Ron Weasley 
-Mr Crouch,Ron Weasley 
+Mr Crouch,Ron Weasley
+Mr Crouch,Ron Weasley
+Mr Crouch,Ron Weasley
+Mr Crouch,Ron Weasley
 Mr Crouch,Ron Weasley ,Harry Potter,Albus Dumbledore
 Mr Crouch,Ron Weasley ,Harry Potter,Sirius Black
 Mr Crouch,Sirius Black
 Mr Crouch,Winky
 Mr Crouch,Winky
 Mr Crouch,Winky
-Mr Crouch,Winky,Ron Weasley 
+Mr Crouch,Winky,Ron Weasley
 Mr Ollivander,Albus Dumbledore
 Mr Ollivander,Cedric Diggory
 Mr Ollivander,Fleur Delacour,Cedric Diggory
@@ -6270,7 +6239,8 @@ Nearly Headless Nick,Harry Potter
 Nearly Headless Nick,Harry Potter
 Nearly Headless Nick,Harry Potter
 Nearly Headless Nick,Harry Potter,Harry Potter
-Nearly Headless Nick,Harry Potter,Ron Weasley 
+Nearly Headless Nick,Harry Potter,Ron Weasley
+Nearly Headless Nick,Nearly Headless Nick
 Nearly Headless Nick,Nearly Headless Nick
 Nearly Headless Nick,Nearly Headless Nick
 Nearly Headless Nick,Nearly Headless Nick
@@ -6301,16 +6271,14 @@ Nearly Headless Nick,Nearly Headless Nick,Harry Potter
 Nearly Headless Nick,Nearly Headless Nick,Harry Potter
 Nearly Headless Nick,Nearly Headless Nick,Harry Potter
 Nearly Headless Nick,Nearly Headless Nick,Harry Potter,Harry Potter,Harry Potter
-Nearly Headless Nick,Nearly Headless Nick,Hermione Granger,Ron Weasley 
+Nearly Headless Nick,Nearly Headless Nick,Hermione Granger,Ron Weasley
 Nearly Headless Nick,Nearly Headless Nick,Neville Longbottom,Neville Longbottom
 Nearly Headless Nick,Nearly Headless Nick,Peeves
-Nearly Headless Nick,Nearly Headless Nick,Sir Cadogan
-Nearly Headless Nick,Ron Weasley 
-Nearly Headless Nick,Sir Cadogan
+Nearly Headless Nick,Ron Weasley
 Nearly Headless Nick,Tom Riddle,Voldemort
 Neville Longbottom,Albus Dumbledore,Neville Longbottom,Seamus Finnigan,Albus Dumbledore
 Neville Longbottom,Bill Weasley,Draco Malfoy,Neville Longbottom
-Neville Longbottom,Bill Weasley,Madam,Mad-eye Moody
+Neville Longbottom,Bill Weasley,Mad-eye Moody
 Neville Longbottom,Bloody Baron
 Neville Longbottom,Dean Thomas,Lavender Brown,Parvati Patil,Padma Patil,Cho Chang,Katie Bell,Alicia SpinnetProfessor Binns,Angelina Johnson,Colin Creevey,Dennis Creevey,Ernie Mcmillan,Justin Finch-Fletchley,Hannah Abbott,Hufflepuff,Harry Potter,Ravenclaw,Ginny Weasley,Harry Potter,Hufflepuff,Fred Weasley,George Weasley,Lee Jordan
 Neville Longbottom,Draco Malfoy
@@ -6364,9 +6332,9 @@ Neville Longbottom,Harry Potter,Neville Longbottom,Gryffindor
 Neville Longbottom,Harry Potter,Neville Longbottom,Harry Potter
 Neville Longbottom,Harry Potter,Neville Longbottom,Ron Weasley ,Hermione Granger,Cho Chang
 Neville Longbottom,Harry Potter,Professor Severus Snape
-Neville Longbottom,Harry Potter,Ron Weasley 
-Neville Longbottom,Harry Potter,Ron Weasley 
-Neville Longbottom,Harry Potter,Ron Weasley ,Ron Weasley 
+Neville Longbottom,Harry Potter,Ron Weasley
+Neville Longbottom,Harry Potter,Ron Weasley
+Neville Longbottom,Harry Potter,Ron Weasley ,Ron Weasley
 Neville Longbottom,Harry Potter,Slytherin,Harry Potter
 Neville Longbottom,Hedwig
 Neville Longbottom,Hermione Granger
@@ -6374,8 +6342,7 @@ Neville Longbottom,Hermione Granger,Fang,Rubeus Hagrid,Harry Potter
 Neville Longbottom,Hermione Granger,Neville Longbottom
 Neville Longbottom,Justin Finch-Fletchley,Ron Weasley ,Seamus Finnigan,Hermione Granger,Millicent Bulstrode,Millicent Bulstrode,Hermione Granger,Hermione Granger,Harry Potter,Millicent Bulstrode
 Neville Longbottom,Mad-eye Moody
-Neville Longbottom,Madam
-Neville Longbottom,Madam
+Neville Longbottom,Madam Pomfrey
 Neville Longbottom,Neville Longbottom
 Neville Longbottom,Neville Longbottom
 Neville Longbottom,Neville Longbottom
@@ -6388,9 +6355,7 @@ Neville Longbottom,Neville Longbottom,Neville Longbottom
 Neville Longbottom,Neville Longbottom,Professor Severus Snape
 Neville Longbottom,Norbert
 Neville Longbottom,Pansy Parkinson,Slytherin
-Neville Longbottom,Porfessor Trelawney
-Neville Longbottom,Porfessor Trelawney
-Neville Longbottom,Professor Flitwick,Madam,Harry Potter
+Neville Longbottom,Professor Flitwick,Madam Pomfrey,Harry Potter
 Neville Longbottom,Professor Lupin
 Neville Longbottom,Professor Lupin
 Neville Longbottom,Professor Lupin
@@ -6404,11 +6369,13 @@ Neville Longbottom,Professor Severus Snape,Professor Lupin,Professor Severus Sna
 Neville Longbottom,Professor Sprout
 Neville Longbottom,Professor Sprout
 Neville Longbottom,Professor Sprout,Harry Potter,Neville Longbottom,Neville Longbottom
+Neville Longbottom,Professor Trelawney
+Neville Longbottom,Professor Trelawney
 Neville Longbottom,Ron Weasley
-Neville Longbottom,Ron Weasley 
-Neville Longbottom,Ron Weasley 
-Neville Longbottom,Ron Weasley 
-Neville Longbottom,Ron Weasley 
+Neville Longbottom,Ron Weasley
+Neville Longbottom,Ron Weasley
+Neville Longbottom,Ron Weasley
+Neville Longbottom,Ron Weasley
 Neville Longbottom,Ron Weasley ,Ginny Weasley
 Neville Longbottom,Ron Weasley ,Ginny Weasley,Draco Malfoy
 Neville Longbottom,Ron Weasley ,Ginny Weasley,Hermione Granger
@@ -6416,9 +6383,9 @@ Neville Longbottom,Ron Weasley ,Harry Potter,Harry Potter
 Neville Longbottom,Ron Weasley ,Seamus Finnigan,Dean Thomas
 Neville Longbottom,Ron Weasley ,Viktor Krum
 Neville Longbottom,Rubeus Hagrid
-Neville Longbottom,Seamus Finnigan,Dean Thomas,Neville Longbottom,Harry Potter,Hermione Granger,Ron Weasley 
+Neville Longbottom,Seamus Finnigan,Dean Thomas,Neville Longbottom,Harry Potter,Hermione Granger,Ron Weasley
 Neville Longbottom,Seamus Finnigan,Fat Friar,Harry Potter,Albus Dumbledore,Ron Weasley,Harry Potter,Albus Dumbledore
-Neville Longbottom,Seamus Finnigan,Ron Weasley 
+Neville Longbottom,Seamus Finnigan,Ron Weasley
 Neville Longbottom,Sirius Black
 Neville Longbottom,Sirius Black,Harry Potter,Neville Longbottom
 Neville Longbottom,Slytherin
@@ -6428,16 +6395,16 @@ Nicolas Flamel,Harry Potter,Harry Potter
 Nicolas Flamel,Nicolas Flamel
 Nicolas Flamel,Nicolas Flamel
 Nicolas Flamel,Professor Severus Snape
-Nicolas Flamel,Ron Weasley 
-Nicolas Flamel,Ron Weasley 
-Nicolas Flamel,Ron Weasley 
+Nicolas Flamel,Ron Weasley
+Nicolas Flamel,Ron Weasley
+Nicolas Flamel,Ron Weasley
 Norbert,Draco Malfoy
 Norbert,Harry Potter,Hermione Granger
 Norbert,Rubeus Hagrid
 Norbert,Rubeus Hagrid,Norbert
 Oliver Wood,Alicia SpinnetProfessor Binns
 Oliver Wood,Alicia SpinnetProfessor Binns,Harry Potter
-Oliver Wood,Alicia SpinnetProfessor Binns,Katie Bell,Harry Potter,Harry Potter,Harry Potter,Gryffindor,Ron Weasley 
+Oliver Wood,Alicia SpinnetProfessor Binns,Katie Bell,Harry Potter,Harry Potter,Harry Potter,Gryffindor,Ron Weasley
 Oliver Wood,Charlie Weasley
 Oliver Wood,Charlie Weasley
 Oliver Wood,Cho Chang
@@ -6471,16 +6438,16 @@ Oliver Wood,Harry Potter,Harry Potter
 Oliver Wood,Harry Potter,Harry Potter
 Oliver Wood,Harry Potter,Harry Potter,Fred Weasley,George Weasley,Gryffindor
 Oliver Wood,Harry Potter,Hufflepuff,Slytherin,Harry Potter
-Oliver Wood,Hermione Granger,Ron Weasley 
-Oliver Wood,Madam
-Oliver Wood,Madam,Harry Potter
+Oliver Wood,Hermione Granger,Ron Weasley
+Oliver Wood,Madam Hooch
+Oliver Wood,Madam Hooch,Harry Potter
 Oliver Wood,Neville Longbottom,Draco Malfoy,Slytherin
 Oliver Wood,Oliver Wood
 Oliver Wood,Oliver Wood
 Oliver Wood,Oliver Wood,Harry Potter,Oliver Wood,Harry Potter
 Oliver Wood,Professor Severus Snape
 Oliver Wood,Ron Weasley
-Oliver Wood,Ron Weasley 
+Oliver Wood,Ron Weasley
 Oliver Wood,Sirius Black
 Oliver Wood,Slytherin
 Oliver Wood,Slytherin
@@ -6492,7 +6459,7 @@ Padfoot,Prongs,George Weasley
 Padma Patil,Neville Longbottom
 Padma Patil,Parvati Patil
 Padma Patil,Parvati Patil,Harry Potter
-Padma Patil,Ron Weasley 
+Padma Patil,Ron Weasley
 Pansy Parkinson,Cho Chang,Cedric Diggory
 Pansy Parkinson,Draco Malfoy
 Pansy Parkinson,Draco Malfoy
@@ -6521,14 +6488,14 @@ Parvati Patil,Lavender Brown
 Parvati Patil,Lavender Brown
 Parvati Patil,Lavender Brown,Harry Potter,Rubeus Hagrid
 Parvati Patil,Lavender Brown,Pansy Parkinson
-Parvati Patil,Lavender Brown,Porfessor Trelawney
+Parvati Patil,Lavender Brown,Professor Trelawney
 Parvati Patil,Mad-eye Moody
 Parvati Patil,Padma Patil,Harry Potter
 Parvati Patil,Padma Patil,Ravenclaw
-Parvati Patil,Porfessor Trelawney
-Parvati Patil,Porfessor Trelawney
+Parvati Patil,Professor Trelawney
+Parvati Patil,Professor Trelawney
 Parvati Patil,Rubeus Hagrid
-Parvati Patil,Seamus Finnigan,Seamus Finnigan,Harry Potter,Ron Weasley 
+Parvati Patil,Seamus Finnigan,Seamus Finnigan,Harry Potter,Ron Weasley
 Parvati Patil,Viktor Krum
 Peeves,Albus Dumbledore,Albus Dumbledore
 Peeves,Angelina Johnson
@@ -6555,7 +6522,7 @@ Peeves,Peeves
 Peeves,Peeves,Albus Dumbledore,Sirius Black
 Peeves,Percy Weasley,Bloody Baron
 Peeves,Professor Lupin
-Peeves,Ron Weasley 
+Peeves,Ron Weasley
 Percy Weasley,Albus Dumbledore
 Percy Weasley,Albus Dumbledore
 Percy Weasley,Albus Dumbledore,Professor Sprout,Ludo Bagman,Madam Maxime,Rubeus Hagrid,Igor Karkaroff,Harry Potter,Ludo Bagman,Fred Weasley,George Weasley
@@ -6597,19 +6564,19 @@ Percy Weasley,Mr Crouch,Mr Crouch
 Percy Weasley,Mr Crouch,Mr Crouch,Percy Weasley,Mr Crouch
 Percy Weasley,Neville Longbottom,Gryffindor
 Percy Weasley,Peeves
-Percy Weasley,Penelop Clearwater,Ron Weasley 
+Percy Weasley,Penelop Clearwater,Ron Weasley
 Percy Weasley,Percy Weasley
 Percy Weasley,Percy Weasley,Percy Weasley,Voldemort,Mr Crouch
 Percy Weasley,Percy Weasley,Ron Weasley ,Harry Potter,Hermione Granger,Percy Weasley
 Percy Weasley,Professor Severus Snape
 Percy Weasley,Ron Weasley
 Percy Weasley,Ron Weasley
-Percy Weasley,Ron Weasley 
-Percy Weasley,Ron Weasley 
-Percy Weasley,Ron Weasley 
-Percy Weasley,Ron Weasley 
-Percy Weasley,Ron Weasley 
-Percy Weasley,Ron Weasley 
+Percy Weasley,Ron Weasley
+Percy Weasley,Ron Weasley
+Percy Weasley,Ron Weasley
+Percy Weasley,Ron Weasley
+Percy Weasley,Ron Weasley
+Percy Weasley,Ron Weasley
 Percy Weasley,Ron Weasley ,Harry Potter
 Percy Weasley,Ron Weasley ,Percy Weasley,Percy Weasley
 Percy Weasley,Ron Weasley,George Weasley
@@ -6631,8 +6598,8 @@ Peter Pettigrew,Professor Lupin
 Peter Pettigrew,Professor Lupin
 Peter Pettigrew,Professor Lupin,Sirius Black
 Peter Pettigrew,Professor Lupin,Sirius Black
-Peter Pettigrew,Ron Weasley 
-Peter Pettigrew,Ron Weasley 
+Peter Pettigrew,Ron Weasley
+Peter Pettigrew,Ron Weasley
 Peter Pettigrew,Ron Weasley ,Sirius Black
 Peter Pettigrew,Sirius Black
 Peter Pettigrew,Sirius Black
@@ -6696,46 +6663,6 @@ Petunia Dursley,Vernon Dursley,Petunia Dursley
 Petunia Dursley,Vernon Dursley,Vernon Dursley,Petunia Dursley,Vernon Dursley
 Pigwidgeon,Harry Potter,Hermione Granger,Ron Weasley
 Pigwidgeon,Pigwidgeon,Harry Potter,Sirius Black,Pigwidgeon,Ron Weasley ,Harry Potter,Fred Weasley,George Weasley
-Porfessor Trelawney,Albus Dumbledore
-Porfessor Trelawney,Albus Dumbledore,Porfessor Trelawney
-Porfessor Trelawney,Firenze,Harry Potter
-Porfessor Trelawney,Firenze,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Harry Potter,Harry Potter
-Porfessor Trelawney,Harry Potter,Lavender Brown,Parvati Patil,Porfessor Trelawney
-Porfessor Trelawney,Harry Potter,Peeves,Fred Weasley,George Weasley
-Porfessor Trelawney,Harry Potter,Porfessor Trelawney
-Porfessor Trelawney,Harry Potter,Porfessor Trelawney
-Porfessor Trelawney,Harry Potter,Professor Severus Snape,Professor Severus Snape,Professor Severus Snape
-Porfessor Trelawney,Harry Potter,Ron Weasley 
-Porfessor Trelawney,Harry Potter,Ron Weasley ,Porfessor Trelawney
-Porfessor Trelawney,Harry Potter,Ron Weasley ,Seamus Finnigan,Dean Thomas
-Porfessor Trelawney,Hermione Granger
-Porfessor Trelawney,Neville Longbottom
-Porfessor Trelawney,Neville Longbottom
-Porfessor Trelawney,Neville Longbottom,Porfessor Trelawney,Parvati Patil
-Porfessor Trelawney,Parvati Patil
-Porfessor Trelawney,Parvati Patil
-Porfessor Trelawney,Parvati Patil,Firenze
-Porfessor Trelawney,Parvati Patil,Lavender Brown
-Porfessor Trelawney,Parvati Patil,Lavender Brown,Harry Potter
-Porfessor Trelawney,Parvati Patil,Lavender Brown,Harry Potter
-Porfessor Trelawney,Parvati Patil,Lavender Brown,Hermione Granger,Porfessor Trelawney,Hermione Granger
-Porfessor Trelawney,Porfessor Trelawney
-Porfessor Trelawney,Porfessor Trelawney,Harry Potter
-Porfessor Trelawney,Professor Severus Snape,Draco Malfoy,Professor Severus Snape,Draco Malfoy,Harry Potter
-Porfessor Trelawney,Ron Weasley 
 Professor Flitwick,George Weasley
 Professor Flitwick,Harry Potter
 Professor Flitwick,Harry Potter,Draco Malfoy
@@ -6773,8 +6700,8 @@ Professor Lupin,Albus Dumbledore
 Professor Lupin,Albus Dumbledore
 Professor Lupin,Albus Dumbledore
 Professor Lupin,Bill Weasley
-Professor Lupin,Filch,Harry Potter,Ron Weasley 
-Professor Lupin,Filch,Ron Weasley 
+Professor Lupin,Filch,Harry Potter,Ron Weasley
+Professor Lupin,Filch,Ron Weasley
 Professor Lupin,Fleur Delacour,Harry Potter,Fleur Delacour,Bill Weasley,Ron Weasley,Professor Lupin
 Professor Lupin,Ginny Weasley,Harry Potter,Harry Potter,Professor Lupin,Harry Potter,Professor Lupin,Ginny Weasley
 Professor Lupin,Gryffindor,Ravenclaw
@@ -6811,10 +6738,10 @@ Professor Lupin,Harry Potter,Harry Potter
 Professor Lupin,Harry Potter,Harry Potter
 Professor Lupin,Harry Potter,Harry Potter,Sirius Black
 Professor Lupin,Harry Potter,Hermione Granger
-Professor Lupin,Harry Potter,Hermione Granger,James Potter,Professor Severus Snape,Madam,Sirius Black,Professor Severus Snape,Professor Severus Snape,Sirius Black,Professor Severus Snape,Professor Severus Snape,Albus Dumbledore
+Professor Lupin,Harry Potter,Hermione Granger,James Potter,Professor Severus Snape,Madam Pomfrey,Sirius Black,Professor Severus Snape,Professor Severus Snape,Sirius Black,Professor Severus Snape,Professor Severus Snape,Albus Dumbledore
 Professor Lupin,Harry Potter,Professor Lupin
 Professor Lupin,Harry Potter,Professor Severus Snape,Sirius Black
-Professor Lupin,Harry Potter,Ron Weasley 
+Professor Lupin,Harry Potter,Ron Weasley
 Professor Lupin,Harry Potter,Ron Weasley,Albus Dumbledore,Professor Severus Snape
 Professor Lupin,Harry Potter,Sirius Black
 Professor Lupin,Harry Potter,Voldemort
@@ -6863,8 +6790,8 @@ Professor Lupin,Ravenclaw,Hufflepuff,Gryffindor,Oliver Wood,Harry Potter
 Professor Lupin,Ron Weasley
 Professor Lupin,Ron Weasley
 Professor Lupin,Ron Weasley
-Professor Lupin,Ron Weasley 
-Professor Lupin,Ron Weasley ,Madam
+Professor Lupin,Ron Weasley
+Professor Lupin,Ron Weasley ,Madam Pomfrey
 Professor Lupin,Ron Weasley ,Neville Longbottom,Draco Malfoy
 Professor Lupin,Ron Weasley ,Professor Lupin,Peter Pettigrew,Harry Potter,Crookshanks,Harry Potter,Sirius Black,Professor Severus Snape,Harry Potter,Sirius Black
 Professor Lupin,Ron Weasley ,Sirius Black,Harry Potter,Hermione Granger
@@ -6886,7 +6813,7 @@ Professor Lupin,Sirius Black,James Potter,Wormtail,James Potter,Wormtail,Harry P
 Professor Lupin,Sirius Black,Mad-eye Moody,Professor Lupin,Ron Weasley,Harry Potter
 Professor Lupin,Sirius Black,Peter Pettigrew,James Potter,Sirius Black
 Professor Lupin,Sirius Black,Peter Pettigrew,Peter Pettigrew,Sirius Black,Peter Pettigrew
-Professor Lupin,Sirius Black,Ron Weasley 
+Professor Lupin,Sirius Black,Ron Weasley
 Professor Lupin,Sirius Black,Ron Weasley,Harry Potter,Molly Weasley
 Professor Lupin,Sirius Black,Sirius Black
 Professor Lupin,Sirius Black,Sirius Black
@@ -6929,7 +6856,7 @@ Professor Severus Snape,Albus Dumbledore,Albus Dumbledore,Igor Karkaroff
 Professor Severus Snape,Albus Dumbledore,Albus Dumbledore,Professor Severus Snape
 Professor Severus Snape,Albus Dumbledore,Harry Potter
 Professor Severus Snape,Albus Dumbledore,Harry Potter,Hermione Granger
-Professor Severus Snape,Albus Dumbledore,Madam
+Professor Severus Snape,Albus Dumbledore,Madam Pomfrey
 Professor Severus Snape,Albus Dumbledore,Professor Lupin
 Professor Severus Snape,Albus Dumbledore,Professor Minerva Mcgonagall,Professor Severus Snape,Professor Severus Snape,Harry Potter,Ron Weasley ,Ron Weasley,Ron Weasley ,Gryffindor,Ron Weasley ,Gryffindor,Harry Potter,Gryffindor,Gryffindor,Harry Potter,Harry Potter
 Professor Severus Snape,Albus Dumbledore,Professor Severus Snape
@@ -6966,7 +6893,7 @@ Professor Severus Snape,Gibleroy Lockhart,Professor Severus Snape
 Professor Severus Snape,Gryffindor
 Professor Severus Snape,Gryffindor
 Professor Severus Snape,Gryffindor
-Professor Severus Snape,Gryffindor,Harry Potter,Ron Weasley 
+Professor Severus Snape,Gryffindor,Harry Potter,Ron Weasley
 Professor Severus Snape,Gryffindor,Professor Severus Snape
 Professor Severus Snape,Gryffindor,Rita Skeeter,Harry Potter
 Professor Severus Snape,Harry Potter
@@ -7039,7 +6966,7 @@ Professor Severus Snape,Harry Potter
 Professor Severus Snape,Harry Potter
 Professor Severus Snape,Harry Potter
 Professor Severus Snape,Harry Potter,Albus Dumbledore,Draco Malfoy
-Professor Severus Snape,Harry Potter,Dean Thomas,Ron Weasley 
+Professor Severus Snape,Harry Potter,Dean Thomas,Ron Weasley
 Professor Severus Snape,Harry Potter,Draco Malfoy
 Professor Severus Snape,Harry Potter,Draco Malfoy,Albus Dumbledore,Professor Severus Snape
 Professor Severus Snape,Harry Potter,Gibleroy Lockhart,Harry Potter
@@ -7059,7 +6986,7 @@ Professor Severus Snape,Harry Potter,Harry Potter,Harry Potter
 Professor Severus Snape,Harry Potter,Harry Potter,Harry Potter
 Professor Severus Snape,Harry Potter,Harry Potter,Hermione Granger
 Professor Severus Snape,Harry Potter,Harry Potter,Professor Severus Snape
-Professor Severus Snape,Harry Potter,Harry Potter,Ron Weasley 
+Professor Severus Snape,Harry Potter,Harry Potter,Ron Weasley
 Professor Severus Snape,Harry Potter,Hermione Granger
 Professor Severus Snape,Harry Potter,Hermione Granger
 Professor Severus Snape,Harry Potter,Hermione Granger
@@ -7072,10 +6999,10 @@ Professor Severus Snape,Harry Potter,Professor Severus Snape,Albus Dumbledore
 Professor Severus Snape,Harry Potter,Professor Severus Snape,Albus Dumbledore
 Professor Severus Snape,Harry Potter,Professor Severus Snape,Professor Severus Snape,Harry Potter
 Professor Severus Snape,Harry Potter,Professor Severus Snape,Professor Severus Snape,Professor Severus Snape,Sirius Black,Albus Dumbledore,Harry Potter,Sirius Black,Voldemort,Sirius Black,Harry Potter,Professor Severus Snape,Sirius Black
-Professor Severus Snape,Harry Potter,Ron Weasley 
+Professor Severus Snape,Harry Potter,Ron Weasley
 Professor Severus Snape,Harry Potter,Ron Weasley ,Hermione Granger
 Professor Severus Snape,Harry Potter,Sirius Black
-Professor Severus Snape,Harry Potter,Sirius Black,Ron Weasley 
+Professor Severus Snape,Harry Potter,Sirius Black,Ron Weasley
 Professor Severus Snape,Harry Potter,Slytherin
 Professor Severus Snape,Harry Potter,Voldemort
 Professor Severus Snape,Hermione Granger
@@ -7094,7 +7021,7 @@ Professor Severus Snape,Hermione Granger,Ron Weasley ,Sirius Black
 Professor Severus Snape,Hufflepuff,George Weasley,Hermione Granger,Harry Potter
 Professor Severus Snape,Igor Karkaroff,Harry Potter
 Professor Severus Snape,Igor Karkaroff,Igor Karkaroff,Igor Karkaroff
-Professor Severus Snape,Igor Karkaroff,Professor Severus Snape,Ron Weasley 
+Professor Severus Snape,Igor Karkaroff,Professor Severus Snape,Ron Weasley
 Professor Severus Snape,James Potter
 Professor Severus Snape,James Potter,James Potter,Professor Severus Snape
 Professor Severus Snape,James Potter,Professor Lupin,Harry Potter,Professor Severus Snape,James Potter
@@ -7103,7 +7030,7 @@ Professor Severus Snape,Mad-eye Moody
 Professor Severus Snape,Mad-eye Moody
 Professor Severus Snape,Mad-eye Moody
 Professor Severus Snape,Mad-eye Moody,Harry Potter
-Professor Severus Snape,Madam
+Professor Severus Snape,Madam Pomfrey
 Professor Severus Snape,Mr Crouch
 Professor Severus Snape,Neville Longbottom
 Professor Severus Snape,Neville Longbottom
@@ -7116,7 +7043,6 @@ Professor Severus Snape,Peeves
 Professor Severus Snape,Percy Weasley
 Professor Severus Snape,Peter Pettigrew
 Professor Severus Snape,Peter Pettigrew
-Professor Severus Snape,Porfessor Trelawney
 Professor Severus Snape,Professor Lupin
 Professor Severus Snape,Professor Lupin
 Professor Severus Snape,Professor Lupin
@@ -7160,24 +7086,25 @@ Professor Severus Snape,Professor Severus Snape,Professor Severus Snape,Harry Po
 Professor Severus Snape,Professor Severus Snape,Ron Weasley ,Ron Weasley ,Ron Weasley ,Dean Thomas,Seamus Finnigan,Harry Potter,Draco Malfoy,Professor Severus Snape
 Professor Severus Snape,Professor Severus Snape,Slytherin
 Professor Severus Snape,Professor Severus Snape,Voldemort,Peter Pettigrew,Voldemort,Lily Potter,James Potter
+Professor Severus Snape,Professor Trelawney
 Professor Severus Snape,Ron Weasley
 Professor Severus Snape,Ron Weasley
-Professor Severus Snape,Ron Weasley 
-Professor Severus Snape,Ron Weasley 
-Professor Severus Snape,Ron Weasley 
-Professor Severus Snape,Ron Weasley 
-Professor Severus Snape,Ron Weasley 
-Professor Severus Snape,Ron Weasley 
+Professor Severus Snape,Ron Weasley
+Professor Severus Snape,Ron Weasley
+Professor Severus Snape,Ron Weasley
+Professor Severus Snape,Ron Weasley
+Professor Severus Snape,Ron Weasley
+Professor Severus Snape,Ron Weasley
 Professor Severus Snape,Ron Weasley ,Hermione Granger
 Professor Severus Snape,Ron Weasley ,Hermione Granger,Professor Severus Snape
-Professor Severus Snape,Ron Weasley ,Hermione Granger,Ron Weasley 
+Professor Severus Snape,Ron Weasley ,Hermione Granger,Ron Weasley
 Professor Severus Snape,Ron Weasley ,Justin Finch-Fletchley,Hufflepuff
 Professor Severus Snape,Ron Weasley ,Professor Lupin,Harry Potter
 Professor Severus Snape,Ron Weasley ,Professor Severus Snape,Harry Potter,Professor Severus Snape,Ron Weasley ,Harry Potter,Ron Weasley,Professor Severus Snape,Ron Weasley ,Professor Severus Snape,Harry Potter,Ron Weasley ,Harry Potter
 Professor Severus Snape,Rubeus Hagrid
 Professor Severus Snape,Rubeus Hagrid,Draco Malfoy
 Professor Severus Snape,Rubeus Hagrid,Sirius Black,Harry Potter,Sirius Black,Sirius Black,Ron Weasley,Harry Potter,Fred Weasley,George Weasley,Draco Malfoy
-Professor Severus Snape,Seamus Finnigan,Harry Potter,Ron Weasley 
+Professor Severus Snape,Seamus Finnigan,Harry Potter,Ron Weasley
 Professor Severus Snape,Sirius Black
 Professor Severus Snape,Sirius Black
 Professor Severus Snape,Sirius Black
@@ -7204,23 +7131,63 @@ Professor Severus Snape,Wormtail,Professor Severus Snape
 Professor Sprout,Albus Dumbledore,Mr Crouch
 Professor Sprout,Angelina Johnson
 Professor Sprout,Colin Creevey
-Professor Sprout,Gryffindor,Harry Potter,Professor Flitwick,Porfessor Trelawney,Harry Potter
+Professor Sprout,Gryffindor,Harry Potter,Professor Flitwick,Professor Trelawney,Harry Potter
 Professor Sprout,Harry Potter
 Professor Sprout,Harry Potter
 Professor Sprout,Harry Potter
 Professor Sprout,Harry Potter,Ernie Mcmillan,Ernie Mcmillan,Harry Potter,Hermione Granger
 Professor Sprout,Harry Potter,Professor Sprout
-Professor Sprout,Harry Potter,Ron Weasley 
+Professor Sprout,Harry Potter,Ron Weasley
 Professor Sprout,Harry Potter,Ron Weasley ,Hermione Granger
 Professor Sprout,Mad-eye Moody,Neville Longbottom,Harry Potter
-Professor Sprout,Madam
+Professor Sprout,Madam Pomfrey
 Professor Sprout,Neville Longbottom
 Professor Sprout,Petunia Dursley,Gibleroy Lockhart
 Professor Sprout,Professor Flitwick,Professor Flitwick
 Professor Sprout,Professor Sprout
-Professor Sprout,Ron Weasley 
+Professor Sprout,Ron Weasley
 Professor Sprout,Ron Weasley ,Hermione Granger,Gibleroy Lockhart,Harry Potter
 Professor Sprout,Rubeus Hagrid
+Professor Trelawney,Albus Dumbledore
+Professor Trelawney,Albus Dumbledore,Professor Trelawney
+Professor Trelawney,Firenze,Harry Potter
+Professor Trelawney,Firenze,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter
+Professor Trelawney,Harry Potter,Harry Potter
+Professor Trelawney,Harry Potter,Lavender Brown,Parvati Patil,Professor Trelawney
+Professor Trelawney,Harry Potter,Peeves,Fred Weasley,George Weasley
+Professor Trelawney,Harry Potter,Professor Severus Snape,Professor Severus Snape,Professor Severus Snape
+Professor Trelawney,Harry Potter,Professor Trelawney
+Professor Trelawney,Harry Potter,Professor Trelawney
+Professor Trelawney,Harry Potter,Ron Weasley
+Professor Trelawney,Harry Potter,Ron Weasley ,Professor Trelawney
+Professor Trelawney,Harry Potter,Ron Weasley ,Seamus Finnigan,Dean Thomas
+Professor Trelawney,Hermione Granger
+Professor Trelawney,Neville Longbottom
+Professor Trelawney,Neville Longbottom
+Professor Trelawney,Neville Longbottom,Professor Trelawney,Parvati Patil
+Professor Trelawney,Parvati Patil
+Professor Trelawney,Parvati Patil
+Professor Trelawney,Parvati Patil,Firenze
+Professor Trelawney,Parvati Patil,Lavender Brown
+Professor Trelawney,Parvati Patil,Lavender Brown,Harry Potter
+Professor Trelawney,Parvati Patil,Lavender Brown,Harry Potter
+Professor Trelawney,Parvati Patil,Lavender Brown,Hermione Granger,Professor Trelawney,Hermione Granger
+Professor Trelawney,Professor Severus Snape,Draco Malfoy,Professor Severus Snape,Draco Malfoy,Harry Potter
+Professor Trelawney,Professor Trelawney
+Professor Trelawney,Professor Trelawney,Harry Potter
+Professor Trelawney,Ron Weasley
 Prongs,Moony,Professor Severus Snape
 Ravenclaw,Cho Chang,Harry Potter,Harry Potter,Harry Potter
 Ravenclaw,Cho Chang,Katie Bell,Gryffindor
@@ -7232,11 +7199,11 @@ Ravenclaw,Harry Potter,Cho Chang,Ravenclaw,Harry Potter,Ravenclaw
 Ravenclaw,Harry Potter,Ron Weasley ,Hermione Granger
 Ravenclaw,Hermione Granger,Gryffindor
 Ravenclaw,Hufflepuff,Slytherin
-Ravenclaw,Hufflepuff,Slytherin,Madam,Oliver Wood
+Ravenclaw,Hufflepuff,Slytherin,Madam Hooch,Oliver Wood
 Ravenclaw,Lavender Brown,Gryffindor,Harry Potter
 Ravenclaw,Penelop Clearwater,Ginny Weasley
 Ravenclaw,Professor Severus Snape,Hufflepuff,Harry Potter,Ron Weasley ,Igor Karkaroff
-Ravenclaw,Ron Weasley ,Harry Potter,Ron Weasley 
+Ravenclaw,Ron Weasley ,Harry Potter,Ron Weasley
 Ravenclaw,Ron Weasley ,Hermione Granger,Harry Potter,Draco Malfoy,Vincent Crabbe,Goyle,Moaning Murtle
 Ravenclaw,Slytherin
 Rita Skeeter,Albus Dumbledore
@@ -7314,7 +7281,7 @@ Ron Weasley ,Crookshanks
 Ron Weasley ,Crookshanks
 Ron Weasley ,Crookshanks,Hedwig,Pigwidgeon
 Ron Weasley ,Dean Thomas,Neville Longbottom
-Ron Weasley ,Dean Thomas,Neville Longbottom,Ron Weasley 
+Ron Weasley ,Dean Thomas,Neville Longbottom,Ron Weasley
 Ron Weasley ,Dean Thomas,Seamus Finnigan,Harry Potter
 Ron Weasley ,Dobby
 Ron Weasley ,Dobby
@@ -7338,8 +7305,8 @@ Ron Weasley ,Draco Malfoy,Harry Potter
 Ron Weasley ,Draco Malfoy,Harry Potter,Draco Malfoy
 Ron Weasley ,Draco Malfoy,Harry Potter,Ron Weasley ,Draco Malfoy
 Ron Weasley ,Draco Malfoy,Hermione Granger
-Ron Weasley ,Draco Malfoy,Porfessor Trelawney
-Ron Weasley ,Draco Malfoy,Ron Weasley 
+Ron Weasley ,Draco Malfoy,Professor Trelawney
+Ron Weasley ,Draco Malfoy,Ron Weasley
 Ron Weasley ,Draco Malfoy,Rubeus Hagrid
 Ron Weasley ,Dudley Dursley
 Ron Weasley ,Dudley Dursley,Ron Weasley,Harry Potter,Ron Weasley,Dudley Dursley,Ron Weasley
@@ -7400,7 +7367,7 @@ Ron Weasley ,Ginny Weasley
 Ron Weasley ,Ginny Weasley
 Ron Weasley ,Ginny Weasley,Cho Chang
 Ron Weasley ,Ginny Weasley,Crookshanks,Hermione Granger
-Ron Weasley ,Ginny Weasley,Ginny Weasley,Ron Weasley 
+Ron Weasley ,Ginny Weasley,Ginny Weasley,Ron Weasley
 Ron Weasley ,Ginny Weasley,Harry Potter
 Ron Weasley ,Ginny Weasley,Harry Potter
 Ron Weasley ,Ginny Weasley,Harry Potter,Harry Potter
@@ -7418,7 +7385,7 @@ Ron Weasley ,Gryffindor
 Ron Weasley ,Gryffindor
 Ron Weasley ,Gryffindor
 Ron Weasley ,Gryffindor
-Ron Weasley ,Gryffindor,Harry Potter,Harry Potter,George Weasley,Draco Malfoy,Draco Malfoy,Madam,Harry Potter
+Ron Weasley ,Gryffindor,Harry Potter,Harry Potter,George Weasley,Draco Malfoy,Draco Malfoy,Madam Pomfrey,Harry Potter
 Ron Weasley ,Gryffindor,Hermione Granger
 Ron Weasley ,Gryffindor,Hermione Granger,Parvati Patil
 Ron Weasley ,Gryffindor,Oliver Wood
@@ -7587,8 +7554,12 @@ Ron Weasley ,Harry Potter
 Ron Weasley ,Harry Potter
 Ron Weasley ,Harry Potter
 Ron Weasley ,Harry Potter
+Ron Weasley ,Harry Potter
+Ron Weasley ,Harry Potter
+Ron Weasley ,Harry Potter
+Ron Weasley ,Harry Potter
 Ron Weasley ,Harry Potter,Albus Dumbledore
-Ron Weasley ,Harry Potter,Albus Dumbledore,Ron Weasley 
+Ron Weasley ,Harry Potter,Albus Dumbledore,Ron Weasley
 Ron Weasley ,Harry Potter,Albus Dumbledore,Ron Weasley ,Hermione Granger,Neville Longbottom,Harry Potter,Neville Longbottom,Harry Potter,Neville Longbottom
 Ron Weasley ,Harry Potter,Alicia SpinnetProfessor Binns
 Ron Weasley ,Harry Potter,Bill Weasley
@@ -7601,7 +7572,7 @@ Ron Weasley ,Harry Potter,Draco Malfoy
 Ron Weasley ,Harry Potter,Draco Malfoy,Draco Malfoy
 Ron Weasley ,Harry Potter,Draco Malfoy,Draco Malfoy
 Ron Weasley ,Harry Potter,Draco Malfoy,Harry Potter
-Ron Weasley ,Harry Potter,Draco Malfoy,Neville Longbottom,Vincent Crabbe,Goyle,Madam,Slytherin,Fred Weasley,George Weasley
+Ron Weasley ,Harry Potter,Draco Malfoy,Neville Longbottom,Vincent Crabbe,Goyle,Slytherin,Fred Weasley,George Weasley
 Ron Weasley ,Harry Potter,Draco Malfoy,Slytherin
 Ron Weasley ,Harry Potter,Fang,Harry Potter,Harry Potter,Fang
 Ron Weasley ,Harry Potter,Filch,Filch
@@ -7618,7 +7589,7 @@ Ron Weasley ,Harry Potter,Ginny Weasley,Harry Potter
 Ron Weasley ,Harry Potter,Gryffindor
 Ron Weasley ,Harry Potter,Gryffindor
 Ron Weasley ,Harry Potter,Gryffindor,Dean Thomas,Ginny Weasley
-Ron Weasley ,Harry Potter,Gryffindor,Peeves,Harry Potter,Ron Weasley 
+Ron Weasley ,Harry Potter,Gryffindor,Peeves,Harry Potter,Ron Weasley
 Ron Weasley ,Harry Potter,Gryffindor,Ravenclaw,Scabbers
 Ron Weasley ,Harry Potter,Harry Potter
 Ron Weasley ,Harry Potter,Harry Potter
@@ -7651,47 +7622,43 @@ Ron Weasley ,Harry Potter,Hermione Granger,Gryffindor,Harry Potter,Ron Weasley ,
 Ron Weasley ,Harry Potter,Hermione Granger,Harry Potter
 Ron Weasley ,Harry Potter,Hermione Granger,Harry Potter
 Ron Weasley ,Harry Potter,Hermione Granger,Harry Potter,Peeves
-Ron Weasley ,Harry Potter,Hermione Granger,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Hermione Granger,Lavender Brown,Ron Weasley 
-Ron Weasley ,Harry Potter,Hermione Granger,Madam Maxime,Rubeus Hagrid,Hermione Granger,Rubeus Hagrid,Ron Weasley 
+Ron Weasley ,Harry Potter,Hermione Granger,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Hermione Granger,Lavender Brown,Ron Weasley
+Ron Weasley ,Harry Potter,Hermione Granger,Madam Maxime,Rubeus Hagrid,Hermione Granger,Rubeus Hagrid,Ron Weasley
 Ron Weasley ,Harry Potter,Hermione Granger,Neville Longbottom
-Ron Weasley ,Harry Potter,Hermione Granger,Ron Weasley 
+Ron Weasley ,Harry Potter,Hermione Granger,Ron Weasley
 Ron Weasley ,Harry Potter,Hermione Granger,Ron Weasley ,Viktor Krum,Viktor Krum
 Ron Weasley ,Harry Potter,Hufflepuff,Cedric Diggory,Cedric Diggory,Albus Dumbledore
 Ron Weasley ,Harry Potter,Lavender Brown,Ron Weasley ,Harry Potter,Ron Weasley ,Lavender Brown
 Ron Weasley ,Harry Potter,Mad-eye Moody,Ron Weasley ,Mad-eye Moody,Seamus Finnigan
-Ron Weasley ,Harry Potter,Madam
-Ron Weasley ,Harry Potter,Madam
-Ron Weasley ,Harry Potter,Madam
-Ron Weasley ,Harry Potter,Madam
 Ron Weasley ,Harry Potter,Madam Maxime
 Ron Weasley ,Harry Potter,Neville Longbottom,Harry Potter
 Ron Weasley ,Harry Potter,Neville Longbottom,Hermione Granger
 Ron Weasley ,Harry Potter,Nicolas Flamel
 Ron Weasley ,Harry Potter,Nicolas Flamel,Draco Malfoy
-Ron Weasley ,Harry Potter,Oliver Wood,Harry Potter,Ron Weasley ,Madam
-Ron Weasley ,Harry Potter,Porfessor Trelawney,Lavender Brown,Parvati Patil,Porfessor Trelawney
+Ron Weasley ,Harry Potter,Oliver Wood,Harry Potter,Ron Weasley ,Madam Hooch
+Ron Weasley ,Harry Potter,Professor Trelawney,Lavender Brown,Parvati Patil,Professor Trelawney
 Ron Weasley ,Harry Potter,Ron Weasley
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
-Ron Weasley ,Harry Potter,Ron Weasley 
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
+Ron Weasley ,Harry Potter,Ron Weasley
 Ron Weasley ,Harry Potter,Ron Weasley ,Albus Dumbledore
 Ron Weasley ,Harry Potter,Ron Weasley ,Harry Potter
-Ron Weasley ,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
+Ron Weasley ,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
 Ron Weasley ,Harry Potter,Ron Weasley ,Hermione Granger
 Ron Weasley ,Harry Potter,Ron Weasley ,Hermione Granger
 Ron Weasley ,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter
@@ -7872,6 +7839,7 @@ Ron Weasley ,Hermione Granger
 Ron Weasley ,Hermione Granger
 Ron Weasley ,Hermione Granger
 Ron Weasley ,Hermione Granger
+Ron Weasley ,Hermione Granger
 Ron Weasley ,Hermione Granger,Albus Dumbledore,Cornelius Fudge
 Ron Weasley ,Hermione Granger,Albus Dumbledore,Harry Potter,Hermione Granger,Albus Dumbledore,Harry Potter,Harry Potter,Ron Weasley ,Hermione Granger
 Ron Weasley ,Hermione Granger,Albus Dumbledore,Hermione Granger
@@ -7887,8 +7855,8 @@ Ron Weasley ,Hermione Granger,Ernie Mcmillan
 Ron Weasley ,Hermione Granger,Filch,Percy Weasley,Fred Weasley,George Weasley,Filch,Harry Potter,Albus Dumbledore
 Ron Weasley ,Hermione Granger,Fred Weasley
 Ron Weasley ,Hermione Granger,Fred Weasley,George Weasley
-Ron Weasley ,Hermione Granger,Fred Weasley,George Weasley,Gryffindor,Ron Weasley 
-Ron Weasley ,Hermione Granger,Fred Weasley,Lee Jordan,Percy Weasley,Ron Weasley 
+Ron Weasley ,Hermione Granger,Fred Weasley,George Weasley,Gryffindor,Ron Weasley
+Ron Weasley ,Hermione Granger,Fred Weasley,Lee Jordan,Percy Weasley,Ron Weasley
 Ron Weasley ,Hermione Granger,Gibleroy Lockhart
 Ron Weasley ,Hermione Granger,Ginny Weasley
 Ron Weasley ,Hermione Granger,Ginny Weasley
@@ -7926,7 +7894,7 @@ Ron Weasley ,Hermione Granger,Harry Potter,Cedric Diggory
 Ron Weasley ,Hermione Granger,Harry Potter,Cedric Diggory,Harry Potter
 Ron Weasley ,Hermione Granger,Harry Potter,Crookshanks
 Ron Weasley ,Hermione Granger,Harry Potter,Draco Malfoy
-Ron Weasley ,Hermione Granger,Harry Potter,Draco Malfoy,Ron Weasley 
+Ron Weasley ,Hermione Granger,Harry Potter,Draco Malfoy,Ron Weasley
 Ron Weasley ,Hermione Granger,Harry Potter,Fred Weasley,George Weasley
 Ron Weasley ,Hermione Granger,Harry Potter,Gryffindor
 Ron Weasley ,Hermione Granger,Harry Potter,Harry Potter,Harry Potter
@@ -7934,7 +7902,7 @@ Ron Weasley ,Hermione Granger,Harry Potter,Hermione Granger
 Ron Weasley ,Hermione Granger,Harry Potter,Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter
 Ron Weasley ,Hermione Granger,Harry Potter,Hermione Granger,Harry Potter,Ron Weasley ,Harry Potter
 Ron Weasley ,Hermione Granger,Harry Potter,Neville Longbottom,Crookshanks,Pigwidgeon
-Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley 
+Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley
 Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter
 Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley ,Hermione Granger,Hedwig
 Ron Weasley ,Hermione Granger,Harry Potter,Rubeus Hagrid
@@ -7944,18 +7912,17 @@ Ron Weasley ,Hermione Granger,Hedwig
 Ron Weasley ,Hermione Granger,Hermione Granger
 Ron Weasley ,Hermione Granger,Hermione Granger
 Ron Weasley ,Hermione Granger,Hermione Granger
-Ron Weasley ,Hermione Granger,Hermione Granger,Ron Weasley 
+Ron Weasley ,Hermione Granger,Hermione Granger,Ron Weasley
 Ron Weasley ,Hermione Granger,Hermione Granger,Sirius Black,Ron Weasley ,Harry Potter
 Ron Weasley ,Hermione Granger,Hufflepuff,Harry Potter
 Ron Weasley ,Hermione Granger,Lavender Brown,Harry Potter,Hermione Granger,Hermione Granger
 Ron Weasley ,Hermione Granger,Moaning Murtle
-Ron Weasley ,Hermione Granger,Neville Longbottom,Goyle,Ron Weasley 
+Ron Weasley ,Hermione Granger,Neville Longbottom,Goyle,Ron Weasley
 Ron Weasley ,Hermione Granger,Neville Longbottom,Professor Lupin,Harry Potter
 Ron Weasley ,Hermione Granger,Peeves
 Ron Weasley ,Hermione Granger,Percy Weasley,Ron Weasley ,Ron Weasley ,Hermione Granger
 Ron Weasley ,Hermione Granger,Percy Weasley,Sirius Black,Mr Crouch,Hedwig,Dobby
-Ron Weasley ,Hermione Granger,Pigwidgeon,Harry Potter,Sirius Black,Harry Potter,Ron Weasley ,Sirius Black,Igor Karkaroff,Igor Karkaroff,Ron Weasley 
-Ron Weasley ,Hermione Granger,Porfessor Trelawney
+Ron Weasley ,Hermione Granger,Pigwidgeon,Harry Potter,Sirius Black,Harry Potter,Ron Weasley ,Sirius Black,Igor Karkaroff,Igor Karkaroff,Ron Weasley
 Ron Weasley ,Hermione Granger,Professor Flitwick,Professor Flitwick
 Ron Weasley ,Hermione Granger,Professor Grubbly-Plank
 Ron Weasley ,Hermione Granger,Professor Lupin
@@ -7963,16 +7930,17 @@ Ron Weasley ,Hermione Granger,Professor Severus Snape
 Ron Weasley ,Hermione Granger,Professor Severus Snape
 Ron Weasley ,Hermione Granger,Professor Severus Snape
 Ron Weasley ,Hermione Granger,Professor Severus Snape,Harry Potter
+Ron Weasley ,Hermione Granger,Professor Trelawney
 Ron Weasley ,Hermione Granger,Rita Skeeter
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
-Ron Weasley ,Hermione Granger,Ron Weasley 
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
+Ron Weasley ,Hermione Granger,Ron Weasley
 Ron Weasley ,Hermione Granger,Ron Weasley ,Harry Potter
 Ron Weasley ,Hermione Granger,Ron Weasley ,Harry Potter,Harry Potter
 Ron Weasley ,Hermione Granger,Ron Weasley ,Hermione Granger
@@ -7998,19 +7966,19 @@ Ron Weasley ,Lavender Brown
 Ron Weasley ,Lavender Brown
 Ron Weasley ,Lavender Brown
 Ron Weasley ,Lavender Brown,Hermione Granger
-Ron Weasley ,Lavender Brown,Hermione Granger,Harry Potter,Harry Potter,Ron Weasley 
+Ron Weasley ,Lavender Brown,Hermione Granger,Harry Potter,Harry Potter,Ron Weasley
 Ron Weasley ,Lavender Brown,Neville Longbottom,Harry Potter
-Ron Weasley ,Lavender Brown,Parvati Patil,Harry Potter,Ron Weasley 
-Ron Weasley ,Lavender Brown,Ron Weasley 
-Ron Weasley ,Lavender Brown,Ron Weasley ,Harry Potter,Professor Severus Snape,Ron Weasley 
+Ron Weasley ,Lavender Brown,Parvati Patil,Harry Potter,Ron Weasley
+Ron Weasley ,Lavender Brown,Ron Weasley
+Ron Weasley ,Lavender Brown,Ron Weasley ,Harry Potter,Professor Severus Snape,Ron Weasley
 Ron Weasley ,Lee Jordan,Harry Potter,Rubeus Hagrid,Fluffy
 Ron Weasley ,Ludo Bagman
 Ron Weasley ,Mad-eye Moody
 Ron Weasley ,Mad-eye Moody
 Ron Weasley ,Mad-eye Moody
 Ron Weasley ,Mad-eye Moody,Harry Potter
-Ron Weasley ,Madam
-Ron Weasley ,Madam
+Ron Weasley ,Madam Pince
+Ron Weasley ,Madam Pince
 Ron Weasley ,Moaning Murtle
 Ron Weasley ,Moaning Murtle
 Ron Weasley ,Moaning Murtle
@@ -8045,7 +8013,7 @@ Ron Weasley ,Oliver Wood
 Ron Weasley ,Padma Patil
 Ron Weasley ,Parvati Patil
 Ron Weasley ,Parvati Patil
-Ron Weasley ,Parvati Patil,Padma Patil,Hermione Granger,Viktor Krum,Ron Weasley 
+Ron Weasley ,Parvati Patil,Padma Patil,Hermione Granger,Viktor Krum,Ron Weasley
 Ron Weasley ,Parvati Patil,Parvati Patil
 Ron Weasley ,Peeves
 Ron Weasley ,Peeves
@@ -8060,7 +8028,7 @@ Ron Weasley ,Percy Weasley
 Ron Weasley ,Percy Weasley
 Ron Weasley ,Percy Weasley,Albus Dumbledore,Ludo Bagman,Harry Potter,Fleur Delacour,Madam Maxime
 Ron Weasley ,Percy Weasley,Harry Potter
-Ron Weasley ,Percy Weasley,Harry Potter,Ginny Weasley,Ron Weasley 
+Ron Weasley ,Percy Weasley,Harry Potter,Ginny Weasley,Ron Weasley
 Ron Weasley ,Percy Weasley,Harry Potter,Slytherin
 Ron Weasley ,Percy Weasley,Mr Crouch,Fred Weasley
 Ron Weasley ,Peter Pettigrew
@@ -8071,12 +8039,6 @@ Ron Weasley ,Pigwidgeon
 Ron Weasley ,Pigwidgeon,Harry Potter
 Ron Weasley ,Pigwidgeon,Harry Potter
 Ron Weasley ,Pigwidgeon,Hedwig,Harry Potter
-Ron Weasley ,Porfessor Trelawney
-Ron Weasley ,Porfessor Trelawney
-Ron Weasley ,Porfessor Trelawney
-Ron Weasley ,Porfessor Trelawney
-Ron Weasley ,Porfessor Trelawney
-Ron Weasley ,Porfessor Trelawney
 Ron Weasley ,Professor Flitwick
 Ron Weasley ,Professor Flitwick
 Ron Weasley ,Professor Flitwick
@@ -8088,12 +8050,18 @@ Ron Weasley ,Professor Lupin
 Ron Weasley ,Professor Lupin
 Ron Weasley ,Professor Lupin,Harry Potter
 Ron Weasley ,Professor Lupin,Peter Pettigrew
-Ron Weasley ,Professor Lupin,Ron Weasley 
+Ron Weasley ,Professor Lupin,Ron Weasley
 Ron Weasley ,Professor Severus Snape
 Ron Weasley ,Professor Severus Snape
 Ron Weasley ,Professor Severus Snape
 Ron Weasley ,Professor Severus Snape,Draco Malfoy,Professor Severus Snape,Slytherin
 Ron Weasley ,Professor Severus Snape,Harry Potter,Hermione Granger,Harry Potter,Professor Severus Snape
+Ron Weasley ,Professor Trelawney
+Ron Weasley ,Professor Trelawney
+Ron Weasley ,Professor Trelawney
+Ron Weasley ,Professor Trelawney
+Ron Weasley ,Professor Trelawney
+Ron Weasley ,Professor Trelawney
 Ron Weasley ,Ravenclaw
 Ron Weasley ,Ravenclaw
 Ron Weasley ,Ravenclaw,Hufflepuff
@@ -8109,29 +8077,29 @@ Ron Weasley ,Ron Weasley
 Ron Weasley ,Ron Weasley
 Ron Weasley ,Ron Weasley
 Ron Weasley ,Ron Weasley
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
-Ron Weasley ,Ron Weasley 
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
+Ron Weasley ,Ron Weasley
 Ron Weasley ,Ron Weasley ,Cho Chang
 Ron Weasley ,Ron Weasley ,Crookshanks
 Ron Weasley ,Ron Weasley ,Filch,Ron Weasley ,Ginny Weasley
@@ -8142,11 +8110,11 @@ Ron Weasley ,Ron Weasley ,Harry Potter
 Ron Weasley ,Ron Weasley ,Hermione Granger,Harry Potter,Harry Potter
 Ron Weasley ,Ron Weasley ,Hermione Granger,Sirius Black,Ginny Weasley
 Ron Weasley ,Ron Weasley ,Ron Weasley ,Harry Potter
-Ron Weasley ,Ron Weasley ,Ron Weasley ,Ron Weasley 
+Ron Weasley ,Ron Weasley ,Ron Weasley ,Ron Weasley
 Ron Weasley ,Ron Weasley ,Scabbers
 Ron Weasley ,Ron Weasley,Ginny Weasley,Harry Potter,Ginny Weasley,Harry Potter,Harry Potter,Ron Weasley
 Ron Weasley ,Ron Weasley,Lee Jordan,Ron Weasley ,Harry Potter
-Ron Weasley ,Ron Weasley,Ron Weasley 
+Ron Weasley ,Ron Weasley,Ron Weasley
 Ron Weasley ,Rubeus Hagrid
 Ron Weasley ,Rubeus Hagrid
 Ron Weasley ,Rubeus Hagrid
@@ -8178,14 +8146,13 @@ Ron Weasley ,Scabbers,Fred Weasley
 Ron Weasley ,Scabbers,Harry Potter
 Ron Weasley ,Scabbers,Percy Weasley
 Ron Weasley ,Scabbers,Ron Weasley ,Harry Potter,Sirius Black
-Ron Weasley ,Scabbers,Ron Weasley ,Scabbers,Crookshanks,Ron Weasley 
+Ron Weasley ,Scabbers,Ron Weasley ,Scabbers,Crookshanks,Ron Weasley
 Ron Weasley ,Scabbers,Scabbers
 Ron Weasley ,Scabbers,Scabbers
 Ron Weasley ,Seamus Finnigan,Dean Thomas,Parvati Patil,Lavender Brown
 Ron Weasley ,Seamus Finnigan,Professor Flitwick,Seamus Finnigan
 Ron Weasley ,Seamus Finnigan,Professor Severus Snape
-Ron Weasley ,Sir Cadogan
-Ron Weasley ,Sir Cadogan,Gryffindor,Sir Cadogan
+Ron Weasley ,Sir Cadogan,Gryffindor
 Ron Weasley ,Sirius Black
 Ron Weasley ,Sirius Black
 Ron Weasley ,Sirius Black
@@ -8234,7 +8201,7 @@ Ron Weasley,Albus Dumbledore,Cornelius Fudge
 Ron Weasley,Albus Dumbledore,Cornelius Fudge,Albus Dumbledore
 Ron Weasley,Albus Dumbledore,Harry Potter
 Ron Weasley,Albus Dumbledore,Harry Potter
-Ron Weasley,Albus Dumbledore,Voldemort,Madam
+Ron Weasley,Albus Dumbledore,Voldemort,Madam Pomfrey
 Ron Weasley,Amos Diggory,Harry Potter
 Ron Weasley,Bill Weasley
 Ron Weasley,Bill Weasley
@@ -8284,12 +8251,12 @@ Ron Weasley,Fred Weasley,George Weasley
 Ron Weasley,Fred Weasley,George Weasley
 Ron Weasley,Fred Weasley,George Weasley
 Ron Weasley,Fred Weasley,George Weasley
-Ron Weasley,Fred Weasley,George Weasley,Harry Potter,Hermione Granger,Fred Weasley,Hermione Granger,Harry Potter,Ron Weasley 
+Ron Weasley,Fred Weasley,George Weasley,Harry Potter,Hermione Granger,Fred Weasley,Hermione Granger,Harry Potter,Ron Weasley
 Ron Weasley,Fred Weasley,George Weasley,Percy Weasley
 Ron Weasley,Fred Weasley,Ginny Weasley
 Ron Weasley,Fred Weasley,Harry Potter
 Ron Weasley,George Weasley,Charlie Weasley
-Ron Weasley,George Weasley,Ron Weasley 
+Ron Weasley,George Weasley,Ron Weasley
 Ron Weasley,Gibleroy Lockhart
 Ron Weasley,Gibleroy Lockhart
 Ron Weasley,Ginny Weasley
@@ -8381,7 +8348,7 @@ Ron Weasley,Harry Potter,Harry Potter
 Ron Weasley,Harry Potter,Harry Potter
 Ron Weasley,Harry Potter,Harry Potter
 Ron Weasley,Harry Potter,Harry Potter,Ron Weasley ,Hedwig,Pigwidgeon
-Ron Weasley,Harry Potter,Harry Potter,Ron Weasley,Harry Potter,Ron Weasley,Hermione Granger,Fred Weasley,George Weasley,Harry Potter,Ron Weasley 
+Ron Weasley,Harry Potter,Harry Potter,Ron Weasley,Harry Potter,Ron Weasley,Hermione Granger,Fred Weasley,George Weasley,Harry Potter,Ron Weasley
 Ron Weasley,Harry Potter,Hedwig
 Ron Weasley,Harry Potter,Hermione Granger
 Ron Weasley,Harry Potter,Hermione Granger
@@ -8392,8 +8359,8 @@ Ron Weasley,Harry Potter,Percy Weasley
 Ron Weasley,Harry Potter,Ron Weasley
 Ron Weasley,Harry Potter,Ron Weasley
 Ron Weasley,Harry Potter,Ron Weasley
-Ron Weasley,Harry Potter,Ron Weasley 
-Ron Weasley,Harry Potter,Ron Weasley 
+Ron Weasley,Harry Potter,Ron Weasley
+Ron Weasley,Harry Potter,Ron Weasley
 Ron Weasley,Harry Potter,Ron Weasley ,Albus Dumbledore,Harry Potter,Fred Weasley,George Weasley
 Ron Weasley,Harry Potter,Ron Weasley ,Harry Potter
 Ron Weasley,Harry Potter,Ron Weasley,Ron Weasley
@@ -8411,8 +8378,9 @@ Ron Weasley,Hermione Granger,Crookshanks,Professor Severus Snape
 Ron Weasley,Hermione Granger,Harry Potter
 Ron Weasley,Hermione Granger,Harry Potter
 Ron Weasley,Hermione Granger,Harry Potter
+Ron Weasley,Hermione Granger,Harry Potter
 Ron Weasley,Hermione Granger,Harry Potter,Hedwig,Hermione Granger
-Ron Weasley,Hermione Granger,Hermione Granger,Ron Weasley,Harry Potter,Ron Weasley 
+Ron Weasley,Hermione Granger,Hermione Granger,Ron Weasley,Harry Potter,Ron Weasley
 Ron Weasley,Hermione Granger,Ron Weasley
 Ron Weasley,Igor Karkaroff
 Ron Weasley,James Potter
@@ -8422,8 +8390,7 @@ Ron Weasley,Lee Jordan
 Ron Weasley,Ludo Bagman
 Ron Weasley,Ludo Bagman
 Ron Weasley,Ludo Bagman
-Ron Weasley,Madam
-Ron Weasley,Madam,Hermione Granger,Harry Potter
+Ron Weasley,Madam Pomfrey
 Ron Weasley,Millicent Bulstrode,Cornelius Fudge
 Ron Weasley,Molly Weasley
 Ron Weasley,Mr Crouch,Mr Crouch
@@ -8455,10 +8422,10 @@ Ron Weasley,Ron Weasley
 Ron Weasley,Ron Weasley
 Ron Weasley,Ron Weasley
 Ron Weasley,Ron Weasley
-Ron Weasley,Ron Weasley 
-Ron Weasley,Ron Weasley 
-Ron Weasley,Ron Weasley 
-Ron Weasley,Ron Weasley 
+Ron Weasley,Ron Weasley
+Ron Weasley,Ron Weasley
+Ron Weasley,Ron Weasley
+Ron Weasley,Ron Weasley
 Ron Weasley,Ron Weasley ,Bill Weasley
 Ron Weasley,Ron Weasley ,Fred Weasley
 Ron Weasley,Ron Weasley ,Harry Potter,Harry Potter
@@ -8530,7 +8497,7 @@ Rubeus Hagrid,Albus Dumbledore,Buckbeak,Harry Potter
 Rubeus Hagrid,Albus Dumbledore,Cornelius Fudge,Albus Dumbledore
 Rubeus Hagrid,Albus Dumbledore,Professor Severus Snape
 Rubeus Hagrid,Albus Dumbledore,Rubeus Hagrid
-Rubeus Hagrid,Angelina Johnson,Porfessor Trelawney
+Rubeus Hagrid,Angelina Johnson,Professor Trelawney
 Rubeus Hagrid,Aragog
 Rubeus Hagrid,Aragog
 Rubeus Hagrid,Aragog,Aragog
@@ -8644,6 +8611,7 @@ Rubeus Hagrid,Harry Potter,Harry Potter
 Rubeus Hagrid,Harry Potter,Harry Potter
 Rubeus Hagrid,Harry Potter,Harry Potter
 Rubeus Hagrid,Harry Potter,Harry Potter
+Rubeus Hagrid,Harry Potter,Harry Potter
 Rubeus Hagrid,Harry Potter,Harry Potter,Albus Dumbledore,Rubeus Hagrid,Harry Potter
 Rubeus Hagrid,Harry Potter,Harry Potter,Dobby
 Rubeus Hagrid,Harry Potter,Harry Potter,Harry Potter
@@ -8668,13 +8636,13 @@ Rubeus Hagrid,Harry Potter,Madam Maxime
 Rubeus Hagrid,Harry Potter,Neville Longbottom
 Rubeus Hagrid,Harry Potter,Professor Grubbly-Plank
 Rubeus Hagrid,Harry Potter,Professor Severus Snape,Harry Potter
-Rubeus Hagrid,Harry Potter,Ron Weasley 
-Rubeus Hagrid,Harry Potter,Ron Weasley 
-Rubeus Hagrid,Harry Potter,Ron Weasley 
+Rubeus Hagrid,Harry Potter,Ron Weasley
+Rubeus Hagrid,Harry Potter,Ron Weasley
+Rubeus Hagrid,Harry Potter,Ron Weasley
 Rubeus Hagrid,Harry Potter,Ron Weasley ,Ginny Weasley
 Rubeus Hagrid,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter
 Rubeus Hagrid,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Hermione Granger
-Rubeus Hagrid,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley,Ron Weasley 
+Rubeus Hagrid,Harry Potter,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley,Ron Weasley
 Rubeus Hagrid,Harry Potter,Ron Weasley ,Neville Longbottom,Hermione Granger,Rubeus Hagrid
 Rubeus Hagrid,Harry Potter,Ron Weasley ,Rubeus Hagrid,Hermione Granger
 Rubeus Hagrid,Harry Potter,Rubeus Hagrid
@@ -8732,22 +8700,19 @@ Rubeus Hagrid,Lily Potter,James Potter,Albus Dumbledore
 Rubeus Hagrid,Lily Potter,James Potter,Harry Potter
 Rubeus Hagrid,Lily Potter,James Potter,Harry Potter,Harry Potter
 Rubeus Hagrid,Mad-eye Moody,Professor Flitwick,Ludo Bagman,Rubeus Hagrid
-Rubeus Hagrid,Madam
 Rubeus Hagrid,Madam Maxime
 Rubeus Hagrid,Madam Maxime
 Rubeus Hagrid,Madam Maxime
 Rubeus Hagrid,Madam Maxime
 Rubeus Hagrid,Madam Maxime,Harry Potter,Rubeus Hagrid,Harry Potter,Charlie Weasley
-Rubeus Hagrid,Madam,Harry Potter,Harry Potter,Madam
 Rubeus Hagrid,Mr Ollivander
 Rubeus Hagrid,Mr Ollivander,Harry Potter,Mr Ollivander,Harry Potter,Harry Potter
-Rubeus Hagrid,Neville Longbottom,Harry Potter,Ron Weasley ,Professor Severus Snape,Professor Severus Snape,Ron Weasley 
+Rubeus Hagrid,Neville Longbottom,Harry Potter,Ron Weasley ,Professor Severus Snape,Professor Severus Snape,Ron Weasley
 Rubeus Hagrid,Neville Longbottom,Ron Weasley ,Hermione Granger,Harry Potter
 Rubeus Hagrid,Norbert
 Rubeus Hagrid,Norbert
 Rubeus Hagrid,Norbert,Peeves,Rubeus Hagrid,Norbert
 Rubeus Hagrid,Parvati Patil,Harry Potter
-Rubeus Hagrid,Porfessor Trelawney,Harry Potter
 Rubeus Hagrid,Professor Flitwick
 Rubeus Hagrid,Professor Grubbly-Plank,Draco Malfoy
 Rubeus Hagrid,Professor Grubbly-Plank,Harry Potter,Rubeus Hagrid,Rubeus Hagrid
@@ -8761,28 +8726,29 @@ Rubeus Hagrid,Professor Severus Snape,Albus Dumbledore,Nicolas Flamel
 Rubeus Hagrid,Professor Severus Snape,Draco Malfoy
 Rubeus Hagrid,Professor Severus Snape,Gryffindor
 Rubeus Hagrid,Professor Severus Snape,Nicolas Flamel
+Rubeus Hagrid,Professor Trelawney,Harry Potter
 Rubeus Hagrid,Rita Skeeter
 Rubeus Hagrid,Rita Skeeter
 Rubeus Hagrid,Rita Skeeter,Rubeus Hagrid,Rita Skeeter
 Rubeus Hagrid,Ron Weasley
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
-Rubeus Hagrid,Ron Weasley 
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Ron Weasley
 Rubeus Hagrid,Ron Weasley ,Albus Dumbledore
 Rubeus Hagrid,Ron Weasley ,Albus Dumbledore
 Rubeus Hagrid,Ron Weasley ,Harry Potter
 Rubeus Hagrid,Ron Weasley ,Harry Potter
 Rubeus Hagrid,Ron Weasley ,Hermione Granger
 Rubeus Hagrid,Ron Weasley ,Hermione Granger,Harry Potter
-Rubeus Hagrid,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley 
-Rubeus Hagrid,Ron Weasley ,Ron Weasley 
+Rubeus Hagrid,Ron Weasley ,Hermione Granger,Harry Potter,Ron Weasley
+Rubeus Hagrid,Ron Weasley ,Ron Weasley
 Rubeus Hagrid,Ron Weasley ,Rubeus Hagrid,Harry Potter
 Rubeus Hagrid,Ron Weasley ,Rubeus Hagrid,Harry Potter,Harry Potter
 Rubeus Hagrid,Ron Weasley ,Rubeus Hagrid,Rubeus Hagrid,Harry Potter
@@ -8809,7 +8775,7 @@ Rubeus Hagrid,Rubeus Hagrid,Harry Potter
 Rubeus Hagrid,Rubeus Hagrid,Harry Potter
 Rubeus Hagrid,Rubeus Hagrid,Harry Potter,Harry Potter,Rubeus Hagrid,Harry Potter
 Rubeus Hagrid,Rubeus Hagrid,Harry Potter,Peeves
-Rubeus Hagrid,Rubeus Hagrid,Harry Potter,Ron Weasley 
+Rubeus Hagrid,Rubeus Hagrid,Harry Potter,Ron Weasley
 Rubeus Hagrid,Rubeus Hagrid,Hermione Granger,Harry Potter,Ron Weasley ,Rubeus Hagrid,Fred Weasley,George Weasley
 Rubeus Hagrid,Rubeus Hagrid,Ron Weasley ,Harry Potter,Professor Severus Snape
 Rubeus Hagrid,Rubeus Hagrid,Rubeus Hagrid
@@ -8835,10 +8801,10 @@ Scabbers,Harry Potter,Scabbers
 Scabbers,Hermione Granger
 Scabbers,Percy Weasley,Scabbers
 Scabbers,Professor Lupin,Scabbers,Sirius Black
-Scabbers,Ron Weasley 
-Scabbers,Ron Weasley 
-Scabbers,Ron Weasley 
-Scabbers,Ron Weasley 
+Scabbers,Ron Weasley
+Scabbers,Ron Weasley
+Scabbers,Ron Weasley
+Scabbers,Ron Weasley
 Scabbers,Ron Weasley ,Crookshanks
 Scabbers,Ron Weasley ,Scabbers
 Seamus Finnigan,Albus Dumbledore
@@ -8849,7 +8815,7 @@ Seamus Finnigan,Dean Thomas,Ginny Weasley
 Seamus Finnigan,Dean Thomas,Harry Potter
 Seamus Finnigan,Dean Thomas,Neville Longbottom,Harry Potter
 Seamus Finnigan,Dean Thomas,Neville Longbottom,Seamus Finnigan
-Seamus Finnigan,Dean Thomas,Ron Weasley 
+Seamus Finnigan,Dean Thomas,Ron Weasley
 Seamus Finnigan,Gibleroy Lockhart
 Seamus Finnigan,Gryffindor,Dean Thomas
 Seamus Finnigan,Harry Potter
@@ -8858,7 +8824,7 @@ Seamus Finnigan,Harry Potter
 Seamus Finnigan,Harry Potter
 Seamus Finnigan,Harry Potter
 Seamus Finnigan,Harry Potter,Harry Potter,Slytherin,Gryffindor,Harry Potter,Harry Potter
-Seamus Finnigan,Harry Potter,Hermione Granger,Ron Weasley 
+Seamus Finnigan,Harry Potter,Hermione Granger,Ron Weasley
 Seamus Finnigan,Harry Potter,Seamus Finnigan
 Seamus Finnigan,Harry Potter,Seamus Finnigan
 Seamus Finnigan,Lavender Brown
@@ -8868,31 +8834,14 @@ Seamus Finnigan,Parvati Patil
 Seamus Finnigan,Percy Weasley
 Seamus Finnigan,Professor Sprout
 Seamus Finnigan,Ron Weasley
-Seamus Finnigan,Ron Weasley 
+Seamus Finnigan,Ron Weasley
 Seamus Finnigan,Ron Weasley ,Neville Longbottom,Harry Potter,Dobby,Harry Potter
-Seamus Finnigan,Ron Weasley ,Ron Weasley ,Dean Thomas,Ron Weasley ,Harry Potter,Ron Weasley 
+Seamus Finnigan,Ron Weasley ,Ron Weasley ,Dean Thomas,Ron Weasley ,Harry Potter,Ron Weasley
 Seamus Finnigan,Ron Weasley ,Seamus Finnigan,Dean Thomas
 Seamus Finnigan,Seamus Finnigan,Dean Thomas,Viktor Krum
-Sir Cadogan,Cornelius Fudge
-Sir Cadogan,Draco Malfoy,Slytherin
-Sir Cadogan,Ernie Mcmillan
-Sir Cadogan,Gryffindor
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter
-Sir Cadogan,Harry Potter,Hermione Granger
-Sir Cadogan,Harry Potter,Ron Weasley 
+Sir Cadogan,Harry Potter,Ron Weasley
 Sir Cadogan,Harry Potter,Sir Cadogan
-Sir Cadogan,Harry Potter,Voldemort
-Sir Cadogan,Headless,Nearly Headless Nick,Nearly Headless Nick,Sir Cadogan
 Sir Cadogan,Percy Weasley,Harry Potter,Harry Potter,Harry Potter
-Sir Cadogan,Ron Weasley ,Hermione Granger
-Sir Cadogan,Seamus Finnigan
-Sir Cadogan,Seamus Finnigan
 Sir Cadogan,Sir Cadogan
 Sir Cadogan,Sir Cadogan,Harry Potter
 Sirius Black,Albus Dumbledore
@@ -8979,8 +8928,8 @@ Sirius Black,Harry Potter,James Potter,Lily Potter
 Sirius Black,Harry Potter,Peter Pettigrew
 Sirius Black,Harry Potter,Professor Flitwick
 Sirius Black,Harry Potter,Professor Lupin
-Sirius Black,Harry Potter,Ron Weasley 
-Sirius Black,Harry Potter,Ron Weasley 
+Sirius Black,Harry Potter,Ron Weasley
+Sirius Black,Harry Potter,Ron Weasley
 Sirius Black,Harry Potter,Ron Weasley ,Harry Potter
 Sirius Black,Harry Potter,Sirius Black
 Sirius Black,Harry Potter,Sirius Black
@@ -9002,9 +8951,10 @@ Sirius Black,Hermione Granger
 Sirius Black,Hermione Granger
 Sirius Black,Hermione Granger
 Sirius Black,Hermione Granger
-Sirius Black,Hermione Granger,Harry Potter,Ron Weasley 
+Sirius Black,Hermione Granger,Harry Potter,Ron Weasley
 Sirius Black,Hermione Granger,Hedwig,Harry Potter,Rubeus Hagrid,Rubeus Hagrid,Harry Potter
 Sirius Black,Hermione Granger,Sirius Black,Draco Malfoy,Draco Malfoy,Professor Lupin,Mad-eye Moody,Sirius Black
+Sirius Black,James Potter
 Sirius Black,James Potter,Professor Severus Snape
 Sirius Black,James Potter,Wormtail,Wormtail
 Sirius Black,Lily Potter,James Potter
@@ -9012,9 +8962,6 @@ Sirius Black,Mad-eye Moody
 Sirius Black,Mad-eye Moody,Harry Potter
 Sirius Black,Mad-eye Moody,Harry Potter
 Sirius Black,Mad-eye Moody,Mad-eye Moody,Mr Crouch
-Sirius Black,Madam
-Sirius Black,Madam
-Sirius Black,Madam
 Sirius Black,Molly Weasley
 Sirius Black,Molly Weasley
 Sirius Black,Moony
@@ -9035,7 +8982,6 @@ Sirius Black,Peter Pettigrew,Professor Lupin
 Sirius Black,Peter Pettigrew,Rubeus Hagrid
 Sirius Black,Peter Pettigrew,Sirius Black
 Sirius Black,Peter Pettigrew,Voldemort,Voldemort
-Sirius Black,Porfessor Trelawney
 Sirius Black,Professor Lupin
 Sirius Black,Professor Lupin
 Sirius Black,Professor Lupin
@@ -9067,14 +9013,15 @@ Sirius Black,Professor Severus Snape,James Potter,Professor Severus Snape,Profes
 Sirius Black,Professor Severus Snape,Mad-eye Moody
 Sirius Black,Professor Severus Snape,Professor Severus Snape
 Sirius Black,Professor Severus Snape,Professor Severus Snape,Sirius Black,Professor Severus Snape
+Sirius Black,Professor Trelawney
 Sirius Black,Ron Weasley
 Sirius Black,Ron Weasley
 Sirius Black,Ron Weasley
-Sirius Black,Ron Weasley 
-Sirius Black,Ron Weasley 
-Sirius Black,Ron Weasley 
-Sirius Black,Ron Weasley 
-Sirius Black,Ron Weasley 
+Sirius Black,Ron Weasley
+Sirius Black,Ron Weasley
+Sirius Black,Ron Weasley
+Sirius Black,Ron Weasley
+Sirius Black,Ron Weasley
 Sirius Black,Ron Weasley ,Harry Potter
 Sirius Black,Ron Weasley ,Hermione Granger
 Sirius Black,Ron Weasley ,Hermione Granger
@@ -9144,7 +9091,7 @@ Slytherin,Draco Malfoy,Angelina Johnson,Slytherin
 Slytherin,Draco Malfoy,Goyle
 Slytherin,Draco Malfoy,Harry Potter
 Slytherin,Draco Malfoy,Harry Potter
-Slytherin,Draco Malfoy,Ron Weasley 
+Slytherin,Draco Malfoy,Ron Weasley
 Slytherin,Dudley Dursley,Vincent Crabbe,Goyle,Draco Malfoy
 Slytherin,Goyle,Neville Longbottom
 Slytherin,Gryffindor
@@ -9157,9 +9104,9 @@ Slytherin,Harry Potter,Draco Malfoy
 Slytherin,Harry Potter,Hermione Granger
 Slytherin,Harry Potter,Lee Jordan,Draco Malfoy,Slytherin
 Slytherin,Harry Potter,Lee Jordan,Harry Potter,Hufflepuff
-Slytherin,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley 
+Slytherin,Harry Potter,Ron Weasley ,Harry Potter,Ron Weasley
 Slytherin,Hermione Granger
-Slytherin,Hermione Granger,Ron Weasley 
+Slytherin,Hermione Granger,Ron Weasley
 Slytherin,Hufflepuff
 Slytherin,Hufflepuff
 Slytherin,Hufflepuff,Harry Potter
@@ -9169,8 +9116,9 @@ Slytherin,Lee Jordan
 Slytherin,Lee Jordan
 Slytherin,Oliver Wood,Gryffindor
 Slytherin,Ravenclaw
-Slytherin,Ron Weasley 
+Slytherin,Ron Weasley
 Slytherin,Ron Weasley,Draco Malfoy
+Slytherin,Slytherin
 Slytherin,Slytherin
 Slytherin,Slytherin
 Slytherin,Slytherin

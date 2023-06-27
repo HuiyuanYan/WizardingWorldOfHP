@@ -127,7 +127,6 @@ Ludo Bagman:Ludo Bagman
 Lupin:Professor Lupin
 Mad-eye:Mad-eye Moody
 Mad-eye Moody:Mad-eye Moody
-Madam:Madam
 Madam Hooch:Madam Hooch
 Madam Malkin:Madam Malkin
 Madam Maxime:Madam Maxime
@@ -183,8 +182,6 @@ Petunia Dursley:Petunia Dursley
 Pigwidgeon:Pigwidgeon
 Pince:Madam Pince
 Pomfrey:Madam Pomfrey
-Porfessor:Porfessor
-Porfessor Trelawney:Porfessor Trelawney
 Potter:Harry Potter
 Professor Flitwick:Professor Flitwick
 Professor Grubbly-Plank:Professor Grubbly-Plank
@@ -194,6 +191,7 @@ Professor Quirrel:Professor Quirrel
 Professor Severus Snape:Professor Severus Snape
 Professor Sinistra:Professor Sinistra
 Professor Sprout:Professor Sprout
+Professor Trelawney:Professor Trelawney
 Prongs:Prongs
 Quirrel:Professor Quirrel
 Ravenclaw:Ravenclaw
@@ -202,7 +200,7 @@ Rita:Rita Skeeter
 Rita Skeeter:Rita Skeeter
 Roger:Roger Davis
 Roger Davis:Roger Davis
-Ron:Ron Weasley 
+Ron:Ron Weasley
 Ron Weasley:Ron Weasley
 Ronan:Ronan
 Rowena:Rowena Ravenclaw
@@ -216,7 +214,6 @@ Seamus:Seamus Finnigan
 Seamus Finnigan:Seamus Finnigan
 Severus:Professor Severus Snape
 Sinistra:Professor Sinistra
-Sir:Sir Cadogan
 Sir Cadogan:Sir Cadogan
 Sirius:Sirius Black
 Sirius Black:Sirius Black
@@ -228,7 +225,7 @@ Sprout:Professor Sprout
 Thomas:Thomas
 Tom:Tom Riddle
 Tom Riddle:Tom Riddle
-Trelawney:Porfessor Trelawney
+Trelawney:Professor Trelawney
 Vernon:Vernon Dursley
 Vernon Dursley:Vernon Dursley
 Viktor:Viktor Krum
