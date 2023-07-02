@@ -29,7 +29,7 @@ public class task3Reducer
             for (Map.Entry<String, IntWritable> entry : posting_map.entrySet()) {
                 out.append(entry.getKey());
                 res= (float) entry.getValue().get() /sum;
-                out.append(",").append(String.format("%.5f", res)).append("|");
+                out.append("@").append(String.format("%.5f", res)).append("|");
             }
             out.deleteCharAt(out.length()-1);
             out.append("]");

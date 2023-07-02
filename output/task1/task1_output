@@ -521,26 +521,14 @@ Albus Dumbledore,Voldemort,Voldemort
 Albus Dumbledore,Voldemort,Voldemort
 Albus Dumbledore,Voldemort,Voldemort
 Albus Dumbledore,Winky
-Alicia SpinnetProfessor Binns,Albus Dumbledore
-Alicia SpinnetProfessor Binns,Alicia SpinnetProfessor Binns
-Alicia SpinnetProfessor Binns,Angelina Johnson,Katie Bell
-Alicia SpinnetProfessor Binns,Harry Potter
-Alicia SpinnetProfessor Binns,Harry Potter
-Alicia SpinnetProfessor Binns,Harry Potter
-Alicia SpinnetProfessor Binns,Harry Potter
-Alicia SpinnetProfessor Binns,Harry Potter,Ron Weasley
-Alicia SpinnetProfessor Binns,Hermione Granger
-Alicia SpinnetProfessor Binns,Hermione Granger
-Alicia SpinnetProfessor Binns,Katie Bell
-Alicia SpinnetProfessor Binns,Katie Bell,George Weasley,Ginny Weasley,Harry Potter,Hermione Granger
-Alicia SpinnetProfessor Binns,Katie Bell,Slytherin
-Alicia SpinnetProfessor Binns,Lee Jordan
-Alicia SpinnetProfessor Binns,Lee Jordan,Harry Potter,Lee Jordan,Angelina Johnson
-Alicia SpinnetProfessor Binns,Oliver Wood,Angelina Johnson,Slytherin,Gryffindor,Oliver Wood,Katie Bell,Gryffindor,Fred Weasley,George Weasley,Gryffindor,Angelina Johnson,Angelina Johnson
-Alicia SpinnetProfessor Binns,Professor Severus Snape,Professor Flitwick
-Alicia SpinnetProfessor Binns,Professor Severus Snape,Professor Trelawney,George Weasley
-Alicia SpinnetProfessor Binns,Professor Trelawney,Fred Weasley
-Alicia SpinnetProfessor Binns,Ron Weasley,Harry Potter,Hermione Granger
+Alicia Spinnet,Alicia Spinnet
+Alicia Spinnet,Angelina Johnson,Katie Bell
+Alicia Spinnet,Katie Bell
+Alicia Spinnet,Katie Bell,George Weasley,Ginny Weasley,Harry Potter,Hermione Granger
+Alicia Spinnet,Katie Bell,Slytherin
+Alicia Spinnet,Lee Jordan
+Alicia Spinnet,Lee Jordan,Harry Potter,Lee Jordan,Angelina Johnson
+Alicia Spinnet,Oliver Wood,Angelina Johnson,Slytherin,Gryffindor,Oliver Wood,Katie Bell,Gryffindor,Fred Weasley,George Weasley,Gryffindor,Angelina Johnson,Angelina Johnson
 Amos Diggory,Harry Potter
 Amos Diggory,Harry Potter
 Amos Diggory,Harry Potter,Ron Weasley,Bill Weasley
@@ -552,13 +540,13 @@ Amos Diggory,Ron Weasley
 Amos Diggory,Ron Weasley,Harry Potter,Ginny Weasley
 Amos Diggory,Ron Weasley,Winky
 Angelina Johnson,Albus Dumbledore
-Angelina Johnson,Alicia SpinnetProfessor Binns
-Angelina Johnson,Alicia SpinnetProfessor Binns,Fred Weasley
-Angelina Johnson,Alicia SpinnetProfessor Binns,Harry Potter,Hermione Granger
+Angelina Johnson,Alicia Spinnet
+Angelina Johnson,Alicia Spinnet,Fred Weasley
+Angelina Johnson,Alicia Spinnet,Harry Potter,Hermione Granger
 Angelina Johnson,Angelina Johnson
 Angelina Johnson,Angelina Johnson,Katie Bell,Goyle,Slytherin
 Angelina Johnson,Draco Malfoy
-Angelina Johnson,Fred Weasley,Alicia SpinnetProfessor Binns,Slytherin
+Angelina Johnson,Fred Weasley,Alicia Spinnet,Slytherin
 Angelina Johnson,Fred Weasley,Fred Weasley
 Angelina Johnson,Fred Weasley,George Weasley,Harry Potter
 Angelina Johnson,Fred Weasley,George Weasley,Katie Bell
@@ -577,9 +565,9 @@ Angelina Johnson,Harry Potter,Fred Weasley,George Weasley,Harry Potter
 Angelina Johnson,Harry Potter,Harry Potter,Fred Weasley
 Angelina Johnson,Harry Potter,Hermione Granger
 Angelina Johnson,Harry Potter,Ron Weasley
-Angelina Johnson,Harry Potter,Ron Weasley,Ron Weasley,Alicia SpinnetProfessor Binns
+Angelina Johnson,Harry Potter,Ron Weasley,Ron Weasley,Alicia Spinnet
 Angelina Johnson,Katie Bell
-Angelina Johnson,Katie Bell,Alicia SpinnetProfessor Binns
+Angelina Johnson,Katie Bell,Alicia Spinnet
 Angelina Johnson,Pansy Parkinson
 Angelina Johnson,Slytherin,Harry Potter,Hufflepuff
 Aragog,Aragog
@@ -1011,7 +999,7 @@ Draco Malfoy,Draco Malfoy
 Draco Malfoy,Draco Malfoy
 Draco Malfoy,Draco Malfoy
 Draco Malfoy,Draco Malfoy
-Draco Malfoy,Draco Malfoy,Fred Weasley,George Weasley,Alicia SpinnetProfessor Binns,Ron Weasley,Draco Malfoy
+Draco Malfoy,Draco Malfoy,Fred Weasley,George Weasley,Alicia Spinnet,Ron Weasley,Draco Malfoy
 Draco Malfoy,Draco Malfoy,Harry Potter,Draco Malfoy,Ron Weasley,Draco Malfoy,Professor Severus Snape
 Draco Malfoy,Draco Malfoy,Harry Potter,Gibleroy Lockhart
 Draco Malfoy,Draco Malfoy,Harry Potter,Ron Weasley
@@ -1135,7 +1123,7 @@ Draco Malfoy,Hermione Granger,Ron Weasley
 Draco Malfoy,Igor Karkaroff
 Draco Malfoy,Katie Bell
 Draco Malfoy,Katie Bell
-Draco Malfoy,Katie Bell,Alicia SpinnetProfessor Binns,Harry Potter
+Draco Malfoy,Katie Bell,Alicia Spinnet,Harry Potter
 Draco Malfoy,Madam Malkin
 Draco Malfoy,Madam Pince
 Draco Malfoy,Madam Pomfrey
@@ -1425,7 +1413,7 @@ Fleur Delacour,Viktor Krum,Harry Potter,Cedric Diggory,Harry Potter,Cedric Diggo
 Fluffy,Fluffy,Professor Severus Snape
 Fluffy,Professor Sprout,Professor Flitwick,Albus Dumbledore
 Fluffy,Rubeus Hagrid,Harry Potter
-Fred Weasley,Alicia SpinnetProfessor Binns
+Fred Weasley,Alicia Spinnet
 Fred Weasley,Bill Weasley
 Fred Weasley,Charlie Weasley,Harry Potter
 Fred Weasley,Dean Thomas
@@ -1571,7 +1559,7 @@ Fred Weasley,Lee Jordan
 Fred Weasley,Lee Jordan,George Weasley
 Fred Weasley,Lee Jordan,Gryffindor,Hufflepuff,Parvati Patil,Lavender Brown,Harry Potter
 Fred Weasley,Lee Jordan,Professor Severus Snape
-Fred Weasley,Madam Hooch,Alicia SpinnetProfessor Binns
+Fred Weasley,Madam Hooch,Alicia Spinnet
 Fred Weasley,Oliver Wood,Harry Potter
 Fred Weasley,Percy Weasley
 Fred Weasley,Ron Weasley
@@ -1843,7 +1831,7 @@ Goyle,Ron Weasley
 Goyle,Ron Weasley
 Gryffindor,Albus Dumbledore
 Gryffindor,Albus Dumbledore,Harry Potter,Salazar Slytherin,Gryffindor
-Gryffindor,Alicia SpinnetProfessor Binns,Gryffindor,Slytherin,Alicia SpinnetProfessor Binns,Slytherin,George Weasley,Angelina Johnson,Angelina Johnson,Angelina Johnson
+Gryffindor,Alicia Spinnet,Gryffindor,Slytherin,Alicia Spinnet,Slytherin,George Weasley,Angelina Johnson,Angelina Johnson,Angelina Johnson
 Gryffindor,Cedric Diggory,Cedric Diggory,Cedric Diggory,Cedric Diggory
 Gryffindor,Cho Chang,Ravenclaw,Harry Potter,Ravenclaw,Gryffindor
 Gryffindor,Colin Creevey
@@ -1916,7 +1904,7 @@ Gryffindor,Madam Hooch,Draco Malfoy
 Gryffindor,Madam Hooch,Oliver Wood
 Gryffindor,Neville Longbottom
 Gryffindor,Neville Longbottom,Sir Cadogan
-Gryffindor,Oliver Wood,Fred Weasley,George Weasley,Alicia SpinnetProfessor Binns
+Gryffindor,Oliver Wood,Fred Weasley,George Weasley,Alicia Spinnet
 Gryffindor,Percy Weasley
 Gryffindor,Percy Weasley,Percy Weasley,Harry Potter
 Gryffindor,Petunia Dursley
@@ -2215,14 +2203,13 @@ Harry Potter,Albus Dumbledore,Voldemort
 Harry Potter,Albus Dumbledore,Voldemort,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Voldemort,Mad-eye Moody,Harry Potter,Albus Dumbledore
 Harry Potter,Albus Dumbledore,Voldemort,Voldemort
-Harry Potter,Alicia SpinnetProfessor Binns
-Harry Potter,Alicia SpinnetProfessor Binns
+Harry Potter,Alicia Spinnet
 Harry Potter,Amos Diggory
 Harry Potter,Angelina Johnson
 Harry Potter,Angelina Johnson
 Harry Potter,Angelina Johnson
-Harry Potter,Angelina Johnson,Alicia SpinnetProfessor Binns
-Harry Potter,Angelina Johnson,George Weasley,Katie Bell,Alicia SpinnetProfessor Binns,Angelina Johnson,Katie Bell
+Harry Potter,Angelina Johnson,Alicia Spinnet
+Harry Potter,Angelina Johnson,George Weasley,Katie Bell,Alicia Spinnet,Angelina Johnson,Katie Bell
 Harry Potter,Angelina Johnson,Ron Weasley,Ron Weasley
 Harry Potter,Aragog
 Harry Potter,Aragog
@@ -2811,7 +2798,7 @@ Harry Potter,Gryffindor
 Harry Potter,Gryffindor
 Harry Potter,Gryffindor
 Harry Potter,Gryffindor
-Harry Potter,Gryffindor,Alicia SpinnetProfessor Binns,George Weasley,Madam Hooch,Oliver Wood
+Harry Potter,Gryffindor,Alicia Spinnet,George Weasley,Madam Hooch,Oliver Wood
 Harry Potter,Gryffindor,Dobby,Dobby,Harry Potter,Dobby,Harry Potter,Dobby,Harry Potter,Harry Potter
 Harry Potter,Gryffindor,Fat Friar
 Harry Potter,Gryffindor,Fred Weasley,George Weasley,George Weasley,Harry Potter,Fred Weasley,Harry Potter,Fred Weasley,George Weasley,Dudley Dursley
@@ -3453,7 +3440,6 @@ Harry Potter,Hermione Granger,Albus Dumbledore,Madam Pomfrey,Ron Weasley
 Harry Potter,Hermione Granger,Albus Dumbledore,Professor Grubbly-Plank
 Harry Potter,Hermione Granger,Albus Dumbledore,Sirius Black
 Harry Potter,Hermione Granger,Albus Dumbledore,Voldemort
-Harry Potter,Hermione Granger,Alicia SpinnetProfessor Binns
 Harry Potter,Hermione Granger,Buckbeak
 Harry Potter,Hermione Granger,Buckbeak,Harry Potter,Fang
 Harry Potter,Hermione Granger,Charlie Weasley,Norbert,Draco Malfoy
@@ -3536,6 +3522,7 @@ Harry Potter,Hermione Granger,Neville Longbottom,Professor Severus Snape
 Harry Potter,Hermione Granger,Norbert,Norbert,Harry Potter,Hermione Granger
 Harry Potter,Hermione Granger,Peeves,Gryffindor
 Harry Potter,Hermione Granger,Pigwidgeon,Crookshanks
+Harry Potter,Hermione Granger,Professor Binns
 Harry Potter,Hermione Granger,Professor Flitwick,Professor Flitwick,Professor Severus Snape,Professor Flitwick,Harry Potter,Professor Severus Snape
 Harry Potter,Hermione Granger,Professor Lupin
 Harry Potter,Hermione Granger,Professor Lupin
@@ -3871,6 +3858,7 @@ Harry Potter,Petunia Dursley,Petunia Dursley
 Harry Potter,Petunia Dursley,Vernon Dursley
 Harry Potter,Petunia Dursley,Vernon Dursley,Petunia Dursley
 Harry Potter,Pigwidgeon,Neville Longbottom
+Harry Potter,Professor Binns
 Harry Potter,Professor Flitwick
 Harry Potter,Professor Flitwick
 Harry Potter,Professor Flitwick
@@ -5078,7 +5066,6 @@ Headless,Harry Potter
 Headless,Harry Potter,Hermione Granger
 Headless,Hermione Granger,Harry Potter,Ron Weasley
 Headless,Nearly Headless Nick,Nearly Headless Nick
-Hedwig,Alicia SpinnetProfessor Binns,Hedwig,Hedwig
 Hedwig,Crookshanks
 Hedwig,Crookshanks,Harry Potter,Hermione Granger,Harry Potter,Albus Dumbledore,Voldemort
 Hedwig,Fred Weasley,George Weasley,Harry Potter,Ron Weasley
@@ -5101,6 +5088,7 @@ Hedwig,Hedwig,Petunia Dursley,Hedwig,Harry Potter
 Hedwig,Hermione Granger
 Hedwig,Petunia Dursley,Dudley Dursley,Harry Potter
 Hedwig,Pigwidgeon,Fred Weasley
+Hedwig,Professor Binns,Hedwig,Hedwig
 Hedwig,Ron Weasley
 Hedwig,Ron Weasley
 Hedwig,Ron Weasley
@@ -5124,8 +5112,6 @@ Hermione Granger,Albus Dumbledore,Professor Severus Snape,Albus Dumbledore
 Hermione Granger,Albus Dumbledore,Rubeus Hagrid
 Hermione Granger,Albus Dumbledore,Sirius Black
 Hermione Granger,Albus Dumbledore,Voldemort,Ron Weasley,Albus Dumbledore
-Hermione Granger,Alicia SpinnetProfessor Binns
-Hermione Granger,Alicia SpinnetProfessor Binns,Madam Pomfrey
 Hermione Granger,Angelina Johnson
 Hermione Granger,Aragog
 Hermione Granger,Bane
@@ -5544,6 +5530,8 @@ Hermione Granger,Percy Weasley,Hermione Granger,Percy Weasley
 Hermione Granger,Percy Weasley,Mr Crouch
 Hermione Granger,Peter Pettigrew
 Hermione Granger,Pigwidgeon
+Hermione Granger,Professor Binns
+Hermione Granger,Professor Binns,Madam Pomfrey
 Hermione Granger,Professor Flitwick
 Hermione Granger,Professor Flitwick
 Hermione Granger,Professor Flitwick
@@ -6093,7 +6081,7 @@ Madam Pince,Hermione Granger
 Madam Pomfrey,Albus Dumbledore
 Madam Pomfrey,Albus Dumbledore
 Madam Pomfrey,Albus Dumbledore,Harry Potter,Madam Pomfrey
-Madam Pomfrey,Alicia SpinnetProfessor Binns
+Madam Pomfrey,Alicia Spinnet
 Madam Pomfrey,Cornelius Fudge
 Madam Pomfrey,Ginny Weasley
 Madam Pomfrey,Ginny Weasley,Percy Weasley
@@ -6280,7 +6268,7 @@ Neville Longbottom,Albus Dumbledore,Neville Longbottom,Seamus Finnigan,Albus Dum
 Neville Longbottom,Bill Weasley,Draco Malfoy,Neville Longbottom
 Neville Longbottom,Bill Weasley,Mad-eye Moody
 Neville Longbottom,Bloody Baron
-Neville Longbottom,Dean Thomas,Lavender Brown,Parvati Patil,Padma Patil,Cho Chang,Katie Bell,Alicia SpinnetProfessor Binns,Angelina Johnson,Colin Creevey,Dennis Creevey,Ernie Mcmillan,Justin Finch-Fletchley,Hannah Abbott,Hufflepuff,Harry Potter,Ravenclaw,Ginny Weasley,Harry Potter,Hufflepuff,Fred Weasley,George Weasley,Lee Jordan
+Neville Longbottom,Dean Thomas,Lavender Brown,Parvati Patil,Padma Patil,Cho Chang,Katie Bell,Alicia Spinnet,Angelina Johnson,Colin Creevey,Dennis Creevey,Ernie Mcmillan,Justin Finch-Fletchley,Hannah Abbott,Hufflepuff,Harry Potter,Ravenclaw,Ginny Weasley,Harry Potter,Hufflepuff,Fred Weasley,George Weasley,Lee Jordan
 Neville Longbottom,Draco Malfoy
 Neville Longbottom,Draco Malfoy
 Neville Longbottom,Draco Malfoy
@@ -6402,15 +6390,15 @@ Norbert,Draco Malfoy
 Norbert,Harry Potter,Hermione Granger
 Norbert,Rubeus Hagrid
 Norbert,Rubeus Hagrid,Norbert
-Oliver Wood,Alicia SpinnetProfessor Binns
-Oliver Wood,Alicia SpinnetProfessor Binns,Harry Potter
-Oliver Wood,Alicia SpinnetProfessor Binns,Katie Bell,Harry Potter,Harry Potter,Harry Potter,Gryffindor,Ron Weasley
+Oliver Wood,Alicia Spinnet
+Oliver Wood,Alicia Spinnet,Harry Potter
+Oliver Wood,Alicia Spinnet,Katie Bell,Harry Potter,Harry Potter,Harry Potter,Gryffindor,Ron Weasley
 Oliver Wood,Charlie Weasley
 Oliver Wood,Charlie Weasley
 Oliver Wood,Cho Chang
 Oliver Wood,Fred Weasley
 Oliver Wood,Fred Weasley
-Oliver Wood,Fred Weasley,Alicia SpinnetProfessor Binns
+Oliver Wood,Fred Weasley,Alicia Spinnet
 Oliver Wood,Fred Weasley,George Weasley
 Oliver Wood,George Weasley
 Oliver Wood,George Weasley
@@ -6663,11 +6651,23 @@ Petunia Dursley,Vernon Dursley,Petunia Dursley
 Petunia Dursley,Vernon Dursley,Vernon Dursley,Petunia Dursley,Vernon Dursley
 Pigwidgeon,Harry Potter,Hermione Granger,Ron Weasley
 Pigwidgeon,Pigwidgeon,Harry Potter,Sirius Black,Pigwidgeon,Ron Weasley,Harry Potter,Fred Weasley,George Weasley
+Professor Binns,Albus Dumbledore
+Professor Binns,Harry Potter
+Professor Binns,Harry Potter
+Professor Binns,Harry Potter
+Professor Binns,Harry Potter
+Professor Binns,Harry Potter,Ron Weasley
+Professor Binns,Hermione Granger
+Professor Binns,Hermione Granger
+Professor Binns,Professor Severus Snape,Professor Flitwick
+Professor Binns,Professor Severus Snape,Professor Trelawney,George Weasley
+Professor Binns,Professor Trelawney,Fred Weasley
+Professor Binns,Ron Weasley,Harry Potter,Hermione Granger
 Professor Flitwick,George Weasley
 Professor Flitwick,Harry Potter
 Professor Flitwick,Harry Potter,Draco Malfoy
 Professor Flitwick,Harry Potter,Harry Potter
-Professor Flitwick,Harry Potter,Harry Potter,Alicia SpinnetProfessor Binns,Alicia SpinnetProfessor Binns,Mad-eye Moody,Professor Severus Snape,Harry Potter
+Professor Flitwick,Harry Potter,Harry Potter,Professor Binns,Professor Binns,Mad-eye Moody,Professor Severus Snape,Harry Potter
 Professor Flitwick,Harry Potter,Professor Severus Snape,Professor Lupin
 Professor Flitwick,Hermione Granger
 Professor Flitwick,Oliver Wood
@@ -7120,7 +7120,7 @@ Professor Severus Snape,Sirius Black,James Potter
 Professor Severus Snape,Sirius Black,Sirius Black
 Professor Severus Snape,Sirius Black,Sirius Black,Professor Severus Snape,Sirius Black
 Professor Severus Snape,Slytherin,Harry Potter
-Professor Severus Snape,Slytherin,Slytherin,Gryffindor,Alicia SpinnetProfessor Binns,Professor Severus Snape,Slytherin
+Professor Severus Snape,Slytherin,Slytherin,Gryffindor,Alicia Spinnet,Professor Severus Snape,Slytherin
 Professor Severus Snape,Vincent Crabbe,Neville Longbottom
 Professor Severus Snape,Voldemort
 Professor Severus Snape,Voldemort,Albus Dumbledore,Professor Severus Snape,Albus Dumbledore,Professor Severus Snape,Voldemort,Albus Dumbledore,Voldemort
@@ -7261,11 +7261,8 @@ Ron Weasley,Albus Dumbledore,Professor Severus Snape
 Ron Weasley,Albus Dumbledore,Professor Severus Snape,Draco Malfoy
 Ron Weasley,Albus Dumbledore,Professor Severus Snape,Draco Malfoy
 Ron Weasley,Albus Dumbledore,Voldemort,Madam Pomfrey
-Ron Weasley,Alicia SpinnetProfessor Binns
-Ron Weasley,Alicia SpinnetProfessor Binns
-Ron Weasley,Alicia SpinnetProfessor Binns
-Ron Weasley,Alicia SpinnetProfessor Binns
-Ron Weasley,Alicia SpinnetProfessor Binns,Harry Potter
+Ron Weasley,Alicia Spinnet
+Ron Weasley,Alicia Spinnet,Harry Potter
 Ron Weasley,Amos Diggory,Harry Potter
 Ron Weasley,Angelina Johnson
 Ron Weasley,Bill Weasley
@@ -7707,7 +7704,6 @@ Ron Weasley,Harry Potter
 Ron Weasley,Harry Potter,Albus Dumbledore
 Ron Weasley,Harry Potter,Albus Dumbledore,Ron Weasley
 Ron Weasley,Harry Potter,Albus Dumbledore,Ron Weasley,Hermione Granger,Neville Longbottom,Harry Potter,Neville Longbottom,Harry Potter,Neville Longbottom
-Ron Weasley,Harry Potter,Alicia SpinnetProfessor Binns
 Ron Weasley,Harry Potter,Bill Weasley
 Ron Weasley,Harry Potter,Cho Chang,Cedric Diggory
 Ron Weasley,Harry Potter,Crookshanks
@@ -7804,6 +7800,7 @@ Ron Weasley,Harry Potter,Nicolas Flamel
 Ron Weasley,Harry Potter,Nicolas Flamel,Draco Malfoy
 Ron Weasley,Harry Potter,Oliver Wood,Harry Potter,Ron Weasley,Madam Hooch
 Ron Weasley,Harry Potter,Percy Weasley
+Ron Weasley,Harry Potter,Professor Binns
 Ron Weasley,Harry Potter,Professor Trelawney,Lavender Brown,Parvati Patil,Professor Trelawney
 Ron Weasley,Harry Potter,Ron Weasley
 Ron Weasley,Harry Potter,Ron Weasley
@@ -8251,6 +8248,9 @@ Ron Weasley,Pigwidgeon,Crookshanks
 Ron Weasley,Pigwidgeon,Harry Potter
 Ron Weasley,Pigwidgeon,Harry Potter
 Ron Weasley,Pigwidgeon,Hedwig,Harry Potter
+Ron Weasley,Professor Binns
+Ron Weasley,Professor Binns
+Ron Weasley,Professor Binns
 Ron Weasley,Professor Flitwick
 Ron Weasley,Professor Flitwick
 Ron Weasley,Professor Flitwick
@@ -9083,9 +9083,8 @@ Skeeter,Mad-eye Moody,Sirius Black,Harry Potter,Mad-eye Moody
 Skeeter,Rita Skeeter
 Skeeter,Rubeus Hagrid
 Slytherin,Albus Dumbledore
-Slytherin,Albus Dumbledore,Dean Thomas,Alicia SpinnetProfessor Binns
-Slytherin,Alicia SpinnetProfessor Binns
-Slytherin,Alicia SpinnetProfessor Binns,Katie Bell
+Slytherin,Albus Dumbledore,Dean Thomas,Professor Binns
+Slytherin,Alicia Spinnet,Katie Bell
 Slytherin,Draco Malfoy
 Slytherin,Draco Malfoy,Angelina Johnson,Slytherin
 Slytherin,Draco Malfoy,Goyle
@@ -9115,6 +9114,7 @@ Slytherin,Katie Bell,Katie Bell
 Slytherin,Lee Jordan
 Slytherin,Lee Jordan
 Slytherin,Oliver Wood,Gryffindor
+Slytherin,Professor Binns
 Slytherin,Ravenclaw
 Slytherin,Ron Weasley
 Slytherin,Ron Weasley,Draco Malfoy
@@ -9331,7 +9331,7 @@ Vincent Crabbe,Draco Malfoy
 Vincent Crabbe,Draco Malfoy,Goyle,Scabbers,Hermione Granger
 Vincent Crabbe,Draco Malfoy,Harry Potter
 Vincent Crabbe,Draco Malfoy,Rubeus Hagrid
-Vincent Crabbe,George Weasley,Katie Bell,Katie Bell,Gryffindor,Alicia SpinnetProfessor Binns
+Vincent Crabbe,George Weasley,Katie Bell,Katie Bell,Gryffindor,Alicia Spinnet
 Vincent Crabbe,Goyle
 Vincent Crabbe,Goyle
 Vincent Crabbe,Goyle
