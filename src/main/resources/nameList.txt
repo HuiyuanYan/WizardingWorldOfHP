@@ -1,8 +1,8 @@
 Abbott:Abbott
 Albus:Albus Dumbledore
 Albus Dumbledore:Albus Dumbledore
-Alicia:Alicia SpinnetProfessor Binns
-Alicia SpinnetProfessor Binns:Alicia SpinnetProfessor Binns
+Alicia:Alicia Spinnet
+Alicia Spinnet:Alicia Spinnet
 Amos:Amos Diggory
 Amos Diggory:Amos Diggory
 Angelina:Angelina Johnson
@@ -18,7 +18,7 @@ Bertha:Bertha Jorkins
 Bertha Jorkins:Bertha Jorkins
 Bill:Bill Weasley
 Bill Weasley:Bill Weasley
-Binns:Alicia SpinnetProfessor Binns
+Binns:Professor Binns
 Black:Sirius Black
 Bloody:Bloody Baron
 Bloody Baron:Bloody Baron
@@ -183,6 +183,7 @@ Pigwidgeon:Pigwidgeon
 Pince:Madam Pince
 Pomfrey:Madam Pomfrey
 Potter:Harry Potter
+Professor Binns:Professor Binns
 Professor Flitwick:Professor Flitwick
 Professor Grubbly-Plank:Professor Grubbly-Plank
 Professor Lupin:Professor Lupin
@@ -220,7 +221,7 @@ Sirius Black:Sirius Black
 Skeeter:Skeeter
 Slytherin:Slytherin
 Snape:Professor Severus Snape
-SpinnetProfessor:Alicia SpinnetProfessor Binns
+SpinnetProfessor:Alicia Spinnet
 Sprout:Professor Sprout
 Thomas:Thomas
 Tom:Tom Riddle
