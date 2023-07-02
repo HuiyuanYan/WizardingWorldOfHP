@@ -106,12 +106,9 @@ public class task5Mapper
 
         //读取配置
         conf = context.getConfiguration();
+        System.err.println(conf.getStrings("preLabelInfoPath")[0]);
         readNodeLabel(conf.getStrings("preLabelInfoPath")[0],FileSystem.get(conf));
         readConf();
-        System.out.println("TableInfo:");
-        System.out.println(this.labelInfo);
-        System.out.println(this.nodeInfluence);
-        System.out.println(this.nodeNeighborWeight);
 
         //初始化Counter
         context.getCounter(CountersEnum.UPDATE_LABEL_NUM).setValue(0);
@@ -125,12 +122,10 @@ public class task5Mapper
      * @author Yan
      * @date 2023/7/1 上午1:13
      */
-    private String updateLable(String node,String isEdge,String oldLabel)
+    private String updateLabel(String node,String isEdge,String oldLabel)
     {
-        System.out.println("node = "+node);
-        System.out.println("isEdge = "+isEdge);
-        System.out.println("oldLabel = "+oldLabel);
-        if((handleEdge == true && isEdge == "N") || (handleEdge == false && isEdge == "Y"))
+
+        if((handleEdge && isEdge.equals("N")) || (!handleEdge && isEdge.equals("Y")))
         {
             //如果要求处理边缘节点，但节点是非边缘节点，或要求处理非边缘节点，但节点是边缘节点，不更新标签
             return oldLabel;
@@ -139,11 +134,11 @@ public class task5Mapper
         //相邻标签组对该节点的影响
         Hashtable<String,Double>labelInfluence = new Hashtable<>();
 
-        if(oldLabel != "N")
+        //将自己的标签放入
+        if(!oldLabel.equals("N"))
         {
             labelInfluence.put(oldLabel,nodeInfluence.get(node));
         }
-
 
         //读取该节点的邻居和权重信息
         String nodeInfo = nodeNeighborWeight.get(node);
@@ -153,9 +148,9 @@ public class task5Mapper
         {
             String[] pair = s.split("@");
             String neighborLabel = labelInfo.get(pair[0]);
-            if(neighborLabel!= "N")
+            if(!neighborLabel.equals("N"))
             {
-                Double influence;
+                double influence;
                 if(labelInfluence.containsKey(neighborLabel)) {
                     influence = labelInfluence.get(neighborLabel) +
                             nodeInfluence.get(pair[0]) * Double.parseDouble(pair[1]);
@@ -168,8 +163,8 @@ public class task5Mapper
         }
 
         //将labelInfluence最大的那一个label作为新label
-        if(labelInfluence.isEmpty() || labelInfluence.size()==1)
-        {//如果字典中没有值（说明原标签为空，且其所有邻居标签为空）或只有一个值（说明原标签不为空，所有邻居标签为空），则返回原标签。
+        if(labelInfluence.isEmpty())
+        {//如果字典中没有值（其所有邻居标签为空，则返回原标签。
             return oldLabel;
         }
         else {
@@ -200,15 +195,14 @@ public class task5Mapper
             String[] strings = line.split("#");//node,isEdge,oldLabel
 
             //用更新算法获取新标签
-            String newLabel = updateLable(strings[0],strings[1],strings[2]);
+            String newLabel = updateLabel(strings[0],strings[1],strings[2]);
             String newLabelInfo = strings[0]+"#"+strings[1]+"#"+newLabel;
             //oldLabel != newLabel，发生了更新
-            if(strings[2] != newLabel)
+            if(!strings[2].equals(newLabel))
             {
                 context.getCounter(CountersEnum.UPDATE_LABEL_NUM).increment(1);
             }
             text.set(newLabelInfo);
-            System.out.println("NewLabelInfo = "+newLabelInfo);
             context.write(text,NullWritable.get());
 
 

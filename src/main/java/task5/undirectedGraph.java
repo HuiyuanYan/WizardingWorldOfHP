@@ -75,6 +75,8 @@ public class undirectedGraph {
         //K-core算法，每次递归删除k(从1到K-1)度节点，并更新删除节点k值
         for(int k=1;k<K;k+=1)
         {
+            if(adjacencyMapCopy.isEmpty())
+                break;
             System.out.println("k="+String.valueOf(k));
             Set<String> nodesToRemove = new HashSet<>();
             //递归删除，直至删除后的图中再无k度节点
@@ -86,7 +88,7 @@ public class undirectedGraph {
                     String node = entry.getKey();
                     Set<String> neighbors = entry.getValue();
 
-                    if (neighbors.size() == k && !nodesToRemove.contains(node)) {
+                    if (neighbors.size() <= k && !nodesToRemove.contains(node)) {
                         //更新被删除节点的k值
                         nodeKValueMap.put(node,k);
                         nodesToRemove.add(node);
