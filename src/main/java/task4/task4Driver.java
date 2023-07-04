@@ -18,7 +18,7 @@ public class task4Driver {
         GenericOptionsParser optionParser = new GenericOptionsParser(confInit, args);
         String[] remainingArgs = optionParser.getRemainingArgs();
         if ((remainingArgs.length != 2)) {
-            System.err.println("Usage: HPTask1 <nameList_path> <in_path> <out_path>");
+            System.err.println("Usage: HPTask4 <cache_path> <in_path> <out_path>");
             System.exit(2);
         }
         //第一阶段
@@ -34,12 +34,13 @@ public class task4Driver {
         jobInit.setOutputKeyClass(Text.class);
         jobInit.setOutputValueClass(DoubleWritable.class);
 
-        FileInputFormat.setInputPaths(jobInit, new Path(input));
+        FileInputFormat.addInputPaths(jobInit, input);
         FileOutputFormat.setOutputPath(jobInit, new Path(output));
 
         jobInit.waitForCompletion(true);
 
-        String weightPath = output+"/part-r-00000";
+        String weightPath = output;
+
         //拿到统计源网页个数的计数器 并源网页总数
         Counter counterInit = jobInit.getCounters().getGroup("myCounter").findCounter("webNum");
         Long webNum = counterInit.getValue();
@@ -61,15 +62,17 @@ public class task4Driver {
             FileInputFormat.setInputPaths(job, new Path(input));
             FileOutputFormat.setOutputPath(job, new Path(output+index));
 
+            weightPath=weightPath+"/part-r-00000";
+            //weightPath = java.net.URLDecoder.decode(weightPath, "utf-8");
+            //Thread.sleep(2500);
+            job.addCacheFile(new Path(weightPath).toUri());
+//            URI[] uris = job.getCacheFiles();
+//            if(uris != null)
+//                for(int i=0;i<uris.length;i++){
+//                    System.out.println(uris[i].getPath().toString());
+//                }
 
-            job.addCacheFile(new URI(weightPath));
-            URI[] uris = job.getCacheFiles();
-            if(uris != null)
-                for(int i=0;i<uris.length;i++){
-                    System.out.println(uris[i].getPath().toString());
-                }
-
-            weightPath = output+index+"/part-r-00000";
+            weightPath = output+index;
 
             job.waitForCompletion(true);
 
@@ -78,7 +81,7 @@ public class task4Driver {
             Counter counter = job.getCounters().getGroup("myCounter").findCounter("constringency");
             Long constringency = counter.getValue();
             //当所有网页都收敛时，迭代结束
-            if(webNum == constringency){
+            if(webNum.equals(constringency)){
                 break;
             }else{
                 index++;

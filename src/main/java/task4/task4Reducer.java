@@ -31,8 +31,10 @@ public class task4Reducer extends Reducer<Text, DoubleWritable, Text, DoubleWrit
     protected void reduce(Text key, Iterable<DoubleWritable> values,Context context)
             throws IOException, InterruptedException {
         double tempWeight = 0;
-        double oldWeight = Double.parseDouble(key.toString().split(":")[1]);
-        k.set(key.toString().split(":")[0]);
+        String []it=key.toString().split(":");
+        double oldWeight = Double.parseDouble(it[1]);
+        it[0]+='|';
+        k.set(it[0]);
         for(DoubleWritable value : values){
             tempWeight += value.get();
         }

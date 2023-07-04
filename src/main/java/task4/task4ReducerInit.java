@@ -26,6 +26,7 @@ public class task4ReducerInit extends Reducer<Text, Text, Text, DoubleWritable>{
         }
 
         for(String value : newValues){
+            value+='|';
             k.set(value.toString());
             v.set( 1.0/n);
             context.write(k, v);

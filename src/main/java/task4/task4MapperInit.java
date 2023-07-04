@@ -24,7 +24,7 @@ public class task4MapperInit extends Mapper<LongWritable, Text, Text, Text>{
         counter = context.getCounter("myCounter", "webNum");
         counter.increment(1L);
         String line = value.toString();
-        String name = line.split("[")[0];
+        String name = line.split("\\[")[0];
         v.set(name);
         context.write(k, v);
 

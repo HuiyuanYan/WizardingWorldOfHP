@@ -1,5 +1,7 @@
 package task4;
 
+import org.apache.commons.lang3.StringUtils;
+import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -30,18 +32,26 @@ public class task4Mapper extends
     protected void setup(Context context) throws IOException,
             InterruptedException {
         //拿到缓存文件数组
-        URI[] uris = context.getCacheFiles();
+        //URI[] uris = context.getCacheFiles();
         //往缓存文件上兑一根输入流
-        BufferedReader br = new BufferedReader(new InputStreamReader(
-                new FileInputStream(uris[0].getPath().toString())));
 
-        String line;line = br.readLine();
-        while (!line.isEmpty()) {
-            String field[] = line.split("\t");
-            weightMap.put(field[0], field[1]);
-            line = br.readLine();
+//        BufferedReader br = new BufferedReader(new InputStreamReader(
+//                new FileInputStream(uris[0].getPath().toString())));
+        URI uri=context.getCacheFiles()[0];
+        Path itpath=new Path(uri.getPath());
+        String filename=itpath.getName().toString();
+        BufferedReader br=new BufferedReader(new FileReader(filename));
+        String line;
+
+        while ((line = br.readLine()) != null) {
+            String []field = line.split("\\|");
+            weightMap.put(field[0].split("\t")[0], field[1]);
+            System.out.println(field[0].split("\t")[0]+":"+field[1]);
         }
-
+//        while (StringUtils.isNotEmpty(line = br.readLine())) {
+//            String []field = line.split("\t");
+//            weightMap.put(field[0], field[1]);
+//        }
         br.close();
     }
 
@@ -49,13 +59,15 @@ public class task4Mapper extends
     protected void map(LongWritable key, Text value, Context context)
             throws IOException, InterruptedException {
         String line = value.toString();
-        String[] resource_links = line.split("[");
-        String resource = resource_links[0];
-        String[] links = resource_links[1].split("//|");
+        String[] resource_links = line.split("\\[");
+        String resource = resource_links[0].split("\t")[0];
+        String houmian=resource_links[1].substring(0,resource_links[1].length()-1);
+        String[] links = houmian.split("\\|");
         boolean containRes = false;//记录是否存在链接到角色自身的链接
 
         int linkNum = links.length;	//源网页中所有链接网页的数量
-        double sourceWeight = Double.parseDouble(weightMap.get(resource));	//该角色权值
+        double sourceWeight;
+        sourceWeight= Double.parseDouble(weightMap.get(resource));	//该角色当前权值
         //在源网页之中的所有链接网页的“当前”权值都一样
         //double partLinkWeight = (1.0 / linkNum) * sourceWeight;
 
@@ -67,13 +79,22 @@ public class task4Mapper extends
 
             // 键为  <name：上一轮的pagerank,new pagerank
             //这样做的目的是为了新、老权值的变化，从而判断迭代是否完成
+            double it=Double.parseDouble(units[1]);
+            it*=sourceWeight;
+            if(!weightMap.containsKey(units[0])){
+                System.out.println(units[0]+"No found");
+                System.out.println(weightMap.get(units[0])+"?");
+                continue;
+            }
+            System.out.println(weightMap.get(units[0]));
             context.write(new Text(units[0] + ":" + weightMap.get(units[0])),
-                    new DoubleWritable(Double.parseDouble(units[1])));
+                    new DoubleWritable(it));
         }
         // 若网页的链接目标中没有本身，则输出<角色名字:pagerank,0.0> 以防丢失
-        if (!containRes)
-            context.write(
-                    new Text(resource + ":"+ sourceWeight),
-                    new DoubleWritable(0.0));
+//        String its=String.valueOf(sourceWeight);
+//        if (!containRes)
+//            context.write(
+//                    new Text(resource + ":"+ its),
+//                    new DoubleWritable(0.0));
     }
 }

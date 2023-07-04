@@ -1,0 +1,74 @@
+2023-07-02 17:18:00  [ main:1 ] - [ DEBUG ]  Failed to detect a valid hadoop home directory
+java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:520)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:491)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:568)
+	at org.apache.hadoop.util.GenericOptionsParser.preProcessForWindows(GenericOptionsParser.java:529)
+	at org.apache.hadoop.util.GenericOptionsParser.parseGeneralOptions(GenericOptionsParser.java:580)
+	at org.apache.hadoop.util.GenericOptionsParser.<init>(GenericOptionsParser.java:182)
+	at org.apache.hadoop.util.GenericOptionsParser.<init>(GenericOptionsParser.java:164)
+	at task4.task4Driver.main(task4Driver.java:18)
+2023-07-02 17:18:00  [ main:245 ] - [ DEBUG ]  setsid exited with exit code 0
+2023-07-02 17:18:00  [ main:677 ] - [ DEBUG ]  field org.apache.hadoop.metrics2.lib.MutableRate org.apache.hadoop.security.UserGroupInformation$UgiMetrics.getGroups with annotation @org.apache.hadoop.metrics2.annotation.Metric(sampleName=Ops, always=false, valueName=Time, about=, interval=10, type=DEFAULT, value=[GetGroups])
+2023-07-02 17:18:00  [ main:690 ] - [ DEBUG ]  field org.apache.hadoop.metrics2.lib.MutableRate org.apache.hadoop.security.UserGroupInformation$UgiMetrics.loginFailure with annotation @org.apache.hadoop.metrics2.annotation.Metric(sampleName=Ops, always=false, valueName=Time, about=, interval=10, type=DEFAULT, value=[Rate of failed kerberos logins and latency (milliseconds)])
+2023-07-02 17:18:00  [ main:691 ] - [ DEBUG ]  field org.apache.hadoop.metrics2.lib.MutableRate org.apache.hadoop.security.UserGroupInformation$UgiMetrics.loginSuccess with annotation @org.apache.hadoop.metrics2.annotation.Metric(sampleName=Ops, always=false, valueName=Time, about=, interval=10, type=DEFAULT, value=[Rate of successful kerberos logins and latency (milliseconds)])
+2023-07-02 17:18:00  [ main:692 ] - [ DEBUG ]  field private org.apache.hadoop.metrics2.lib.MutableGaugeInt org.apache.hadoop.security.UserGroupInformation$UgiMetrics.renewalFailures with annotation @org.apache.hadoop.metrics2.annotation.Metric(sampleName=Ops, always=false, valueName=Time, about=, interval=10, type=DEFAULT, value=[Renewal failures since last successful login])
+2023-07-02 17:18:00  [ main:692 ] - [ DEBUG ]  field private org.apache.hadoop.metrics2.lib.MutableGaugeLong org.apache.hadoop.security.UserGroupInformation$UgiMetrics.renewalFailuresTotal with annotation @org.apache.hadoop.metrics2.annotation.Metric(sampleName=Ops, always=false, valueName=Time, about=, interval=10, type=DEFAULT, value=[Renewal failures since startup])
+2023-07-02 17:18:00  [ main:693 ] - [ DEBUG ]  UgiMetrics, User and group related metrics
+2023-07-02 17:18:00  [ main:722 ] - [ DEBUG ]  Setting hadoop.security.token.service.use_ip to true
+2023-07-02 17:18:00  [ main:754 ] - [ DEBUG ]   Creating new Groups object
+2023-07-02 17:18:00  [ main:755 ] - [ DEBUG ]  Trying to load the custom-built native-hadoop library...
+2023-07-02 17:18:00  [ main:757 ] - [ DEBUG ]  Failed to load native-hadoop with error: java.lang.UnsatisfiedLinkError: no hadoop in java.library.path
+2023-07-02 17:18:00  [ main:757 ] - [ DEBUG ]  java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2023-07-02 17:18:00  [ main:757 ] - [ WARN ]  Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2023-07-02 17:18:00  [ main:758 ] - [ DEBUG ]  Falling back to shell based
+2023-07-02 17:18:00  [ main:759 ] - [ DEBUG ]  Group mapping impl=org.apache.hadoop.security.ShellBasedUnixGroupsMapping
+2023-07-02 17:18:00  [ main:789 ] - [ DEBUG ]  Group mapping impl=org.apache.hadoop.security.JniBasedUnixGroupsMappingWithFallback; cacheTimeout=300000; warningDeltaMs=5000
+2023-07-02 17:18:00  [ main:804 ] - [ DEBUG ]  Hadoop login
+2023-07-02 17:18:00  [ main:810 ] - [ DEBUG ]  hadoop login commit
+2023-07-02 17:18:00  [ main:814 ] - [ DEBUG ]  Using local user: UnixPrincipal: joe
+2023-07-02 17:18:00  [ main:818 ] - [ DEBUG ]  Using user: "UnixPrincipal: joe" with name: joe
+2023-07-02 17:18:00  [ main:818 ] - [ DEBUG ]  User entry: "joe"
+2023-07-02 17:18:00  [ main:825 ] - [ DEBUG ]  UGI loginUser: joe (auth:SIMPLE)
+2023-07-02 17:18:00  [ main:894 ] - [ DEBUG ]  Starting: Acquiring creator semaphore for file:///
+2023-07-02 17:18:00  [ main:896 ] - [ DEBUG ]  Acquiring creator semaphore for file:///: duration 0:00.002s
+2023-07-02 17:18:00  [ main:903 ] - [ DEBUG ]  Starting: Creating FS file:///
+2023-07-02 17:18:00  [ main:904 ] - [ DEBUG ]  Loading filesystems
+2023-07-02 17:18:01  [ main:980 ] - [ DEBUG ]  file:// = class org.apache.hadoop.fs.LocalFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-common/3.3.5/hadoop-common-3.3.5.jar
+2023-07-02 17:18:01  [ main:1018 ] - [ DEBUG ]  viewfs:// = class org.apache.hadoop.fs.viewfs.ViewFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-common/3.3.5/hadoop-common-3.3.5.jar
+2023-07-02 17:18:01  [ main:1036 ] - [ DEBUG ]  har:// = class org.apache.hadoop.fs.HarFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-common/3.3.5/hadoop-common-3.3.5.jar
+2023-07-02 17:18:01  [ main:1043 ] - [ DEBUG ]  http:// = class org.apache.hadoop.fs.http.HttpFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-common/3.3.5/hadoop-common-3.3.5.jar
+2023-07-02 17:18:01  [ main:1045 ] - [ DEBUG ]  https:// = class org.apache.hadoop.fs.http.HttpsFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-common/3.3.5/hadoop-common-3.3.5.jar
+2023-07-02 17:18:01  [ main:1061 ] - [ DEBUG ]  hdfs:// = class org.apache.hadoop.hdfs.DistributedFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-hdfs-client/3.3.5/hadoop-hdfs-client-3.3.5.jar
+2023-07-02 17:18:01  [ main:1074 ] - [ DEBUG ]  webhdfs:// = class org.apache.hadoop.hdfs.web.WebHdfsFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-hdfs-client/3.3.5/hadoop-hdfs-client-3.3.5.jar
+2023-07-02 17:18:01  [ main:1075 ] - [ DEBUG ]  swebhdfs:// = class org.apache.hadoop.hdfs.web.SWebHdfsFileSystem from /home/joe/.m2/repository/org/apache/hadoop/hadoop-hdfs-client/3.3.5/hadoop-hdfs-client-3.3.5.jar
+2023-07-02 17:18:01  [ main:1075 ] - [ DEBUG ]  Looking for FS supporting file
+2023-07-02 17:18:01  [ main:1075 ] - [ DEBUG ]  looking for configuration option fs.file.impl
+2023-07-02 17:18:01  [ main:1127 ] - [ DEBUG ]  Looking in service filesystems for implementation class
+2023-07-02 17:18:01  [ main:1128 ] - [ DEBUG ]  FS for file is class org.apache.hadoop.fs.LocalFileSystem
+2023-07-02 17:18:01  [ main:1147 ] - [ DEBUG ]  Creating FS file:///: duration 0:00.244s
+2023-07-02 17:18:01  [ main:1183 ] - [ DEBUG ]  PrivilegedAction [as: joe (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$10@436a4e4b]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1896)
+	at org.apache.hadoop.mapreduce.Job.connect(Job.java:1643)
+	at org.apache.hadoop.mapreduce.Job.submit(Job.java:1672)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1696)
+	at task4.task4Driver.main(task4Driver.java:40)
+2023-07-02 17:18:01  [ main:1195 ] - [ DEBUG ]  PrivilegedActionException as: joe (auth:SIMPLE)
+java.io.IOException: Cannot initialize Cluster. Please check your configuration for mapreduce.framework.name and the correspond server addresses.
+	at org.apache.hadoop.mapreduce.Cluster.initialize(Cluster.java:116)
+	at org.apache.hadoop.mapreduce.Cluster.<init>(Cluster.java:109)
+	at org.apache.hadoop.mapreduce.Cluster.<init>(Cluster.java:102)
+	at org.apache.hadoop.mapreduce.Job$10.run(Job.java:1647)
+	at org.apache.hadoop.mapreduce.Job$10.run(Job.java:1643)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1899)
+	at org.apache.hadoop.mapreduce.Job.connect(Job.java:1643)
+	at org.apache.hadoop.mapreduce.Job.submit(Job.java:1672)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1696)
+	at task4.task4Driver.main(task4Driver.java:40)
+2023-07-02 17:18:01  [ shutdown-hook-0:1232 ] - [ DEBUG ]  FileSystem.close() by method: org.apache.hadoop.fs.FilterFileSystem.close(FilterFileSystem.java:529)); Key: (joe (auth:SIMPLE))@file://; URI: file:///; Object Identity Hash: 418a73ef
+2023-07-02 17:18:01  [ shutdown-hook-0:1233 ] - [ DEBUG ]  FileSystem.close() by method: org.apache.hadoop.fs.RawLocalFileSystem.close(RawLocalFileSystem.java:895)); Key: null; URI: file:///; Object Identity Hash: 4f4d95ae
+2023-07-02 17:18:01  [ Thread-3:1242 ] - [ DEBUG ]  Completed shutdown in 0.004 seconds; Timeouts: 0
+2023-07-02 17:18:01  [ Thread-3:1295 ] - [ DEBUG ]  ShutdownHookManager completed shutdown.
