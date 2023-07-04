@@ -1,0 +1,106 @@
+Alastor Moody#N#Harry Potter
+Albus Dumbledore#N#Albus Dumbledore
+Alicia Spinnet#N#Albus Dumbledore
+Amos Diggory#Y#Harry Potter
+Angelina Johnson#N#Albus Dumbledore
+Aragog#N#Rubeus Hagrid
+Bane#N#Professor Severus Snape
+Bertha Jorkins#Y#Professor Severus Snape
+Bill Weasley#N#Ron Weasley
+Bloody Baron#N#Harry Potter
+Buckbeak#N#Rubeus Hagrid
+Cedric Diggory#N#Harry Potter
+Charlie Weasley#N#Ron Weasley
+Cho Chang#N#Harry Potter
+Colin Creevey#N#Professor Severus Snape
+Cornelius Fudge#N#Albus Dumbledore
+Crookshanks#N#Ron Weasley
+Dean Thomas#N#Ron Weasley
+Dennis Creevey#Y#Ron Weasley
+Dobby#N#Harry Potter
+Draco Malfoy#N#Draco Malfoy
+Dudley Dursley#N#Harry Potter
+Dursley#N#Harry Potter
+Ernie Mcmillan#N#Albus Dumbledore
+Fang#N#Rubeus Hagrid
+Fat Friar#Y#Harry Potter
+Fawkes#Y#Ron Weasley
+Filch#N#Harry Potter
+Firenze#N#Professor Severus Snape
+Fleur Delacour#N#Ron Weasley
+Fluffy#Y#Harry Potter
+Fred Weasley#N#Harry Potter
+George Weasley#N#Harry Potter
+Gibleroy Lockhart#N#Professor Severus Snape
+Ginny Weasley#N#Harry Potter
+Godric Gryffindor#Y#Draco Malfoy
+Goyle#N#Draco Malfoy
+Griphook#Y#Rubeus Hagrid
+Gryffindor#N#Harry Potter
+Hannah Abbott#N#Albus Dumbledore
+Harry Potter#N#Harry Potter
+Headless#Y#Ron Weasley
+Hedwig#Y#Draco Malfoy
+Helga Hufflepuff#Y#Draco Malfoy
+Hermione Granger#N#Hermione Granger
+Hufflepuff#N#Harry Potter
+Igor Karkaroff#N#Professor Severus Snape
+James Potter#N#Professor Severus Snape
+Justin Finch-Fletchley#N#Albus Dumbledore
+Katie Bell#N#Albus Dumbledore
+Lavender Brown#N#Ron Weasley
+Lee Jordan#N#Harry Potter
+Lily Potter#Y#Harry Potter
+Ludo Bagman#N#Albus Dumbledore
+Madam Hooch#Y#Hermione Granger
+Madam Malkin#Y#Ron Weasley
+Madam Maxime#N#Rubeus Hagrid
+Madam Pince#Y#Draco Malfoy
+Madam Pomfrey#N#Hermione Granger
+Millicent Bulstrode#Y#Draco Malfoy
+Moaning Murtle#Y#Harry Potter
+Molly Weasley#Y#Hermione Granger
+Mr Crouch#N#Albus Dumbledore
+Mr Ollivander#Y#Ron Weasley
+Nearly Headless Nick#N#Albus Dumbledore
+Neville Longbottom#N#Harry Potter
+Nicolas Flamel#Y#Draco Malfoy
+Norbert#Y#Harry Potter
+Oliver Wood#N#Harry Potter
+Padma Patil#N#Albus Dumbledore
+Pansy Parkinson#N#Draco Malfoy
+Parvati Patil#N#Albus Dumbledore
+Peeves#N#Harry Potter
+Penelop Clearwater#Y#Ron Weasley
+Percy Weasley#N#Ron Weasley
+Peter Pettigrew#N#Voldemort
+Petunia Dursley#N#Harry Potter
+Pigwidgeon#Y#Albus Dumbledore
+Professor Binns#Y#Harry Potter
+Professor Flitwick#N#Draco Malfoy
+Professor Grubbly-Plank#N#Rubeus Hagrid
+Professor Lupin#N#Harry Potter
+Professor Minerva Mcgonagall#Y#Rubeus Hagrid
+Professor Severus Snape#N#Professor Severus Snape
+Professor Sinistra#Y#Hermione Granger
+Professor Sprout#N#Draco Malfoy
+Professor Trelawney#N#Albus Dumbledore
+Ravenclaw#N#Harry Potter
+Rita Skeeter#N#Rubeus Hagrid
+Roger Davis#Y#Hermione Granger
+Ron Weasley#N#Ron Weasley
+Ronan#Y#Professor Severus Snape
+Rowena Ravenclaw#Y#Draco Malfoy
+Rubeus Hagrid#N#Rubeus Hagrid
+Salazar Slytherin#N#Draco Malfoy
+Scabbers#N#Ron Weasley
+Seamus Finnigan#N#Ron Weasley
+Sir Cadogan#Y#Harry Potter
+Sirius Black#N#Harry Potter
+Slytherin#N#Harry Potter
+Tom Riddle#N#Albus Dumbledore
+Vernon Dursley#N#Harry Potter
+Viktor Krum#N#Hermione Granger
+Vincent Crabbe#N#Draco Malfoy
+Voldemort#N#Voldemort
+Winky#N#Harry Potter

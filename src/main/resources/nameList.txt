@@ -63,7 +63,7 @@ Fat:Fat Friar
 Fat Friar:Fat Friar
 Fawkes:Fawkes
 Filch:Filch
-Finch-Fletchley:Finch-Fletchley
+Finch-Fletchley:Justin Finch-Fletchley
 Finnigan:Seamus Finnigan
 Firenze:Firenze
 Flamel:Nicolas Flamel
@@ -125,8 +125,8 @@ Longbottom:Neville Longbottom
 Ludo:Ludo Bagman
 Ludo Bagman:Ludo Bagman
 Lupin:Professor Lupin
-Mad-eye:Mad-eye Moody
-Mad-eye Moody:Mad-eye Moody
+Mad-eye:Alastor Moody
+Mad-eye Moody:Alastor Moody
 Madam Hooch:Madam Hooch
 Madam Malkin:Madam Malkin
 Madam Maxime:Madam Maxime
@@ -144,8 +144,8 @@ Moaning:Moaning Murtle
 Moaning Murtle:Moaning Murtle
 Molly:Molly Weasley
 Molly Weasley:Molly Weasley
-Moody:Mad-eye Moody
-Moony:Moony
+Moody:Alastor Moody
+Moony:Professor Lupin
 Mr Crouch:Mr Crouch
 Mr Ollivander:Mr Ollivander
 Murtle:Moaning Murtle
@@ -160,7 +160,7 @@ Norbert:Norbert
 Oliver:Oliver Wood
 Oliver Wood:Oliver Wood
 Ollivander:Mr Ollivander
-Padfoot:Padfoot
+Padfoot:Sirius Black
 Padma:Padma Patil
 Padma Patil:Padma Patil
 Pansy:Pansy Parkinson
@@ -193,7 +193,7 @@ Professor Severus Snape:Professor Severus Snape
 Professor Sinistra:Professor Sinistra
 Professor Sprout:Professor Sprout
 Professor Trelawney:Professor Trelawney
-Prongs:Prongs
+Prongs:James Potter
 Quirrel:Professor Quirrel
 Ravenclaw:Ravenclaw
 Riddle:Tom Riddle
@@ -218,12 +218,12 @@ Sinistra:Professor Sinistra
 Sir Cadogan:Sir Cadogan
 Sirius:Sirius Black
 Sirius Black:Sirius Black
-Skeeter:Skeeter
+Skeeter:Rita Skeeter
 Slytherin:Slytherin
 Snape:Professor Severus Snape
 SpinnetProfessor:Alicia Spinnet
 Sprout:Professor Sprout
-Thomas:Thomas
+Thomas:Dean Thomas
 Tom:Tom Riddle
 Tom Riddle:Tom Riddle
 Trelawney:Professor Trelawney
@@ -237,4 +237,4 @@ Voldemort:Voldemort
 Weasley:Ron Weasley
 Winky:Winky
 Wood:Oliver Wood
-Wormtail:Wormtail
+Wormtail:Peter Pettigrew
