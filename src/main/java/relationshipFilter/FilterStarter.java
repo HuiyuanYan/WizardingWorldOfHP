@@ -16,9 +16,6 @@ public class FilterStarter {
     private static DirectedGraph readGraph1(String filePath, FileSystem fileSystem)
     {
         DirectedGraph graph = new DirectedGraph();
-
-
-
         try {
             FileStatus[] fileStatuses = fileSystem.listStatus(new Path(filePath));
             for(FileStatus fileStatus :fileStatuses){
