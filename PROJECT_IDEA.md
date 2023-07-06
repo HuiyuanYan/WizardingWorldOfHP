@@ -1,9 +1,6 @@
 # 项目实现思路及细节
 
 ## task1
-这是一个插入图片的例子：
-![Hadoop](picture/task1/hadoop.jpg)
-把图片放置到对应的文件夹，然后像上面的方式引入。
 ### 1.nameList处理
 
 //TODO: 添加思路

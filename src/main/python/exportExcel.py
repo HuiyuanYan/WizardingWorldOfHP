@@ -13,12 +13,12 @@ output_edge_path = 'output/excel/edges.xlsx'
 output_weight = True
 
 # 同一标签节点之间的边加权权值
-same_label_weight_low = 20
+same_label_weight_low = 30
 same_label_weight_high = 30
 
 # 不同标签节点之间的边加权权值
-diff_label_weight_low = 1
-diff_label_weight_high = 5
+diff_label_weight_low = 3
+diff_label_weight_high = 3
 # 读取节点标签文本文件，生成节点 DataFrame
 node_label_dict = dict()
 nodes_data = []

@@ -1,3 +1,8 @@
-python3 src/main/python/exportExcel.py
+./exportExcel.sh
 
- #python3 src/main/python/drawGraph.py
+
+
+./exportNeo4j.sh
+
+
+./exportMD.sh
