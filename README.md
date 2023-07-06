@@ -52,8 +52,9 @@ mvn package
 |   task5   | 闫慧渊 |
  
 ## 2. 可视化任务
-
++ 词云生成：李尚旺
 + neo4j、gephi可视化图形展示： 闫慧渊
++ 人物信息、图片爬取：李尚旺 闫慧渊
 + obsidian+digital garden 网页展示： 李尚旺
 
 # 五、结果展示
