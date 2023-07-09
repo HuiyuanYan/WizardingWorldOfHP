@@ -85,6 +85,16 @@ if [ $? -ne 0 ]; then
 fi
 echo -e "${INFO}finished"
 
+# task4
+echo -e "${INFO}running task4"
+hadoop jar ${task4_jar_path} ${task3_output_path} ${task4_output_path}
+
+if [ $? -ne 0 ]; then
+  echo -e "${ERROR}failed"
+  exit 1
+fi
+echo -e "${INFO}finished"
+
 # filter
 echo -e "${INFO}running filter"
 hadoop jar ${filter_jar_path} ${task3_output_path} ${filter_output_path}
