@@ -17,7 +17,8 @@ mvn clean install
 ```
 下载所需依赖。
 
-然后修改`pom.xml`中的主类名，分别编译`src/java/main/java`下的六个软件包。（没有做多模块编译）
++ 方法1：
+修改`pom.xml`中的主类名，分别编译`src/java/main/java`下的六个软件包。（没有做多模块编译）
 
 软件包的名称设置分别为`run.sh`下的软件包路径，例如`WizardingWorldOfHPTask1-1.0-SNAPSHOT.jar`。
 
@@ -38,6 +39,14 @@ mvn package
 等待运行结束后，将relationshipsFilter和task5的输出复制到本项目对应output文件夹下，可运行 `runPython.sh`导出excel表格、本地neo4j数据库，和生成markdown文件。
 
 具体的路径、信息设置请查看 `src/main/python`下的脚本文件。
+
+
++ 方法2（一键式）：
+
+编译tasksDriver即可。
+
+运行参数为上传至hdfs的nameList（见src/main/resource）和dataSet。
+
 
 # 四、任务分工
 

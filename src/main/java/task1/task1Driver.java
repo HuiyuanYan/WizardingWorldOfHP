@@ -50,6 +50,5 @@ public class task1Driver {
         FileInputFormat.addInputPath(job, new Path(remainingArgs[1]));
         FileOutputFormat.setOutputPath(job, new Path(remainingArgs[2]));
         job.waitForCompletion(true);
-        System.exit(0);
     }
 }

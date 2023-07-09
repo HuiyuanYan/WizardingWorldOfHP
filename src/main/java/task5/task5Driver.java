@@ -324,6 +324,5 @@ public class task5Driver {
 
         //删除上一次迭代输出
         //FileSystem.get(conf).delete(new Path(labelInfoPath),true);
-        System.exit(0);
     }
 }

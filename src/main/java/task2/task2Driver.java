@@ -94,7 +94,6 @@ public class task2Driver {
         FileInputFormat.addInputPath(job, new Path(remainingArgs[0]));
         FileOutputFormat.setOutputPath(job, new Path(remainingArgs[1]));
         job.waitForCompletion(true);
-        System.exit(0);
     }
 
 }
