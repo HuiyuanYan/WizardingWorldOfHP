@@ -2,8 +2,9 @@ import pandas as pd
 import random
 
 # 输入路径
-input_label_path = 'output/task5/task5_ouput.txt'
+input_label_path = 'output/task5/task5_output.txt'
 input_graph_path = 'output/filter/filter_output.txt'
+
 
 # 输出路径
 output_node_path = 'output/excel/nodes.xlsx'

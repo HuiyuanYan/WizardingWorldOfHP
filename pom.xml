@@ -4,7 +4,7 @@
 
 
     <groupId>org.example</groupId>
-    <artifactId>WizardingWorldOfHPFilter</artifactId>
+    <artifactId>WizardingWorldOfHPTask4</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -40,7 +40,7 @@
                     <transformers>
                         <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                             <!-- main()所在的类，注意修改 -->
-                            <mainClass>relationshipFilter.FilterStarter</mainClass>
+                            <mainClass>task4.task4Driver</mainClass>
                         </transformer>
                     </transformers>
                 </configuration>
