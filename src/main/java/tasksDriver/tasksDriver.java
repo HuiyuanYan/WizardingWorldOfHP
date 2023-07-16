@@ -15,18 +15,19 @@ public class tasksDriver {
         Configuration conf = new Configuration();
         GenericOptionsParser optionParser = new GenericOptionsParser(conf, args);
         String[] remainingArgs = optionParser.getRemainingArgs();
-        if ((remainingArgs.length != 2)) {
-            System.err.println("Usage: HPTasks <nameList_path> <dataSet_path>");
+        if ((remainingArgs.length != 3)) {
+            System.err.println("Usage: HPTasks <nameList_path> <dataSet_path> <output_dir>");
             System.exit(2);
         }
 
+        String output_dir_path = remainingArgs[2];
         //在这里设置你的输出路径
-        String task1_output_path="/user/yhy/output1";
-        String task2_output_path="/user/yhy/output2";
-        String task3_output_path="/user/yhy/output3";
-        String task4_output_path="/user/yhy/output4";
-        String filter_output_path="/user/yhy/filterOutput";
-        String task5_output_path="/user/yhy/output5";
+        String task1_output_path=output_dir_path+"output1";
+        String task2_output_path=output_dir_path+"output2";
+        String task3_output_path=output_dir_path+"output3";
+        String task4_output_path=output_dir_path+"output4";
+        String filter_output_path=output_dir_path+"filterOutput";
+        String task5_output_path=output_dir_path+"output5";
 
         task1Driver driver1 = new task1Driver();
         task2Driver driver2 = new task2Driver();
@@ -61,12 +62,12 @@ public class tasksDriver {
 
         String[] paramFilter = {task3_output_path,filter_output_path};
         System.out.println(infoStr + "running filter...");
-        filterStarter.main(param4);
+        filterStarter.main(paramFilter);
         System.out.println("filter finished");
 
         String[] param5 = {filter_output_path,task5_output_path};
         System.out.println(infoStr + "running task5...");
-        driver5.main(param4);
+        driver5.main(param5);
         System.out.println("task5 finished");
 
         System.out.println(infoStr + "all task finished");
